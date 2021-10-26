@@ -7,7 +7,7 @@
 #include <mpi.h>
 
 #define PI 3.141592653589793238463
-#define S 250 // chunk size
+#define S 100 // chunk size
 #define SOLUTION 4 * PI / 3
 #define P 2*2*2
 
@@ -112,24 +112,30 @@ void master(double eps, int n, ChunkRand* cr, std::ofstream& error_file){
             if (std::abs(SOLUTION - P * sum / p) <= eps)
                 break;
 
-            if (!buf.empty()){
-                error_file << "pop buf" << std::endl;
-                copy_chunk(buf.pop(), chunks[index]);
-            } else {
-                error_file << "gen by myself" << std::endl;
-                cr->get_random_chunk(chunks[index], S);
+            MPI_Test(&sends[index], &flag, &status);
+            if (flag) {
+                error_file << "send> " << index << std::endl;
+
+                if (!buf.empty()){
+                    error_file << "pop buf" << std::endl;
+                    copy_chunk(buf.pop(), chunks[index]);
+                } else {
+                    error_file << "gen by myself" << std::endl;
+                    cr->get_random_chunk(chunks[index], S);
+                }
+
+                MPI_Isend(chunks[index], S * 3, MPI_DOUBLE, index + 1, 0, MPI_COMM_WORLD, &sends[index]);
             }
 
-            MPI_Isend(chunks[index], S * 3, MPI_DOUBLE, index + 1, 0, MPI_COMM_WORLD, &sends[index]);
             MPI_Irecv(&sums[index], 1, MPI_DOUBLE, index + 1, 1, MPI_COMM_WORLD, &recvs[index]);
 
             std::flush(error_file);
-            break;
+            continue;
         }
-/*
+
         MPI_Testany(n, sends, &index, &flag, &status);
         if (flag) {
-            error_file << "send more\n";
+            error_file << "send more> " << index << std::endl;
             if (!buf.empty()){
                 error_file << "pop buf" << std::endl;
                 copy_chunk(buf.pop(), chunks[index]);
@@ -139,9 +145,8 @@ void master(double eps, int n, ChunkRand* cr, std::ofstream& error_file){
             }
 
             MPI_Isend(chunks[index], S * 3, MPI_DOUBLE, index + 1, 0, MPI_COMM_WORLD, &sends[index]);
-            break;
+            continue;
         }
-*/
 
         error_file << "fill buf: " << buf.get_head()+1 << std::endl;
         buf.gen();
@@ -193,7 +198,7 @@ void slave(int rank, std::ofstream& error_file){
         MPI_Irecv(chunk, S * 3, MPI_DOUBLE, 0, 0, MPI_COMM_WORLD, &recv);
 
         //compute
-        for (int j = 0; j < 1000; ++j) {
+        for (int j = 0; j < 500; ++j) {
         sum = 0;
         for (int i = 0; i < S; ++i) {
             if (chunk[3*i+1] * chunk[3*i+1] + chunk[3*i+2] * chunk[3*i+2] <= 1) {
