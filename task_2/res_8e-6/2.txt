@@ -1,0 +1,3081 @@
+fill buf: 0
+full: sum=54.6329, p=100, sol=4.37063, var=0.181839
+send> 0
+pop buf
+fill buf: 0
+full: sum=102.235, p=200, sol=4.08938, var=0.0994053
+send> 0
+pop buf
+fill buf: 0
+full: sum=161.837, p=300, sol=4.31566, var=0.126871
+send> 0
+pop buf
+fill buf: 0
+full: sum=210.697, p=400, sol=4.21394, var=0.0251449
+send> 0
+pop buf
+fill buf: 0
+full: sum=267.719, p=500, sol=4.2835, var=0.0947109
+send> 0
+pop buf
+fill buf: 0
+full: sum=319.093, p=600, sol=4.25457, var=0.0657801
+send> 0
+pop buf
+fill buf: 0
+full: sum=375.622, p=700, sol=4.29282, var=0.104033
+send> 0
+pop buf
+fill buf: 0
+full: sum=429.445, p=800, sol=4.29445, var=0.105663
+send> 0
+pop buf
+fill buf: 0
+full: sum=475.798, p=900, sol=4.22931, var=0.0405245
+send> 0
+pop buf
+fill buf: 0
+full: sum=529.796, p=1000, sol=4.23836, var=0.0495738
+send> 0
+pop buf
+fill buf: 0
+full: sum=586.331, p=1100, sol=4.26423, var=0.0754368
+send> 0
+pop buf
+fill buf: 0
+full: sum=639.152, p=1200, sol=4.26101, var=0.0722247
+send> 0
+pop buf
+fill buf: 0
+full: sum=695.477, p=1300, sol=4.27986, var=0.0910697
+send> 0
+pop buf
+fill buf: 0
+full: sum=755.783, p=1400, sol=4.31876, var=0.129971
+send> 0
+pop buf
+fill buf: 0
+full: sum=810.001, p=1500, sol=4.32001, var=0.131217
+send> 0
+pop buf
+fill buf: 0
+full: sum=865.269, p=1600, sol=4.32634, var=0.137554
+send> 0
+pop buf
+fill buf: 0
+full: sum=915.105, p=1700, sol=4.30638, var=0.117587
+send> 0
+pop buf
+fill buf: 0
+full: sum=963.825, p=1800, sol=4.28367, var=0.0948769
+send> 0
+pop buf
+fill buf: 0
+full: sum=1013.94, p=1900, sol=4.26923, var=0.0804423
+send> 0
+pop buf
+fill buf: 0
+full: sum=1064.93, p=2000, sol=4.2597, var=0.070912
+send> 0
+pop buf
+fill buf: 0
+full: sum=1116.87, p=2100, sol=4.25474, var=0.06595
+send> 0
+pop buf
+fill buf: 0
+full: sum=1168.07, p=2200, sol=4.24753, var=0.0587364
+send> 0
+pop buf
+fill buf: 0
+full: sum=1221.85, p=2300, sol=4.24991, var=0.0611238
+send> 0
+pop buf
+fill buf: 0
+full: sum=1272.81, p=2400, sol=4.24271, var=0.0539197
+send> 0
+pop buf
+fill buf: 0
+full: sum=1326.7, p=2500, sol=4.24543, var=0.0566366
+send> 0
+pop buf
+fill buf: 0
+full: sum=1376.05, p=2600, sol=4.23399, var=0.0452019
+send> 0
+pop buf
+fill buf: 0
+full: sum=1425.25, p=2700, sol=4.22296, var=0.0341716
+send> 0
+pop buf
+fill buf: 0
+full: sum=1479.16, p=2800, sol=4.22616, var=0.0373687
+send> 0
+pop buf
+fill buf: 0
+full: sum=1530.54, p=2900, sol=4.22219, var=0.0334001
+send> 0
+pop buf
+fill buf: 0
+full: sum=1581.85, p=3000, sol=4.21826, var=0.0294679
+send> 0
+pop buf
+fill buf: 0
+full: sum=1640.11, p=3100, sol=4.23255, var=0.0437609
+send> 0
+pop buf
+fill buf: 0
+full: sum=1690.22, p=3200, sol=4.22555, var=0.0367642
+send> 0
+pop buf
+fill buf: 0
+full: sum=1749.02, p=3300, sol=4.24006, var=0.0512702
+send> 0
+pop buf
+fill buf: 0
+full: sum=1804.11, p=3400, sol=4.24496, var=0.0561678
+send> 0
+pop buf
+fill buf: 0
+full: sum=1850.93, p=3500, sol=4.23069, var=0.0419044
+send> 0
+pop buf
+fill buf: 0
+full: sum=1906.89, p=3600, sol=4.23753, var=0.0487379
+send> 0
+pop buf
+fill buf: 0
+full: sum=1957.44, p=3700, sol=4.23231, var=0.0435233
+send> 0
+pop buf
+fill buf: 0
+full: sum=2010.12, p=3800, sol=4.23184, var=0.0430448
+send> 0
+pop buf
+fill buf: 0
+full: sum=2061.19, p=3900, sol=4.22808, var=0.0392947
+send> 0
+pop buf
+fill buf: 0
+full: sum=2111.53, p=4000, sol=4.22307, var=0.0342753
+send> 0
+pop buf
+fill buf: 0
+full: sum=2165.51, p=4100, sol=4.22538, var=0.0365904
+send> 0
+pop buf
+fill buf: 0
+full: sum=2221.17, p=4200, sol=4.23081, var=0.0420182
+send> 0
+pop buf
+fill buf: 0
+full: sum=2280.1, p=4300, sol=4.24204, var=0.0532507
+send> 0
+pop buf
+fill buf: 0
+full: sum=2330.48, p=4400, sol=4.23723, var=0.0484396
+send> 0
+pop buf
+fill buf: 0
+full: sum=2378.49, p=4500, sol=4.22842, var=0.0396339
+send> 0
+pop buf
+fill buf: 0
+full: sum=2433.4, p=4600, sol=4.232, var=0.043205
+send> 0
+pop buf
+fill buf: 0
+full: sum=2481.64, p=4700, sol=4.22406, var=0.0352713
+send> 0
+pop buf
+fill buf: 0
+full: sum=2536.94, p=4800, sol=4.22823, var=0.0394397
+send> 0
+pop buf
+fill buf: 0
+full: sum=2594.07, p=4900, sol=4.23522, var=0.0464322
+send> 0
+pop buf
+fill buf: 0
+full: sum=2651.83, p=5000, sol=4.24292, var=0.0541325
+send> 0
+pop buf
+fill buf: 0
+full: sum=2698.04, p=5100, sol=4.23222, var=0.0434336
+send> 0
+pop buf
+fill buf: 0
+full: sum=2750.83, p=5200, sol=4.23205, var=0.0432554
+send> 0
+pop buf
+fill buf: 0
+full: sum=2804.01, p=5300, sol=4.23247, var=0.0436828
+send> 0
+pop buf
+fill buf: 0
+full: sum=2847.24, p=5400, sol=4.21813, var=0.0293366
+send> 0
+pop buf
+fill buf: 0
+full: sum=2899.86, p=5500, sol=4.21798, var=0.029189
+send> 0
+pop buf
+fill buf: 0
+full: sum=2948.45, p=5600, sol=4.21207, var=0.0232782
+send> 0
+pop buf
+fill buf: 0
+full: sum=3003.73, p=5700, sol=4.21577, var=0.0269776
+send> 0
+pop buf
+fill buf: 0
+full: sum=3048.72, p=5800, sol=4.20513, var=0.0163418
+send> 0
+pop buf
+fill buf: 0
+full: sum=3096.51, p=5900, sol=4.19866, var=0.00987302
+send> 0
+pop buf
+fill buf: 0
+full: sum=3150.68, p=6000, sol=4.2009, var=0.0121114
+send> 0
+pop buf
+fill buf: 0
+full: sum=3201.3, p=6100, sol=4.19842, var=0.00963235
+send> 0
+pop buf
+fill buf: 0
+full: sum=3255.85, p=6200, sol=4.2011, var=0.0123049
+send> 0
+pop buf
+fill buf: 0
+full: sum=3307.68, p=6300, sol=4.20023, var=0.0114425
+send> 0
+pop buf
+fill buf: 0
+full: sum=3366.36, p=6400, sol=4.20796, var=0.0191657
+send> 0
+pop buf
+fill buf: 0
+full: sum=3416.72, p=6500, sol=4.20519, var=0.0163983
+send> 0
+pop buf
+fill buf: 0
+full: sum=3464.9, p=6600, sol=4.19988, var=0.0110924
+send> 0
+pop buf
+fill buf: 0
+full: sum=3518.2, p=6700, sol=4.20084, var=0.012048
+send> 0
+pop buf
+fill buf: 0
+full: sum=3567.14, p=6800, sol=4.19663, var=0.0078401
+send> 0
+pop buf
+fill buf: 0
+full: sum=3616.68, p=6900, sol=4.19325, var=0.00445792
+send> 0
+pop buf
+fill buf: 0
+full: sum=3667.31, p=7000, sol=4.19121, var=0.00242119
+send> 0
+pop buf
+fill buf: 0
+full: sum=3713.08, p=7100, sol=4.18375, var=0.00504135
+send> 0
+pop buf
+fill buf: 0
+full: sum=3764.79, p=7200, sol=4.1831, var=0.00568791
+send> 0
+pop buf
+fill buf: 0
+full: sum=3812.56, p=7300, sol=4.17815, var=0.0106408
+send> 0
+pop buf
+fill buf: 0
+full: sum=3858.02, p=7400, sol=4.17083, var=0.0179606
+send> 0
+pop buf
+fill buf: 0
+full: sum=3909.46, p=7500, sol=4.17009, var=0.0187022
+send> 0
+pop buf
+fill buf: 0
+full: sum=3964.33, p=7600, sol=4.17298, var=0.0158141
+send> 0
+pop buf
+fill buf: 0
+full: sum=4013.3, p=7700, sol=4.16967, var=0.0191243
+send> 0
+pop buf
+fill buf: 0
+full: sum=4062.53, p=7800, sol=4.1667, var=0.0220942
+send> 0
+pop buf
+fill buf: 0
+full: sum=4114.53, p=7900, sol=4.16662, var=0.0221737
+send> 0
+pop buf
+fill buf: 0
+full: sum=4162.6, p=8000, sol=4.1626, var=0.0261922
+send> 0
+pop buf
+fill buf: 0
+full: sum=4215.58, p=8100, sol=4.16354, var=0.0252545
+send> 0
+pop buf
+fill buf: 0
+full: sum=4271.11, p=8200, sol=4.16693, var=0.0218577
+send> 0
+pop buf
+fill buf: 0
+full: sum=4317.15, p=8300, sol=4.16111, var=0.0276784
+send> 0
+pop buf
+fill buf: 0
+full: sum=4367.23, p=8400, sol=4.15926, var=0.0295261
+send> 0
+pop buf
+fill buf: 0
+full: sum=4417.8, p=8500, sol=4.15793, var=0.0308566
+send> 0
+pop buf
+fill buf: 0
+full: sum=4470.2, p=8600, sol=4.15833, var=0.030461
+send> 0
+pop buf
+fill buf: 0
+full: sum=4522.89, p=8700, sol=4.15898, var=0.0298069
+send> 0
+pop buf
+fill buf: 0
+full: sum=4573.7, p=8800, sol=4.15791, var=0.0308786
+send> 0
+pop buf
+fill buf: 0
+full: sum=4634.51, p=8900, sol=4.16586, var=0.0229347
+send> 0
+pop buf
+fill buf: 0
+full: sum=4688.93, p=9000, sol=4.16794, var=0.0208552
+send> 0
+pop buf
+fill buf: 0
+full: sum=4746.57, p=9100, sol=4.1728, var=0.0159853
+send> 0
+pop buf
+fill buf: 0
+full: sum=4796.45, p=9200, sol=4.17083, var=0.0179634
+send> 0
+pop buf
+fill buf: 0
+full: sum=4846.49, p=9300, sol=4.16902, var=0.0197696
+send> 0
+pop buf
+fill buf: 0
+full: sum=4902.69, p=9400, sol=4.1725, var=0.0162922
+send> 0
+pop buf
+fill buf: 0
+full: sum=4956.74, p=9500, sol=4.1741, var=0.0146904
+send> 0
+pop buf
+fill buf: 0
+full: sum=5015.99, p=9600, sol=4.17999, var=0.00879928
+send> 0
+pop buf
+fill buf: 0
+full: sum=5066.19, p=9700, sol=4.1783, var=0.0104897
+send> 0
+pop buf
+fill buf: 0
+full: sum=5123.26, p=9800, sol=4.18225, var=0.0065353
+send> 0
+pop buf
+fill buf: 0
+full: sum=5176.37, p=9900, sol=4.18292, var=0.00586561
+send> 0
+pop buf
+fill buf: 0
+full: sum=5225.42, p=10000, sol=4.18034, var=0.00845031
+send> 0
+pop buf
+fill buf: 0
+full: sum=5279.92, p=10100, sol=4.18212, var=0.00667329
+send> 0
+pop buf
+fill buf: 0
+full: sum=5324.93, p=10200, sol=4.17641, var=0.0123771
+send> 0
+pop buf
+fill buf: 0
+full: sum=5376.86, p=10300, sol=4.17621, var=0.0125845
+send> 0
+pop buf
+fill buf: 0
+full: sum=5426.92, p=10400, sol=4.17455, var=0.0142399
+send> 0
+pop buf
+fill buf: 0
+full: sum=5471.62, p=10500, sol=4.16885, var=0.019938
+send> 0
+pop buf
+fill buf: 0
+full: sum=5521.51, p=10600, sol=4.16718, var=0.0216112
+send> 0
+pop buf
+fill buf: 0
+full: sum=5572.15, p=10700, sol=4.16609, var=0.022697
+send> 0
+pop buf
+fill buf: 0
+full: sum=5620.22, p=10800, sol=4.16312, var=0.025668
+send> 0
+pop buf
+fill buf: 0
+full: sum=5679.02, p=10900, sol=4.16809, var=0.0207047
+send> 0
+pop buf
+fill buf: 0
+full: sum=5734.37, p=11000, sol=4.17045, var=0.0183396
+send> 0
+pop buf
+fill buf: 0
+full: sum=5782.6, p=11100, sol=4.16764, var=0.0211472
+send> 0
+pop buf
+fill buf: 0
+full: sum=5831.8, p=11200, sol=4.16557, var=0.0232198
+send> 0
+pop buf
+fill buf: 0
+full: sum=5883.52, p=11300, sol=4.16532, var=0.0234658
+send> 0
+pop buf
+fill buf: 0
+full: sum=5935.65, p=11400, sol=4.16537, var=0.0234235
+send> 0
+pop buf
+fill buf: 0
+full: sum=5986.99, p=11500, sol=4.16486, var=0.0239261
+send> 0
+pop buf
+fill buf: 0
+full: sum=6035.35, p=11600, sol=4.16231, var=0.0264823
+send> 0
+pop buf
+fill buf: 0
+full: sum=6087.11, p=11700, sol=4.16213, var=0.0266621
+send> 0
+pop buf
+fill buf: 0
+full: sum=6140.52, p=11800, sol=4.16306, var=0.0257274
+send> 0
+pop buf
+fill buf: 0
+full: sum=6191.02, p=11900, sol=4.16203, var=0.026757
+send> 0
+pop buf
+fill buf: 0
+full: sum=6240.13, p=12000, sol=4.16009, var=0.0287029
+send> 0
+pop buf
+fill buf: 0
+full: sum=6290.94, p=12100, sol=4.1593, var=0.0294901
+send> 0
+pop buf
+fill buf: 0
+full: sum=6343.61, p=12200, sol=4.15974, var=0.0290463
+send> 0
+pop buf
+fill buf: 0
+full: sum=6396.68, p=12300, sol=4.16044, var=0.0283462
+send> 0
+pop buf
+fill buf: 0
+full: sum=6445.27, p=12400, sol=4.15824, var=0.0305517
+send> 0
+pop buf
+fill buf: 0
+full: sum=6498.55, p=12500, sol=4.15907, var=0.0297155
+send> 0
+pop buf
+fill buf: 0
+full: sum=6551.48, p=12600, sol=4.15967, var=0.029119
+send> 0
+pop buf
+fill buf: 0
+full: sum=6605.69, p=12700, sol=4.16106, var=0.0277264
+send> 0
+pop buf
+fill buf: 0
+full: sum=6663.77, p=12800, sol=4.16485, var=0.0239363
+send> 0
+pop buf
+fill buf: 0
+full: sum=6715.55, p=12900, sol=4.16468, var=0.0241081
+send> 0
+pop buf
+fill buf: 0
+full: sum=6770.61, p=13000, sol=4.16653, var=0.0222637
+send> 0
+pop buf
+fill buf: 0
+full: sum=6820.15, p=13100, sol=4.16498, var=0.0238117
+send> 0
+pop buf
+fill buf: 0
+full: sum=6868.7, p=13200, sol=4.16285, var=0.025943
+send> 0
+pop buf
+fill buf: 0
+full: sum=6920.49, p=13300, sol=4.1627, var=0.0260899
+send> 0
+pop buf
+fill buf: 0
+full: sum=6973.48, p=13400, sol=4.16327, var=0.0255164
+send> 0
+pop buf
+fill buf: 0
+full: sum=7032.73, p=13500, sol=4.16754, var=0.0212468
+send> 0
+pop buf
+fill buf: 0
+full: sum=7086.29, p=13600, sol=4.16841, var=0.0203837
+send> 0
+pop buf
+fill buf: 0
+full: sum=7134.92, p=13700, sol=4.16637, var=0.0224161
+send> 0
+pop buf
+fill buf: 0
+full: sum=7186.72, p=13800, sol=4.16621, var=0.0225769
+send> 0
+pop buf
+fill buf: 0
+full: sum=7240.2, p=13900, sol=4.16702, var=0.0217712
+send> 0
+pop buf
+fill buf: 0
+full: sum=7291.26, p=14000, sol=4.16644, var=0.022354
+send> 0
+pop buf
+fill buf: 0
+full: sum=7349.48, p=14100, sol=4.16992, var=0.0188723
+send> 0
+pop buf
+fill buf: 0
+full: sum=7403.72, p=14200, sol=4.17111, var=0.017681
+send> 0
+pop buf
+fill buf: 0
+full: sum=7459.45, p=14300, sol=4.17312, var=0.0156717
+send> 0
+pop buf
+fill buf: 0
+full: sum=7508.65, p=14400, sol=4.17147, var=0.0173168
+send> 0
+pop buf
+fill buf: 0
+full: sum=7561.67, p=14500, sol=4.17195, var=0.0168369
+send> 0
+pop buf
+fill buf: 0
+full: sum=7616.51, p=14600, sol=4.17343, var=0.0153606
+send> 0
+pop buf
+fill buf: 0
+full: sum=7662.9, p=14700, sol=4.17029, var=0.0185039
+send> 0
+pop buf
+fill buf: 0
+full: sum=7712.84, p=14800, sol=4.1691, var=0.0196869
+send> 0
+pop buf
+fill buf: 0
+full: sum=7758.18, p=14900, sol=4.16546, var=0.0233252
+send> 0
+pop buf
+fill buf: 0
+full: sum=7811.44, p=15000, sol=4.1661, var=0.022689
+send> 0
+pop buf
+fill buf: 0
+full: sum=7866.55, p=15100, sol=4.16771, var=0.0210801
+send> 0
+pop buf
+fill buf: 0
+full: sum=7921.36, p=15200, sol=4.16914, var=0.0196526
+send> 0
+pop buf
+fill buf: 0
+full: sum=7975.14, p=15300, sol=4.17001, var=0.0187808
+send> 0
+pop buf
+fill buf: 0
+full: sum=8027.24, p=15400, sol=4.16999, var=0.0187969
+send> 0
+pop buf
+fill buf: 0
+full: sum=8070.14, p=15500, sol=4.16523, var=0.0235567
+send> 0
+pop buf
+fill buf: 0
+full: sum=8124.64, p=15600, sol=4.16648, var=0.0223086
+send> 0
+pop buf
+fill buf: 0
+full: sum=8175.99, p=15700, sol=4.16611, var=0.0226806
+send> 0
+pop buf
+fill buf: 0
+full: sum=8228.99, p=15800, sol=4.16658, var=0.0222123
+send> 0
+pop buf
+fill buf: 0
+full: sum=8278.41, p=15900, sol=4.16524, var=0.0235508
+send> 0
+pop buf
+fill buf: 0
+full: sum=8331.28, p=16000, sol=4.16564, var=0.023152
+send> 0
+pop buf
+fill buf: 0
+full: sum=8383.38, p=16100, sol=4.16566, var=0.0231346
+send> 0
+pop buf
+fill buf: 0
+full: sum=8431.79, p=16200, sol=4.16385, var=0.0249433
+send> 0
+pop buf
+fill buf: 0
+full: sum=8486.94, p=16300, sol=4.16537, var=0.0234227
+send> 0
+pop buf
+fill buf: 0
+full: sum=8541.61, p=16400, sol=4.16664, var=0.0221504
+send> 0
+pop buf
+fill buf: 0
+full: sum=8596.57, p=16500, sol=4.16803, var=0.0207576
+send> 0
+pop buf
+fill buf: 0
+full: sum=8655.54, p=16600, sol=4.17135, var=0.0174439
+send> 0
+pop buf
+fill buf: 0
+full: sum=8707.79, p=16700, sol=4.17139, var=0.0173959
+send> 0
+pop buf
+fill buf: 0
+full: sum=8760.62, p=16800, sol=4.17172, var=0.0170671
+send> 0
+pop buf
+fill buf: 0
+full: sum=8812.54, p=16900, sol=4.17161, var=0.0171754
+send> 0
+pop buf
+fill buf: 0
+full: sum=8866.27, p=17000, sol=4.17236, var=0.0164278
+send> 0
+pop buf
+fill buf: 0
+full: sum=8918.06, p=17100, sol=4.17219, var=0.0165973
+send> 0
+pop buf
+fill buf: 0
+full: sum=8973.37, p=17200, sol=4.17366, var=0.0151288
+send> 0
+pop buf
+fill buf: 0
+full: sum=9028.2, p=17300, sol=4.17489, var=0.0139013
+send> 0
+pop buf
+fill buf: 0
+full: sum=9080.54, p=17400, sol=4.17496, var=0.0138309
+send> 0
+pop buf
+fill buf: 0
+full: sum=9136.49, p=17500, sol=4.17668, var=0.0121082
+send> 0
+pop buf
+fill buf: 0
+full: sum=9198.34, p=17600, sol=4.18106, var=0.0077255
+send> 0
+pop buf
+fill buf: 0
+full: sum=9251.76, p=17700, sol=4.18159, var=0.00720399
+send> 0
+pop buf
+fill buf: 0
+full: sum=9301.62, p=17800, sol=4.1805, var=0.00828754
+send> 0
+pop buf
+fill buf: 0
+full: sum=9355.78, p=17900, sol=4.18135, var=0.00743616
+send> 0
+pop buf
+fill buf: 0
+full: sum=9404.96, p=18000, sol=4.17998, var=0.00880802
+send> 0
+pop buf
+fill buf: 0
+full: sum=9460.05, p=18100, sol=4.18124, var=0.00755472
+send> 0
+pop buf
+fill buf: 0
+full: sum=9510.62, p=18200, sol=4.18049, var=0.0082996
+send> 0
+pop buf
+fill buf: 0
+full: sum=9565, p=18300, sol=4.18142, var=0.00737021
+send> 0
+pop buf
+fill buf: 0
+full: sum=9613.59, p=18400, sol=4.17982, var=0.00896853
+send> 0
+pop buf
+fill buf: 0
+full: sum=9664.51, p=18500, sol=4.17925, var=0.00954345
+send> 0
+pop buf
+fill buf: 0
+full: sum=9718.91, p=18600, sol=4.18017, var=0.00861582
+send> 0
+pop buf
+fill buf: 0
+full: sum=9769.61, p=18700, sol=4.17951, var=0.00927583
+send> 0
+pop buf
+fill buf: 0
+full: sum=9818.46, p=18800, sol=4.17807, var=0.0107202
+send> 0
+pop buf
+fill buf: 0
+full: sum=9870.03, p=18900, sol=4.17779, var=0.010998
+send> 0
+pop buf
+fill buf: 0
+full: sum=9917.73, p=19000, sol=4.17588, var=0.0129053
+send> 0
+pop buf
+fill buf: 0
+full: sum=9965.96, p=19100, sol=4.17422, var=0.0145663
+send> 0
+pop buf
+fill buf: 0
+full: sum=10022.9, p=19200, sol=4.17622, var=0.0125685
+send> 0
+pop buf
+fill buf: 0
+full: sum=10076, p=19300, sol=4.1766, var=0.0121895
+send> 0
+pop buf
+fill buf: 0
+full: sum=10130, p=19400, sol=4.17733, var=0.0114644
+send> 0
+pop buf
+fill buf: 0
+full: sum=10179.2, p=19500, sol=4.17609, var=0.0127027
+send> 0
+pop buf
+fill buf: 0
+full: sum=10229.8, p=19600, sol=4.17541, var=0.0133769
+send> 0
+pop buf
+fill buf: 0
+full: sum=10282.7, p=19700, sol=4.1757, var=0.0130852
+send> 0
+pop buf
+fill buf: 0
+full: sum=10335.2, p=19800, sol=4.17584, var=0.0129526
+send> 0
+pop buf
+fill buf: 0
+full: sum=10387.6, p=19900, sol=4.17591, var=0.012885
+send> 0
+pop buf
+fill buf: 0
+full: sum=10435.9, p=20000, sol=4.17435, var=0.0144398
+send> 0
+pop buf
+fill buf: 0
+full: sum=10486.3, p=20100, sol=4.17365, var=0.0151422
+send> 0
+pop buf
+fill buf: 0
+full: sum=10536.5, p=20200, sol=4.17287, var=0.0159247
+send> 0
+pop buf
+fill buf: 0
+full: sum=10585, p=20300, sol=4.17143, var=0.0173572
+send> 0
+pop buf
+fill buf: 0
+full: sum=10638.6, p=20400, sol=4.17199, var=0.0168009
+send> 0
+pop buf
+fill buf: 0
+full: sum=10693.5, p=20500, sol=4.17307, var=0.0157167
+send> 0
+pop buf
+fill buf: 0
+full: sum=10750.1, p=20600, sol=4.17478, var=0.0140061
+send> 0
+pop buf
+fill buf: 0
+full: sum=10805.1, p=20700, sol=4.17587, var=0.012921
+send> 0
+pop buf
+fill buf: 0
+full: sum=10857, p=20800, sol=4.17576, var=0.0130288
+send> 0
+pop buf
+fill buf: 0
+full: sum=10907.2, p=20900, sol=4.175, var=0.0137913
+send> 0
+pop buf
+fill buf: 0
+full: sum=10959.2, p=21000, sol=4.17494, var=0.0138539
+send> 0
+pop buf
+fill buf: 0
+full: sum=11012.4, p=21100, sol=4.17531, var=0.0134757
+send> 0
+pop buf
+fill buf: 0
+full: sum=11065.8, p=21200, sol=4.17576, var=0.013032
+send> 0
+pop buf
+fill buf: 0
+full: sum=11118.8, p=21300, sol=4.17606, var=0.0127273
+send> 0
+pop buf
+fill buf: 0
+full: sum=11170.5, p=21400, sol=4.1759, var=0.012887
+send> 0
+pop buf
+fill buf: 0
+full: sum=11222.4, p=21500, sol=4.17578, var=0.0130147
+send> 0
+pop buf
+fill buf: 0
+full: sum=11271.3, p=21600, sol=4.17456, var=0.0142349
+send> 0
+pop buf
+fill buf: 0
+full: sum=11321.6, p=21700, sol=4.17387, var=0.0149204
+send> 0
+pop buf
+fill buf: 0
+full: sum=11376.7, p=21800, sol=4.17495, var=0.0138372
+send> 0
+pop buf
+fill buf: 0
+full: sum=11432.9, p=21900, sol=4.17639, var=0.0124019
+send> 0
+pop buf
+fill buf: 0
+full: sum=11485.8, p=22000, sol=4.17665, var=0.0121413
+send> 0
+pop buf
+fill buf: 0
+full: sum=11538.6, p=22100, sol=4.17689, var=0.0119044
+send> 0
+pop buf
+fill buf: 0
+full: sum=11584, p=22200, sol=4.17443, var=0.0143616
+send> 0
+pop buf
+fill buf: 0
+full: sum=11636, p=22300, sol=4.17434, var=0.0144497
+send> 0
+pop buf
+fill buf: 0
+full: sum=11692.1, p=22400, sol=4.17575, var=0.0130377
+send> 0
+pop buf
+fill buf: 0
+full: sum=11745.9, p=22500, sol=4.17631, var=0.0124771
+send> 0
+pop buf
+fill buf: 0
+full: sum=11791.4, p=22600, sol=4.17393, var=0.014858
+send> 0
+pop buf
+fill buf: 0
+full: sum=11842.5, p=22700, sol=4.17359, var=0.0152046
+send> 0
+pop buf
+fill buf: 0
+full: sum=11893.9, p=22800, sol=4.17331, var=0.0154791
+send> 0
+pop buf
+fill buf: 0
+full: sum=11945.3, p=22900, sol=4.17304, var=0.0157513
+send> 0
+pop buf
+fill buf: 0
+full: sum=11998.4, p=23000, sol=4.17336, var=0.0154331
+send> 0
+pop buf
+fill buf: 0
+full: sum=12055.5, p=23100, sol=4.17508, var=0.0137089
+send> 0
+pop buf
+fill buf: 0
+full: sum=12108.1, p=23200, sol=4.1752, var=0.0135951
+send> 0
+pop buf
+fill buf: 0
+full: sum=12167.1, p=23300, sol=4.17754, var=0.0112534
+send> 0
+pop buf
+fill buf: 0
+full: sum=12222.5, p=23400, sol=4.17864, var=0.0101507
+send> 0
+pop buf
+fill buf: 0
+full: sum=12277.4, p=23500, sol=4.17955, var=0.00924071
+send> 0
+pop buf
+fill buf: 0
+full: sum=12333.8, p=23600, sol=4.18094, var=0.00784673
+send> 0
+pop buf
+fill buf: 0
+full: sum=12383, p=23700, sol=4.17991, var=0.00887841
+send> 0
+pop buf
+fill buf: 0
+full: sum=12440, p=23800, sol=4.1815, var=0.00729133
+send> 0
+pop buf
+fill buf: 0
+full: sum=12489.8, p=23900, sol=4.18069, var=0.00809809
+send> 0
+pop buf
+fill buf: 0
+full: sum=12544.7, p=24000, sol=4.18158, var=0.00720844
+send> 0
+pop buf
+fill buf: 0
+full: sum=12594.3, p=24100, sol=4.18069, var=0.00809883
+send> 0
+pop buf
+fill buf: 0
+full: sum=12645.9, p=24200, sol=4.18048, var=0.00831152
+send> 0
+pop buf
+fill buf: 0
+full: sum=12698.4, p=24300, sol=4.18053, var=0.00826216
+send> 0
+pop buf
+fill buf: 0
+full: sum=12753.5, p=24400, sol=4.18149, var=0.00730221
+send> 0
+pop buf
+fill buf: 0
+full: sum=12805.8, p=24500, sol=4.18148, var=0.00730888
+send> 0
+pop buf
+fill buf: 0
+full: sum=12858.4, p=24600, sol=4.18158, var=0.00720627
+send> 0
+pop buf
+fill buf: 0
+full: sum=12906.2, p=24700, sol=4.18014, var=0.00865197
+send> 0
+pop buf
+fill buf: 0
+full: sum=12953.5, p=24800, sol=4.17856, var=0.0102271
+send> 0
+pop buf
+fill buf: 0
+full: sum=13004.2, p=24900, sol=4.17806, var=0.0107289
+send> 0
+pop buf
+fill buf: 0
+full: sum=13060.5, p=25000, sol=4.17935, var=0.00944371
+send> 0
+pop buf
+fill buf: 0
+full: sum=13114.3, p=25100, sol=4.17985, var=0.00893827
+send> 0
+pop buf
+fill buf: 0
+full: sum=13160.8, p=25200, sol=4.17805, var=0.0107434
+send> 0
+pop buf
+fill buf: 0
+full: sum=13212.3, p=25300, sol=4.17781, var=0.0109779
+send> 0
+pop buf
+fill buf: 0
+full: sum=13269, p=25400, sol=4.1792, var=0.00958886
+send> 0
+pop buf
+fill buf: 0
+full: sum=13328.2, p=25500, sol=4.18139, var=0.00740065
+send> 0
+pop buf
+fill buf: 0
+full: sum=13385.5, p=25600, sol=4.18296, var=0.00582857
+send> 0
+pop buf
+fill buf: 0
+full: sum=13435.5, p=25700, sol=4.18224, var=0.00654619
+send> 0
+pop buf
+fill buf: 0
+full: sum=13479, p=25800, sol=4.17954, var=0.00924595
+send> 0
+pop buf
+fill buf: 0
+full: sum=13527.4, p=25900, sol=4.17836, var=0.0104328
+send> 0
+pop buf
+fill buf: 0
+full: sum=13577.2, p=26000, sol=4.17759, var=0.0111975
+send> 0
+pop buf
+fill buf: 0
+full: sum=13634.7, p=26100, sol=4.17921, var=0.00957819
+send> 0
+pop buf
+fill buf: 0
+full: sum=13690, p=26200, sol=4.18016, var=0.00863107
+send> 0
+pop buf
+fill buf: 0
+full: sum=13749.6, p=26300, sol=4.18239, var=0.00640029
+send> 0
+pop buf
+fill buf: 0
+full: sum=13807.2, p=26400, sol=4.18399, var=0.00479931
+send> 0
+pop buf
+fill buf: 0
+full: sum=13859.8, p=26500, sol=4.18409, var=0.00469713
+send> 0
+pop buf
+fill buf: 0
+full: sum=13917.4, p=26600, sol=4.1857, var=0.00309338
+send> 0
+pop buf
+fill buf: 0
+full: sum=13966.9, p=26700, sol=4.18484, var=0.00394579
+send> 0
+pop buf
+fill buf: 0
+full: sum=14019.4, p=26800, sol=4.1849, var=0.00389213
+send> 0
+pop buf
+fill buf: 0
+full: sum=14075.3, p=26900, sol=4.18598, var=0.00281448
+send> 0
+pop buf
+fill buf: 0
+full: sum=14129.2, p=27000, sol=4.18642, var=0.00237213
+send> 0
+pop buf
+fill buf: 0
+full: sum=14179.9, p=27100, sol=4.18595, var=0.00283577
+send> 0
+pop buf
+fill buf: 0
+full: sum=14233.3, p=27200, sol=4.18625, var=0.00253635
+send> 0
+pop buf
+fill buf: 0
+full: sum=14285.1, p=27300, sol=4.1861, var=0.00268816
+send> 0
+pop buf
+fill buf: 0
+full: sum=14333.4, p=27400, sol=4.18494, var=0.0038551
+send> 0
+pop buf
+fill buf: 0
+full: sum=14386.5, p=27500, sol=4.18517, var=0.00361882
+send> 0
+pop buf
+fill buf: 0
+full: sum=14440, p=27600, sol=4.18549, var=0.00329702
+send> 0
+pop buf
+fill buf: 0
+full: sum=14486.9, p=27700, sol=4.18394, var=0.00485121
+send> 0
+pop buf
+fill buf: 0
+full: sum=14541.4, p=27800, sol=4.18458, var=0.00420588
+send> 0
+pop buf
+fill buf: 0
+full: sum=14595.3, p=27900, sol=4.18505, var=0.00374448
+send> 0
+pop buf
+fill buf: 0
+full: sum=14642.4, p=28000, sol=4.18354, var=0.00524887
+send> 0
+pop buf
+fill buf: 0
+full: sum=14690.8, p=28100, sol=4.18242, var=0.0063656
+send> 0
+pop buf
+fill buf: 0
+full: sum=14746.3, p=28200, sol=4.18335, var=0.00543952
+send> 0
+pop buf
+fill buf: 0
+full: sum=14799.2, p=28300, sol=4.18353, var=0.00526277
+send> 0
+pop buf
+fill buf: 0
+full: sum=14850.8, p=28400, sol=4.18332, var=0.00547368
+send> 0
+pop buf
+fill buf: 0
+full: sum=14908.1, p=28500, sol=4.18473, var=0.00405841
+send> 0
+pop buf
+fill buf: 0
+full: sum=14957.2, p=28600, sol=4.18383, var=0.00496005
+send> 0
+pop buf
+fill buf: 0
+full: sum=15005.1, p=28700, sol=4.18262, var=0.00617056
+send> 0
+pop buf
+fill buf: 0
+full: sum=15055.9, p=28800, sol=4.1822, var=0.00659061
+send> 0
+pop buf
+fill buf: 0
+full: sum=15109.9, p=28900, sol=4.18268, var=0.00610578
+send> 0
+pop buf
+fill buf: 0
+full: sum=15161.4, p=29000, sol=4.18247, var=0.00632338
+send> 0
+pop buf
+fill buf: 0
+full: sum=15217.5, p=29100, sol=4.18352, var=0.0052722
+send> 0
+pop buf
+fill buf: 0
+full: sum=15269.3, p=29200, sol=4.18338, var=0.00540865
+send> 0
+pop buf
+fill buf: 0
+full: sum=15319.8, p=29300, sol=4.18288, var=0.00591162
+send> 0
+pop buf
+fill buf: 0
+full: sum=15364.8, p=29400, sol=4.18089, var=0.00789785
+send> 0
+pop buf
+fill buf: 0
+full: sum=15416.1, p=29500, sol=4.18065, var=0.00813964
+send> 0
+pop buf
+fill buf: 0
+full: sum=15467.6, p=29600, sol=4.18043, var=0.00835671
+send> 0
+pop buf
+fill buf: 0
+full: sum=15522.4, p=29700, sol=4.18112, var=0.00767397
+send> 0
+pop buf
+fill buf: 0
+full: sum=15581.9, p=29800, sol=4.18306, var=0.00573465
+send> 0
+pop buf
+fill buf: 0
+full: sum=15639.7, p=29900, sol=4.18452, var=0.00426607
+send> 0
+pop buf
+fill buf: 0
+full: sum=15696.7, p=30000, sol=4.18579, var=0.00299704
+send> 0
+pop buf
+fill buf: 0
+full: sum=15748.3, p=30100, sol=4.18559, var=0.00319701
+send> 0
+pop buf
+fill buf: 0
+full: sum=15805.2, p=30200, sol=4.18681, var=0.00198027
+send> 0
+pop buf
+fill buf: 0
+full: sum=15858.9, p=30300, sol=4.18717, var=0.00161586
+send> 0
+pop buf
+fill buf: 0
+full: sum=15916, p=30400, sol=4.18843, var=0.000356907
+send> 0
+pop buf
+fill buf: 0
+full: sum=15960.2, p=30500, sol=4.18628, var=0.00250703
+send> 0
+pop buf
+fill buf: 0
+full: sum=16014.8, p=30600, sol=4.18688, var=0.00191357
+send> 0
+pop buf
+fill buf: 0
+full: sum=16068.5, p=30700, sol=4.18723, var=0.00155675
+send> 0
+pop buf
+fill buf: 0
+full: sum=16121.5, p=30800, sol=4.18741, var=0.00137605
+send> 0
+pop buf
+fill buf: 0
+full: sum=16174.6, p=30900, sol=4.1876, var=0.0011878
+send> 0
+pop buf
+fill buf: 0
+full: sum=16230.2, p=31000, sol=4.18843, var=0.000362152
+send> 0
+pop buf
+fill buf: 0
+full: sum=16279.2, p=31100, sol=4.18757, var=0.00122083
+send> 0
+pop buf
+fill buf: 0
+full: sum=16336.1, p=31200, sol=4.18874, var=4.78028e-05
+send> 0
+pop buf
+fill buf: 0
+full: sum=16389.1, p=31300, sol=4.1889, var=0.000113453
+send> 0
+pop buf
+fill buf: 0
+full: sum=16439.8, p=31400, sol=4.18849, var=0.000299626
+send> 0
+pop buf
+fill buf: 0
+full: sum=16492.7, p=31500, sol=4.18862, var=0.000166153
+send> 0
+pop buf
+fill buf: 0
+full: sum=16538.5, p=31600, sol=4.18697, var=0.00181754
+send> 0
+pop buf
+fill buf: 0
+full: sum=16589.1, p=31700, sol=4.18652, var=0.00227418
+send> 0
+pop buf
+fill buf: 0
+full: sum=16643.3, p=31800, sol=4.187, var=0.00179223
+send> 0
+pop buf
+fill buf: 0
+full: sum=16698.8, p=31900, sol=4.18779, var=0.000995754
+send> 0
+pop buf
+fill buf: 0
+full: sum=16753.5, p=32000, sol=4.18837, var=0.000418459
+send> 0
+pop buf
+fill buf: 0
+full: sum=16810.9, p=32100, sol=4.18964, var=0.000845058
+send> 0
+pop buf
+fill buf: 0
+full: sum=16860.5, p=32200, sol=4.18894, var=0.000149909
+send> 0
+pop buf
+fill buf: 0
+full: sum=16913.3, p=32300, sol=4.18905, var=0.000256898
+send> 0
+pop buf
+fill buf: 0
+full: sum=16968.3, p=32400, sol=4.18971, var=0.000917063
+send> 0
+pop buf
+fill buf: 0
+full: sum=17025, p=32500, sol=4.19078, var=0.0019903
+send> 0
+pop buf
+fill buf: 0
+full: sum=17081.7, p=32600, sol=4.19182, var=0.00302898
+send> 0
+pop buf
+fill buf: 0
+full: sum=17135.2, p=32700, sol=4.19211, var=0.00331573
+send> 0
+pop buf
+fill buf: 0
+full: sum=17187, p=32800, sol=4.19196, var=0.0031713
+send> 0
+pop buf
+fill buf: 0
+full: sum=17241.3, p=32900, sol=4.19242, var=0.00363066
+send> 0
+pop buf
+fill buf: 0
+full: sum=17295.1, p=33000, sol=4.19275, var=0.00396458
+send> 0
+pop buf
+fill buf: 0
+full: sum=17347.8, p=33100, sol=4.19282, var=0.00402629
+send> 0
+pop buf
+fill buf: 0
+full: sum=17395.7, p=33200, sol=4.19174, var=0.00295384
+send> 0
+pop buf
+fill buf: 0
+full: sum=17448.1, p=33300, sol=4.19174, var=0.00295284
+send> 0
+pop buf
+fill buf: 0
+full: sum=17499.3, p=33400, sol=4.19145, var=0.00265636
+send> 0
+pop buf
+fill buf: 0
+full: sum=17558, p=33500, sol=4.19296, var=0.00417418
+send> 0
+pop buf
+fill buf: 0
+full: sum=17612.5, p=33600, sol=4.19345, var=0.00465989
+send> 0
+pop buf
+fill buf: 0
+full: sum=17663.5, p=33700, sol=4.19312, var=0.0043299
+send> 0
+pop buf
+fill buf: 0
+full: sum=17715, p=33800, sol=4.19291, var=0.00411861
+send> 0
+pop buf
+fill buf: 0
+full: sum=17769.4, p=33900, sol=4.19337, var=0.00457499
+send> 0
+pop buf
+fill buf: 0
+full: sum=17825.4, p=34000, sol=4.1942, var=0.0054122
+send> 0
+pop buf
+fill buf: 0
+full: sum=17879.6, p=34100, sol=4.19462, var=0.00583303
+send> 0
+pop buf
+fill buf: 0
+full: sum=17939.1, p=34200, sol=4.19628, var=0.00749389
+send> 0
+pop buf
+fill buf: 0
+full: sum=17999.6, p=34300, sol=4.19815, var=0.00936076
+send> 0
+pop buf
+fill buf: 0
+full: sum=18054.4, p=34400, sol=4.1987, var=0.0099128
+send> 0
+pop buf
+fill buf: 0
+full: sum=18109.3, p=34500, sol=4.19925, var=0.0104575
+send> 0
+pop buf
+fill buf: 0
+full: sum=18162.3, p=34600, sol=4.19937, var=0.0105812
+send> 0
+pop buf
+fill buf: 0
+full: sum=18210, p=34700, sol=4.19827, var=0.00948138
+send> 0
+pop buf
+fill buf: 0
+full: sum=18260.5, p=34800, sol=4.19781, var=0.0090186
+send> 0
+pop buf
+fill buf: 0
+full: sum=18317.5, p=34900, sol=4.19884, var=0.0100526
+send> 0
+pop buf
+fill buf: 0
+full: sum=18376.5, p=35000, sol=4.20034, var=0.0115495
+send> 0
+pop buf
+fill buf: 0
+full: sum=18433.9, p=35100, sol=4.20146, var=0.0126742
+send> 0
+pop buf
+fill buf: 0
+full: sum=18477.3, p=35200, sol=4.19939, var=0.010599
+send> 0
+pop buf
+fill buf: 0
+full: sum=18535.3, p=35300, sol=4.20063, var=0.0118352
+send> 0
+pop buf
+fill buf: 0
+full: sum=18586.3, p=35400, sol=4.2003, var=0.0115092
+send> 0
+pop buf
+fill buf: 0
+full: sum=18642.2, p=35500, sol=4.20105, var=0.0122646
+send> 0
+pop buf
+fill buf: 0
+full: sum=18693.7, p=35600, sol=4.20084, var=0.0120503
+send> 0
+pop buf
+fill buf: 0
+full: sum=18744.4, p=35700, sol=4.20043, var=0.0116442
+send> 0
+pop buf
+fill buf: 0
+full: sum=18793.5, p=35800, sol=4.19966, var=0.0108715
+send> 0
+pop buf
+fill buf: 0
+full: sum=18846.3, p=35900, sol=4.19972, var=0.0109347
+send> 0
+pop buf
+fill buf: 0
+full: sum=18905.1, p=36000, sol=4.20113, var=0.012339
+send> 0
+pop buf
+fill buf: 0
+full: sum=18960.7, p=36100, sol=4.20183, var=0.0130355
+send> 0
+pop buf
+fill buf: 0
+full: sum=19007.2, p=36200, sol=4.20048, var=0.0116879
+send> 0
+pop buf
+fill buf: 0
+full: sum=19061.5, p=36300, sol=4.20089, var=0.0120992
+send> 0
+pop buf
+fill buf: 0
+full: sum=19112.3, p=36400, sol=4.20051, var=0.0117163
+send> 0
+pop buf
+fill buf: 0
+full: sum=19161, p=36500, sol=4.19967, var=0.0108784
+send> 0
+pop buf
+fill buf: 0
+full: sum=19205.8, p=36600, sol=4.19799, var=0.00920392
+send> 0
+pop buf
+fill buf: 0
+full: sum=19258.3, p=36700, sol=4.198, var=0.00921154
+send> 0
+pop buf
+fill buf: 0
+full: sum=19314.7, p=36800, sol=4.19884, var=0.0100518
+send> 0
+pop buf
+fill buf: 0
+full: sum=19362, p=36900, sol=4.19773, var=0.00894285
+send> 0
+pop buf
+fill buf: 0
+full: sum=19413.6, p=37000, sol=4.19753, var=0.00874349
+send> 0
+pop buf
+fill buf: 0
+full: sum=19465.1, p=37100, sol=4.19733, var=0.008544
+send> 0
+pop buf
+fill buf: 0
+full: sum=19521.4, p=37200, sol=4.19816, var=0.00936771
+send> 0
+pop buf
+fill buf: 0
+full: sum=19572.5, p=37300, sol=4.19786, var=0.00906778
+send> 0
+pop buf
+fill buf: 0
+full: sum=19620.8, p=37400, sol=4.19696, var=0.00816521
+send> 0
+pop buf
+fill buf: 0
+full: sum=19674.9, p=37500, sol=4.19732, var=0.00853189
+send> 0
+pop buf
+fill buf: 0
+full: sum=19730.8, p=37600, sol=4.19805, var=0.00925747
+send> 0
+pop buf
+fill buf: 0
+full: sum=19779.2, p=37700, sol=4.19717, var=0.0083843
+send> 0
+pop buf
+fill buf: 0
+full: sum=19831.3, p=37800, sol=4.1971, var=0.00830702
+send> 0
+pop buf
+fill buf: 0
+full: sum=19880.5, p=37900, sol=4.19641, var=0.00761505
+send> 0
+pop buf
+fill buf: 0
+full: sum=19942.1, p=38000, sol=4.19833, var=0.00954326
+send> 0
+pop buf
+fill buf: 0
+full: sum=19995.9, p=38100, sol=4.19861, var=0.00981975
+send> 0
+pop buf
+fill buf: 0
+full: sum=20044.1, p=38200, sol=4.19772, var=0.00892668
+send> 0
+pop buf
+fill buf: 0
+full: sum=20097, p=38300, sol=4.19781, var=0.00901573
+send> 0
+pop buf
+fill buf: 0
+full: sum=20147.4, p=38400, sol=4.19737, var=0.00857589
+send> 0
+pop buf
+fill buf: 0
+full: sum=20201.5, p=38500, sol=4.19771, var=0.00891779
+send> 0
+pop buf
+fill buf: 0
+full: sum=20253.1, p=38600, sol=4.19754, var=0.00874506
+send> 0
+pop buf
+fill buf: 0
+full: sum=20302.4, p=38700, sol=4.19688, var=0.00808968
+send> 0
+pop buf
+fill buf: 0
+full: sum=20350.8, p=38800, sol=4.19603, var=0.00724342
+send> 0
+pop buf
+fill buf: 0
+full: sum=20400.2, p=38900, sol=4.19541, var=0.00661931
+send> 0
+pop buf
+fill buf: 0
+full: sum=20455.6, p=39000, sol=4.19602, var=0.0072249
+send> 0
+pop buf
+fill buf: 0
+full: sum=20508.5, p=39100, sol=4.19612, var=0.00732876
+send> 0
+pop buf
+fill buf: 0
+full: sum=20557.7, p=39200, sol=4.19544, var=0.00664988
+send> 0
+pop buf
+fill buf: 0
+full: sum=20614.9, p=39300, sol=4.19641, var=0.00762353
+send> 0
+pop buf
+fill buf: 0
+full: sum=20667.2, p=39400, sol=4.19638, var=0.00758977
+send> 0
+pop buf
+fill buf: 0
+full: sum=20718.6, p=39500, sol=4.19616, var=0.00737407
+send> 0
+pop buf
+fill buf: 0
+full: sum=20768.5, p=39600, sol=4.19565, var=0.00686298
+send> 0
+pop buf
+fill buf: 0
+full: sum=20818.7, p=39700, sol=4.1952, var=0.00640926
+send> 0
+pop buf
+fill buf: 0
+full: sum=20869.8, p=39800, sol=4.19494, var=0.00614742
+send> 0
+pop buf
+fill buf: 0
+full: sum=20921.5, p=39900, sol=4.19478, var=0.00599246
+send> 0
+pop buf
+fill buf: 0
+full: sum=20972.1, p=40000, sol=4.19442, var=0.00562897
+send> 0
+pop buf
+fill buf: 0
+full: sum=21025.8, p=40100, sol=4.19467, var=0.00587752
+send> 0
+pop buf
+fill buf: 0
+full: sum=21078.3, p=40200, sol=4.19468, var=0.00589156
+send> 0
+pop buf
+fill buf: 0
+full: sum=21131.5, p=40300, sol=4.19484, var=0.00604958
+send> 0
+pop buf
+fill buf: 0
+full: sum=21180.6, p=40400, sol=4.19417, var=0.00538442
+send> 0
+pop buf
+fill buf: 0
+full: sum=21232.7, p=40500, sol=4.19411, var=0.00532008
+send> 0
+pop buf
+fill buf: 0
+full: sum=21285, p=40600, sol=4.19409, var=0.0053043
+send> 0
+pop buf
+fill buf: 0
+full: sum=21334.5, p=40700, sol=4.19351, var=0.00472344
+send> 0
+pop buf
+fill buf: 0
+full: sum=21381.6, p=40800, sol=4.19246, var=0.00367282
+send> 0
+pop buf
+fill buf: 0
+full: sum=21429.6, p=40900, sol=4.19161, var=0.00281533
+send> 0
+pop buf
+fill buf: 0
+full: sum=21480.9, p=41000, sol=4.1914, var=0.00260865
+send> 0
+pop buf
+fill buf: 0
+full: sum=21529.7, p=41100, sol=4.19069, var=0.0019027
+send> 0
+pop buf
+fill buf: 0
+full: sum=21586.3, p=41200, sol=4.19151, var=0.00272346
+send> 0
+pop buf
+fill buf: 0
+full: sum=21640.8, p=41300, sol=4.19192, var=0.00313133
+send> 0
+pop buf
+fill buf: 0
+full: sum=21694.9, p=41400, sol=4.19226, var=0.00346527
+send> 0
+pop buf
+fill buf: 0
+full: sum=21747.6, p=41500, sol=4.19231, var=0.00352236
+send> 0
+pop buf
+fill buf: 0
+full: sum=21803.3, p=41600, sol=4.19294, var=0.00414883
+send> 0
+pop buf
+fill buf: 0
+full: sum=21853.5, p=41700, sol=4.19252, var=0.00372964
+send> 0
+pop buf
+fill buf: 0
+full: sum=21913.4, p=41800, sol=4.19395, var=0.00515669
+send> 0
+pop buf
+fill buf: 0
+full: sum=21961, p=41900, sol=4.19302, var=0.00423331
+send> 0
+pop buf
+fill buf: 0
+full: sum=22015.1, p=42000, sol=4.19335, var=0.00456075
+send> 0
+pop buf
+fill buf: 0
+full: sum=22073.7, p=42100, sol=4.19453, var=0.00573489
+send> 0
+pop buf
+fill buf: 0
+full: sum=22126.7, p=42200, sol=4.19464, var=0.0058533
+send> 0
+pop buf
+fill buf: 0
+full: sum=22172.6, p=42300, sol=4.1934, var=0.00460643
+send> 0
+pop buf
+fill buf: 0
+full: sum=22228.4, p=42400, sol=4.19403, var=0.00524289
+send> 0
+pop buf
+fill buf: 0
+full: sum=22281.3, p=42500, sol=4.19412, var=0.00533451
+send> 0
+pop buf
+fill buf: 0
+full: sum=22332.2, p=42600, sol=4.19385, var=0.00505524
+send> 0
+pop buf
+fill buf: 0
+full: sum=22379.3, p=42700, sol=4.19284, var=0.00404647
+send> 0
+pop buf
+fill buf: 0
+full: sum=22436.3, p=42800, sol=4.1937, var=0.00491223
+send> 0
+pop buf
+fill buf: 0
+full: sum=22489.3, p=42900, sol=4.19381, var=0.00501909
+send> 0
+pop buf
+fill buf: 0
+full: sum=22541.2, p=43000, sol=4.19371, var=0.00492434
+send> 0
+pop buf
+fill buf: 0
+full: sum=22589.5, p=43100, sol=4.19294, var=0.0041537
+send> 0
+pop buf
+fill buf: 0
+full: sum=22643.4, p=43200, sol=4.19323, var=0.00443495
+send> 0
+pop buf
+fill buf: 0
+full: sum=22689, p=43300, sol=4.19197, var=0.00317766
+send> 0
+pop buf
+fill buf: 0
+full: sum=22741.2, p=43400, sol=4.19194, var=0.0031452
+send> 0
+pop buf
+fill buf: 0
+full: sum=22795.2, p=43500, sol=4.19223, var=0.00343926
+send> 0
+pop buf
+fill buf: 0
+full: sum=22846.3, p=43600, sol=4.19199, var=0.00319576
+send> 0
+pop buf
+fill buf: 0
+full: sum=22903.1, p=43700, sol=4.19278, var=0.00399016
+send> 0
+pop buf
+fill buf: 0
+full: sum=22953.1, p=43800, sol=4.19234, var=0.00355118
+send> 0
+pop buf
+fill buf: 0
+full: sum=23002.3, p=43900, sol=4.19176, var=0.0029653
+send> 0
+pop buf
+fill buf: 0
+full: sum=23056.1, p=44000, sol=4.19202, var=0.00323241
+send> 0
+pop buf
+fill buf: 0
+full: sum=23108.3, p=44100, sol=4.19199, var=0.00320052
+send> 0
+pop buf
+fill buf: 0
+full: sum=23159.4, p=44200, sol=4.19174, var=0.0029522
+send> 0
+pop buf
+fill buf: 0
+full: sum=23211.9, p=44300, sol=4.19176, var=0.0029741
+send> 0
+pop buf
+fill buf: 0
+full: sum=23263.6, p=44400, sol=4.19165, var=0.00285726
+send> 0
+pop buf
+fill buf: 0
+full: sum=23311.9, p=44500, sol=4.19091, var=0.00211623
+send> 0
+pop buf
+fill buf: 0
+full: sum=23359, p=44600, sol=4.18995, var=0.00116137
+send> 0
+pop buf
+fill buf: 0
+full: sum=23414.3, p=44700, sol=4.19047, var=0.00168019
+send> 0
+pop buf
+fill buf: 0
+full: sum=23468, p=44800, sol=4.19072, var=0.00193124
+send> 0
+pop buf
+fill buf: 0
+full: sum=23522.4, p=44900, sol=4.19108, var=0.00228855
+send> 0
+pop buf
+fill buf: 0
+full: sum=23573.9, p=45000, sol=4.19091, var=0.00211807
+send> 0
+pop buf
+fill buf: 0
+full: sum=23630.5, p=45100, sol=4.19166, var=0.00287147
+send> 0
+pop buf
+fill buf: 0
+full: sum=23679.8, p=45200, sol=4.19111, var=0.00232028
+send> 0
+pop buf
+fill buf: 0
+full: sum=23728.3, p=45300, sol=4.19042, var=0.00163216
+send> 0
+pop buf
+fill buf: 0
+full: sum=23783.4, p=45400, sol=4.19091, var=0.00211723
+send> 0
+pop buf
+fill buf: 0
+full: sum=23836.9, p=45500, sol=4.19111, var=0.00231519
+send> 0
+pop buf
+fill buf: 0
+full: sum=23890.1, p=45600, sol=4.19124, var=0.00245346
+send> 0
+pop buf
+fill buf: 0
+full: sum=23944.2, p=45700, sol=4.19154, var=0.00274887
+send> 0
+pop buf
+fill buf: 0
+full: sum=23998, p=45800, sol=4.19179, var=0.00300329
+send> 0
+pop buf
+fill buf: 0
+full: sum=24054.2, p=45900, sol=4.19246, var=0.00367102
+send> 0
+pop buf
+fill buf: 0
+full: sum=24108.7, p=46000, sol=4.19281, var=0.00401859
+send> 0
+pop buf
+fill buf: 0
+full: sum=24162.7, p=46100, sol=4.1931, var=0.00430705
+send> 0
+pop buf
+fill buf: 0
+full: sum=24218.7, p=46200, sol=4.19371, var=0.00491609
+send> 0
+pop buf
+fill buf: 0
+full: sum=24274.9, p=46300, sol=4.19436, var=0.00556859
+send> 0
+pop buf
+fill buf: 0
+full: sum=24332.2, p=46400, sol=4.1952, var=0.0064115
+send> 0
+pop buf
+fill buf: 0
+full: sum=24378.7, p=46500, sol=4.19418, var=0.00539412
+send> 0
+pop buf
+fill buf: 0
+full: sum=24433.6, p=46600, sol=4.19461, var=0.00581842
+send> 0
+pop buf
+fill buf: 0
+full: sum=24486.3, p=46700, sol=4.19465, var=0.00585782
+send> 0
+pop buf
+fill buf: 0
+full: sum=24539.3, p=46800, sol=4.19475, var=0.00595885
+send> 0
+pop buf
+fill buf: 0
+full: sum=24594.9, p=46900, sol=4.19529, var=0.00650479
+send> 0
+pop buf
+fill buf: 0
+full: sum=24650.8, p=47000, sol=4.19589, var=0.00709781
+send> 0
+pop buf
+fill buf: 0
+full: sum=24702.9, p=47100, sol=4.19582, var=0.00702544
+send> 0
+pop buf
+fill buf: 0
+full: sum=24756, p=47200, sol=4.19592, var=0.00713415
+send> 0
+pop buf
+fill buf: 0
+full: sum=24808.8, p=47300, sol=4.19599, var=0.00719791
+send> 0
+pop buf
+fill buf: 0
+full: sum=24857.4, p=47400, sol=4.19534, var=0.00655065
+send> 0
+pop buf
+fill buf: 0
+full: sum=24909.6, p=47500, sol=4.1953, var=0.00650857
+send> 0
+pop buf
+fill buf: 0
+full: sum=24958.2, p=47600, sol=4.19466, var=0.00586943
+send> 0
+pop buf
+fill buf: 0
+full: sum=25008, p=47700, sol=4.19421, var=0.00541643
+send> 0
+pop buf
+fill buf: 0
+full: sum=25063.1, p=47800, sol=4.19467, var=0.00587647
+send> 0
+pop buf
+fill buf: 0
+full: sum=25115, p=47900, sol=4.19457, var=0.00577758
+send> 0
+pop buf
+fill buf: 0
+full: sum=25161.6, p=48000, sol=4.1936, var=0.00480493
+send> 0
+pop buf
+fill buf: 0
+full: sum=25215.8, p=48100, sol=4.1939, var=0.00510644
+send> 0
+pop buf
+fill buf: 0
+full: sum=25267.8, p=48200, sol=4.19383, var=0.0050377
+send> 0
+pop buf
+fill buf: 0
+full: sum=25320.9, p=48300, sol=4.19393, var=0.00514245
+send> 0
+pop buf
+fill buf: 0
+full: sum=25370.2, p=48400, sol=4.19341, var=0.00462468
+send> 0
+pop buf
+fill buf: 0
+full: sum=25422.6, p=48500, sol=4.19342, var=0.00462884
+send> 0
+pop buf
+fill buf: 0
+full: sum=25477.2, p=48600, sol=4.19379, var=0.00499556
+send> 0
+pop buf
+fill buf: 0
+full: sum=25526.4, p=48700, sol=4.19325, var=0.0044602
+send> 0
+pop buf
+fill buf: 0
+full: sum=25581.4, p=48800, sol=4.19368, var=0.00488541
+send> 0
+pop buf
+fill buf: 0
+full: sum=25634.6, p=48900, sol=4.1938, var=0.00501362
+send> 0
+pop buf
+fill buf: 0
+full: sum=25685.5, p=49000, sol=4.19356, var=0.00476655
+send> 0
+pop buf
+fill buf: 0
+full: sum=25730.2, p=49100, sol=4.19229, var=0.0035019
+send> 0
+pop buf
+fill buf: 0
+full: sum=25784.4, p=49200, sol=4.19258, var=0.00379384
+send> 0
+pop buf
+fill buf: 0
+full: sum=25837.6, p=49300, sol=4.19271, var=0.00392012
+send> 0
+pop buf
+fill buf: 0
+full: sum=25891.3, p=49400, sol=4.19292, var=0.00413333
+send> 0
+pop buf
+fill buf: 0
+full: sum=25943.6, p=49500, sol=4.1929, var=0.00411267
+send> 0
+pop buf
+fill buf: 0
+full: sum=25995.6, p=49600, sol=4.19283, var=0.00404311
+send> 0
+pop buf
+fill buf: 0
+full: sum=26046.5, p=49700, sol=4.1926, var=0.00380775
+send> 0
+pop buf
+fill buf: 0
+full: sum=26099.8, p=49800, sol=4.19274, var=0.00394912
+send> 0
+pop buf
+fill buf: 0
+full: sum=26149.8, p=49900, sol=4.19234, var=0.00355459
+send> 0
+pop buf
+fill buf: 0
+full: sum=26200.3, p=50000, sol=4.19205, var=0.00326115
+send> 0
+pop buf
+fill buf: 0
+full: sum=26248.7, p=50100, sol=4.1914, var=0.00261137
+send> 0
+pop buf
+fill buf: 0
+full: sum=26298.9, p=50200, sol=4.19106, var=0.00226983
+send> 0
+pop buf
+fill buf: 0
+full: sum=26351.5, p=50300, sol=4.19109, var=0.00230279
+send> 0
+pop buf
+fill buf: 0
+full: sum=26407.5, p=50400, sol=4.19167, var=0.00287733
+send> 0
+pop buf
+fill buf: 0
+full: sum=26462.9, p=50500, sol=4.19214, var=0.0033539
+send> 0
+pop buf
+fill buf: 0
+full: sum=26514.5, p=50600, sol=4.19202, var=0.00323055
+send> 0
+pop buf
+fill buf: 0
+full: sum=26570.8, p=50700, sol=4.19263, var=0.00384448
+send> 0
+pop buf
+fill buf: 0
+full: sum=26621.4, p=50800, sol=4.19235, var=0.00355583
+send> 0
+pop buf
+fill buf: 0
+full: sum=26672.4, p=50900, sol=4.19212, var=0.00333222
+send> 0
+pop buf
+fill buf: 0
+full: sum=26725.1, p=51000, sol=4.19218, var=0.0033883
+send> 0
+pop buf
+fill buf: 0
+full: sum=26777, p=51100, sol=4.19209, var=0.00330162
+send> 0
+pop buf
+fill buf: 0
+full: sum=26828.9, p=51200, sol=4.19201, var=0.0032217
+send> 0
+pop buf
+fill buf: 0
+full: sum=26877.2, p=51300, sol=4.19138, var=0.00259043
+send> 0
+pop buf
+fill buf: 0
+full: sum=26932.2, p=51400, sol=4.19178, var=0.00299247
+send> 0
+pop buf
+fill buf: 0
+full: sum=26975.3, p=51500, sol=4.19033, var=0.00154321
+send> 0
+pop buf
+fill buf: 0
+full: sum=27031.4, p=51600, sol=4.19091, var=0.00211938
+send> 0
+pop buf
+fill buf: 0
+full: sum=27085.9, p=51700, sol=4.19124, var=0.00245032
+send> 0
+pop buf
+fill buf: 0
+full: sum=27139.7, p=51800, sol=4.19146, var=0.00266651
+send> 0
+pop buf
+fill buf: 0
+full: sum=27196.2, p=51900, sol=4.1921, var=0.00330714
+send> 0
+pop buf
+fill buf: 0
+full: sum=27239.6, p=52000, sol=4.19071, var=0.00192267
+send> 0
+pop buf
+fill buf: 0
+full: sum=27298.4, p=52100, sol=4.19169, var=0.00289608
+send> 0
+pop buf
+fill buf: 0
+full: sum=27349.4, p=52200, sol=4.19147, var=0.00268252
+send> 0
+pop buf
+fill buf: 0
+full: sum=27402, p=52300, sol=4.19152, var=0.00272782
+send> 0
+pop buf
+fill buf: 0
+full: sum=27460.2, p=52400, sol=4.19239, var=0.00360218
+send> 0
+pop buf
+fill buf: 0
+full: sum=27510.8, p=52500, sol=4.19212, var=0.00333454
+send> 0
+pop buf
+fill buf: 0
+full: sum=27559.2, p=52600, sol=4.19151, var=0.00271811
+send> 0
+pop buf
+fill buf: 0
+full: sum=27607.8, p=52700, sol=4.19094, var=0.00215337
+send> 0
+pop buf
+fill buf: 0
+full: sum=27659.1, p=52800, sol=4.19077, var=0.00198342
+send> 0
+pop buf
+fill buf: 0
+full: sum=27714.7, p=52900, sol=4.19126, var=0.00246721
+send> 0
+pop buf
+fill buf: 0
+full: sum=27762.9, p=53000, sol=4.19063, var=0.00184349
+send> 0
+pop buf
+fill buf: 0
+full: sum=27810.2, p=53100, sol=4.18986, var=0.00107262
+send> 0
+pop buf
+fill buf: 0
+full: sum=27858.6, p=53200, sol=4.18927, var=0.000478762
+send> 0
+pop buf
+fill buf: 0
+full: sum=27911.1, p=53300, sol=4.18928, var=0.000486159
+send> 0
+pop buf
+fill buf: 0
+full: sum=27966.9, p=53400, sol=4.18979, var=0.00100433
+send> 0
+pop buf
+fill buf: 0
+full: sum=28013.6, p=53500, sol=4.18895, var=0.000155529
+send> 0
+pop buf
+fill buf: 0
+full: sum=28061.5, p=53600, sol=4.18828, var=0.000508212
+send> 0
+pop buf
+fill buf: 0
+full: sum=28111.6, p=53700, sol=4.18795, var=0.000836063
+send> 0
+pop buf
+fill buf: 0
+full: sum=28162.3, p=53800, sol=4.18771, var=0.00108386
+send> 0
+pop buf
+fill buf: 0
+full: sum=28218.1, p=53900, sol=4.18821, var=0.00058042
+send> 0
+pop buf
+fill buf: 0
+full: sum=28262.7, p=54000, sol=4.18707, var=0.00171634
+send> 0
+pop buf
+fill buf: 0
+full: sum=28311.4, p=54100, sol=4.18652, var=0.00226787
+send> 0
+pop buf
+fill buf: 0
+full: sum=28366.1, p=54200, sol=4.18688, var=0.00191084
+send> 0
+pop buf
+fill buf: 0
+full: sum=28420.3, p=54300, sol=4.18715, var=0.00164465
+send> 0
+pop buf
+fill buf: 0
+full: sum=28470, p=54400, sol=4.18677, var=0.00202139
+send> 0
+pop buf
+fill buf: 0
+full: sum=28524.9, p=54500, sol=4.18714, var=0.0016532
+send> 0
+pop buf
+fill buf: 0
+full: sum=28580, p=54600, sol=4.18755, var=0.00123904
+send> 0
+pop buf
+fill buf: 0
+full: sum=28632.9, p=54700, sol=4.18763, var=0.00115786
+send> 0
+pop buf
+fill buf: 0
+full: sum=28685, p=54800, sol=4.1876, var=0.00119384
+send> 0
+pop buf
+fill buf: 0
+full: sum=28737, p=54900, sol=4.18754, var=0.00125239
+send> 0
+pop buf
+fill buf: 0
+full: sum=28780.4, p=55000, sol=4.18624, var=0.00255422
+send> 0
+pop buf
+fill buf: 0
+full: sum=28833.2, p=55100, sol=4.18631, var=0.00247604
+send> 0
+pop buf
+fill buf: 0
+full: sum=28884.7, p=55200, sol=4.18618, var=0.00260687
+send> 0
+pop buf
+fill buf: 0
+full: sum=28933.3, p=55300, sol=4.18565, var=0.00314464
+send> 0
+pop buf
+fill buf: 0
+full: sum=28983.7, p=55400, sol=4.18538, var=0.00341283
+send> 0
+pop buf
+fill buf: 0
+full: sum=29040.3, p=55500, sol=4.18599, var=0.0027974
+send> 0
+pop buf
+fill buf: 0
+full: sum=29093.4, p=55600, sol=4.1861, var=0.00269405
+send> 0
+pop buf
+fill buf: 0
+full: sum=29142.8, p=55700, sol=4.18568, var=0.00311247
+send> 0
+pop buf
+fill buf: 0
+full: sum=29190.4, p=55800, sol=4.18501, var=0.00378181
+send> 0
+pop buf
+fill buf: 0
+full: sum=29241.2, p=55900, sol=4.18479, var=0.00400504
+send> 0
+pop buf
+fill buf: 0
+full: sum=29295.4, p=56000, sol=4.18506, var=0.00373071
+send> 0
+pop buf
+fill buf: 0
+full: sum=29346.9, p=56100, sol=4.18494, var=0.00385459
+send> 0
+pop buf
+fill buf: 0
+full: sum=29400.5, p=56200, sol=4.18512, var=0.00367139
+send> 0
+pop buf
+fill buf: 0
+full: sum=29460.1, p=56300, sol=4.18616, var=0.00263356
+send> 0
+pop buf
+fill buf: 0
+full: sum=29512.3, p=56400, sol=4.18615, var=0.00264196
+send> 0
+pop buf
+fill buf: 0
+full: sum=29557.9, p=56500, sol=4.18519, var=0.00359697
+send> 0
+pop buf
+fill buf: 0
+full: sum=29609.8, p=56600, sol=4.18514, var=0.00365335
+send> 0
+pop buf
+fill buf: 0
+full: sum=29665.8, p=56700, sol=4.18565, var=0.00314519
+send> 0
+pop buf
+fill buf: 0
+full: sum=29713.3, p=56800, sol=4.18497, var=0.00381954
+send> 0
+pop buf
+fill buf: 0
+full: sum=29759.8, p=56900, sol=4.18415, var=0.00463586
+send> 0
+pop buf
+fill buf: 0
+full: sum=29809.9, p=57000, sol=4.18384, var=0.00495087
+send> 0
+pop buf
+fill buf: 0
+full: sum=29860.7, p=57100, sol=4.18363, var=0.00515836
+send> 0
+pop buf
+fill buf: 0
+full: sum=29915.9, p=57200, sol=4.18404, var=0.00475236
+send> 0
+pop buf
+fill buf: 0
+full: sum=29973.8, p=57300, sol=4.18482, var=0.003969
+send> 0
+pop buf
+fill buf: 0
+full: sum=30026.9, p=57400, sol=4.18493, var=0.00385693
+send> 0
+pop buf
+fill buf: 0
+full: sum=30077.3, p=57500, sol=4.18467, var=0.00412218
+send> 0
+pop buf
+fill buf: 0
+full: sum=30134.3, p=57600, sol=4.18532, var=0.00347002
+send> 0
+pop buf
+fill buf: 0
+full: sum=30190.8, p=57700, sol=4.1859, var=0.00288671
+send> 0
+pop buf
+fill buf: 0
+full: sum=30242.8, p=57800, sol=4.18585, var=0.00294177
+send> 0
+pop buf
+fill buf: 0
+full: sum=30300.6, p=57900, sol=4.18661, var=0.00218229
+send> 0
+pop buf
+fill buf: 0
+full: sum=30353.8, p=58000, sol=4.18674, var=0.00205412
+send> 0
+pop buf
+fill buf: 0
+full: sum=30404, p=58100, sol=4.18644, var=0.00235255
+send> 0
+pop buf
+fill buf: 0
+full: sum=30458.3, p=58200, sol=4.18671, var=0.00207849
+send> 0
+pop buf
+fill buf: 0
+full: sum=30510.8, p=58300, sol=4.18673, var=0.00206052
+send> 0
+pop buf
+fill buf: 0
+full: sum=30564.3, p=58400, sol=4.1869, var=0.00189337
+send> 0
+pop buf
+fill buf: 0
+full: sum=30617, p=58500, sol=4.18694, var=0.00185065
+send> 0
+pop buf
+fill buf: 0
+full: sum=30671, p=58600, sol=4.18717, var=0.00162333
+send> 0
+pop buf
+fill buf: 0
+full: sum=30725.5, p=58700, sol=4.18746, var=0.00133105
+send> 0
+pop buf
+fill buf: 0
+full: sum=30777.7, p=58800, sol=4.18744, var=0.00134879
+send> 0
+pop buf
+fill buf: 0
+full: sum=30830.7, p=58900, sol=4.18753, var=0.0012616
+send> 0
+pop buf
+fill buf: 0
+full: sum=30885, p=59000, sol=4.1878, var=0.000991609
+send> 0
+pop buf
+fill buf: 0
+full: sum=30935.9, p=59100, sol=4.18759, var=0.00119578
+send> 0
+pop buf
+fill buf: 0
+full: sum=30983.6, p=59200, sol=4.18697, var=0.00181581
+send> 0
+pop buf
+fill buf: 0
+full: sum=31037.3, p=59300, sol=4.18715, var=0.00163781
+send> 0
+pop buf
+fill buf: 0
+full: sum=31092.7, p=59400, sol=4.18757, var=0.00121758
+send> 0
+pop buf
+fill buf: 0
+full: sum=31146.6, p=59500, sol=4.18777, var=0.00101798
+send> 0
+pop buf
+fill buf: 0
+full: sum=31199.3, p=59600, sol=4.18783, var=0.000963168
+send> 0
+pop buf
+fill buf: 0
+full: sum=31250, p=59700, sol=4.1876, var=0.00118729
+send> 0
+pop buf
+fill buf: 0
+full: sum=31301, p=59800, sol=4.18742, var=0.00136827
+send> 0
+pop buf
+fill buf: 0
+full: sum=31352.2, p=59900, sol=4.18727, var=0.00151527
+send> 0
+pop buf
+fill buf: 0
+full: sum=31407.8, p=60000, sol=4.18771, var=0.00108445
+send> 0
+pop buf
+fill buf: 0
+full: sum=31457.7, p=60100, sol=4.18738, var=0.00141046
+send> 0
+pop buf
+fill buf: 0
+full: sum=31513.1, p=60200, sol=4.18779, var=0.00100439
+send> 0
+pop buf
+fill buf: 0
+full: sum=31564.2, p=60300, sol=4.18762, var=0.00117215
+send> 0
+pop buf
+fill buf: 0
+full: sum=31616.5, p=60400, sol=4.18762, var=0.0011712
+send> 0
+pop buf
+fill buf: 0
+full: sum=31669.1, p=60500, sol=4.18765, var=0.00113946
+send> 0
+pop buf
+fill buf: 0
+full: sum=31722.6, p=60600, sol=4.1878, var=0.000987577
+send> 0
+pop buf
+fill buf: 0
+full: sum=31769.3, p=60700, sol=4.18706, var=0.00172964
+send> 0
+pop buf
+fill buf: 0
+full: sum=31822.1, p=60800, sol=4.18712, var=0.00167424
+send> 0
+pop buf
+fill buf: 0
+full: sum=31865.9, p=60900, sol=4.18599, var=0.00279583
+send> 0
+pop buf
+fill buf: 0
+full: sum=31916.8, p=61000, sol=4.18581, var=0.00298087
+send> 0
+pop buf
+fill buf: 0
+full: sum=31971.7, p=61100, sol=4.18615, var=0.0026419
+send> 0
+pop buf
+fill buf: 0
+full: sum=32027, p=61200, sol=4.18654, var=0.0022494
+send> 0
+pop buf
+fill buf: 0
+full: sum=32080.2, p=61300, sol=4.18665, var=0.00213827
+send> 0
+pop buf
+fill buf: 0
+full: sum=32131.9, p=61400, sol=4.18656, var=0.0022268
+send> 0
+pop buf
+fill buf: 0
+full: sum=32183.4, p=61500, sol=4.18646, var=0.00232933
+send> 0
+pop buf
+fill buf: 0
+full: sum=32233.9, p=61600, sol=4.18622, var=0.0025721
+send> 0
+pop buf
+fill buf: 0
+full: sum=32287, p=61700, sol=4.18632, var=0.002475
+send> 0
+pop buf
+fill buf: 0
+full: sum=32337.2, p=61800, sol=4.18605, var=0.00274249
+send> 0
+pop buf
+fill buf: 0
+full: sum=32393.6, p=61900, sol=4.18657, var=0.00221801
+send> 0
+pop buf
+fill buf: 0
+full: sum=32443.8, p=62000, sol=4.1863, var=0.0024891
+send> 0
+pop buf
+fill buf: 0
+full: sum=32497.6, p=62100, sol=4.18649, var=0.00229851
+send> 0
+pop buf
+fill buf: 0
+full: sum=32553.1, p=62200, sol=4.1869, var=0.00189419
+send> 0
+pop buf
+fill buf: 0
+full: sum=32603.5, p=62300, sol=4.18665, var=0.00214121
+send> 0
+pop buf
+fill buf: 0
+full: sum=32654.5, p=62400, sol=4.18647, var=0.00231578
+send> 0
+pop buf
+fill buf: 0
+full: sum=32702.1, p=62500, sol=4.18587, var=0.00291674
+send> 0
+pop buf
+fill buf: 0
+full: sum=32757.8, p=62600, sol=4.1863, var=0.00248747
+send> 0
+pop buf
+fill buf: 0
+full: sum=32815.3, p=62700, sol=4.18696, var=0.00183183
+send> 0
+pop buf
+fill buf: 0
+full: sum=32868.8, p=62800, sol=4.1871, var=0.00168826
+send> 0
+pop buf
+fill buf: 0
+full: sum=32919.6, p=62900, sol=4.18691, var=0.00188387
+send> 0
+pop buf
+fill buf: 0
+full: sum=32968.7, p=63000, sol=4.1865, var=0.00228939
+send> 0
+pop buf
+fill buf: 0
+full: sum=33018.2, p=63100, sol=4.18615, var=0.00264414
+send> 0
+pop buf
+fill buf: 0
+full: sum=33071.6, p=63200, sol=4.18628, var=0.00250951
+send> 0
+pop buf
+fill buf: 0
+full: sum=33128.6, p=63300, sol=4.18687, var=0.00192079
+send> 0
+pop buf
+fill buf: 0
+full: sum=33182.8, p=63400, sol=4.1871, var=0.00168662
+send> 0
+pop buf
+fill buf: 0
+full: sum=33235.2, p=63500, sol=4.18711, var=0.00167545
+send> 0
+pop buf
+fill buf: 0
+full: sum=33284.6, p=63600, sol=4.18674, var=0.00204732
+send> 0
+pop buf
+fill buf: 0
+full: sum=33340.3, p=63700, sol=4.18717, var=0.0016193
+send> 0
+pop buf
+fill buf: 0
+full: sum=33389.1, p=63800, sol=4.18672, var=0.0020684
+send> 0
+pop buf
+fill buf: 0
+full: sum=33442.9, p=63900, sol=4.1869, var=0.00188685
+send> 0
+pop buf
+fill buf: 0
+full: sum=33495.2, p=64000, sol=4.18689, var=0.00189525
+send> 0
+pop buf
+fill buf: 0
+full: sum=33543.9, p=64100, sol=4.18644, var=0.00234846
+send> 0
+pop buf
+fill buf: 0
+full: sum=33598, p=64200, sol=4.18666, var=0.00212891
+send> 0
+pop buf
+fill buf: 0
+full: sum=33647, p=64300, sol=4.18625, var=0.0025402
+send> 0
+pop buf
+fill buf: 0
+full: sum=33706.9, p=64400, sol=4.18719, var=0.00159743
+send> 0
+pop buf
+fill buf: 0
+full: sum=33753.2, p=64500, sol=4.18645, var=0.00234265
+send> 0
+pop buf
+fill buf: 0
+full: sum=33802.4, p=64600, sol=4.18606, var=0.00273358
+send> 0
+pop buf
+fill buf: 0
+full: sum=33850.6, p=64700, sol=4.18554, var=0.00324531
+send> 0
+pop buf
+fill buf: 0
+full: sum=33903.4, p=64800, sol=4.18561, var=0.00318208
+send> 0
+pop buf
+fill buf: 0
+full: sum=33963.3, p=64900, sol=4.18654, var=0.00224661
+send> 0
+pop buf
+fill buf: 0
+full: sum=34015.5, p=65000, sol=4.18652, var=0.00227238
+send> 0
+pop buf
+fill buf: 0
+full: sum=34071.9, p=65100, sol=4.18703, var=0.00176518
+send> 0
+pop buf
+fill buf: 0
+full: sum=34128.4, p=65200, sol=4.18753, var=0.0012618
+send> 0
+pop buf
+fill buf: 0
+full: sum=34176.7, p=65300, sol=4.18704, var=0.00174993
+send> 0
+pop buf
+fill buf: 0
+full: sum=34229.1, p=65400, sol=4.18705, var=0.00174073
+send> 0
+pop buf
+fill buf: 0
+full: sum=34287.9, p=65500, sol=4.18784, var=0.000952007
+send> 0
+pop buf
+fill buf: 0
+full: sum=34331.2, p=65600, sol=4.18673, var=0.00205999
+send> 0
+pop buf
+fill buf: 0
+full: sum=34383, p=65700, sol=4.18667, var=0.00212279
+send> 0
+pop buf
+fill buf: 0
+full: sum=34435, p=65800, sol=4.18662, var=0.00216841
+send> 0
+pop buf
+fill buf: 0
+full: sum=34484.6, p=65900, sol=4.1863, var=0.00249454
+send> 0
+pop buf
+fill buf: 0
+full: sum=34538.9, p=66000, sol=4.18653, var=0.00225837
+send> 0
+pop buf
+fill buf: 0
+full: sum=34593.6, p=66100, sol=4.18682, var=0.00196873
+send> 0
+pop buf
+fill buf: 0
+full: sum=34645.8, p=66200, sol=4.1868, var=0.00198961
+send> 0
+pop buf
+fill buf: 0
+full: sum=34701, p=66300, sol=4.18715, var=0.00164127
+send> 0
+pop buf
+fill buf: 0
+full: sum=34755.9, p=66400, sol=4.18746, var=0.00132779
+send> 0
+pop buf
+fill buf: 0
+full: sum=34806.8, p=66500, sol=4.18728, var=0.0015068
+send> 0
+pop buf
+fill buf: 0
+full: sum=34855.9, p=66600, sol=4.1869, var=0.00189367
+send> 0
+pop buf
+fill buf: 0
+full: sum=34904.5, p=66700, sol=4.18645, var=0.00233933
+send> 0
+pop buf
+fill buf: 0
+full: sum=34954.3, p=66800, sol=4.18615, var=0.00264103
+send> 0
+pop buf
+fill buf: 0
+full: sum=35009.6, p=66900, sol=4.1865, var=0.00229319
+send> 0
+pop buf
+fill buf: 0
+full: sum=35063.5, p=67000, sol=4.18668, var=0.00210705
+send> 0
+pop buf
+fill buf: 0
+full: sum=35117.2, p=67100, sol=4.18685, var=0.00193957
+send> 0
+pop buf
+fill buf: 0
+full: sum=35168.8, p=67200, sol=4.18677, var=0.00202393
+send> 0
+pop buf
+fill buf: 0
+full: sum=35223.7, p=67300, sol=4.18707, var=0.00172427
+send> 0
+pop buf
+fill buf: 0
+full: sum=35276.3, p=67400, sol=4.1871, var=0.00169419
+send> 0
+pop buf
+fill buf: 0
+full: sum=35322.2, p=67500, sol=4.18633, var=0.00245606
+send> 0
+pop buf
+fill buf: 0
+full: sum=35375.6, p=67600, sol=4.18646, var=0.0023339
+send> 0
+pop buf
+fill buf: 0
+full: sum=35428.8, p=67700, sol=4.18657, var=0.00222502
+send> 0
+pop buf
+fill buf: 0
+full: sum=35477.8, p=67800, sol=4.18617, var=0.00261675
+send> 0
+pop buf
+fill buf: 0
+full: sum=35528.4, p=67900, sol=4.18596, var=0.00282528
+send> 0
+pop buf
+fill buf: 0
+full: sum=35577.8, p=68000, sol=4.18563, var=0.00316157
+send> 0
+pop buf
+fill buf: 0
+full: sum=35631.3, p=68100, sol=4.18576, var=0.0030288
+send> 0
+pop buf
+fill buf: 0
+full: sum=35681.9, p=68200, sol=4.18555, var=0.00323591
+send> 0
+pop buf
+fill buf: 0
+full: sum=35740.2, p=68300, sol=4.18626, var=0.0025288
+send> 0
+pop buf
+fill buf: 0
+full: sum=35791.7, p=68400, sol=4.18617, var=0.00262376
+send> 0
+pop buf
+fill buf: 0
+full: sum=35845.3, p=68500, sol=4.18632, var=0.00247382
+send> 0
+pop buf
+fill buf: 0
+full: sum=35900.7, p=68600, sol=4.18668, var=0.00211517
+send> 0
+pop buf
+fill buf: 0
+full: sum=35948.7, p=68700, sol=4.18617, var=0.00262092
+send> 0
+pop buf
+fill buf: 0
+full: sum=36005.1, p=68800, sol=4.18664, var=0.00215389
+send> 0
+pop buf
+fill buf: 0
+full: sum=36056.1, p=68900, sol=4.18649, var=0.00230041
+send> 0
+pop buf
+fill buf: 0
+full: sum=36112.4, p=69000, sol=4.18695, var=0.00184061
+send> 0
+pop buf
+fill buf: 0
+full: sum=36164.5, p=69100, sol=4.18692, var=0.00186991
+send> 0
+pop buf
+fill buf: 0
+full: sum=36213.3, p=69200, sol=4.18651, var=0.00228082
+send> 0
+pop buf
+fill buf: 0
+full: sum=36259.2, p=69300, sol=4.18577, var=0.00302226
+send> 0
+pop buf
+fill buf: 0
+full: sum=36317.7, p=69400, sol=4.18647, var=0.00231718
+send> 0
+pop buf
+fill buf: 0
+full: sum=36377.4, p=69500, sol=4.18733, var=0.0014645
+send> 0
+pop buf
+fill buf: 0
+full: sum=36426.8, p=69600, sol=4.18699, var=0.00180435
+send> 0
+pop buf
+fill buf: 0
+full: sum=36477.1, p=69700, sol=4.18676, var=0.00202986
+send> 0
+pop buf
+fill buf: 0
+full: sum=36529.9, p=69800, sol=4.18681, var=0.00197822
+send> 0
+pop buf
+fill buf: 0
+full: sum=36584.2, p=69900, sol=4.18703, var=0.00175927
+send> 0
+pop buf
+fill buf: 0
+full: sum=36642.5, p=70000, sol=4.18772, var=0.00107059
+send> 0
+pop buf
+fill buf: 0
+full: sum=36693.2, p=70100, sol=4.18752, var=0.00126919
+send> 0
+pop buf
+fill buf: 0
+full: sum=36750.5, p=70200, sol=4.18809, var=0.000703933
+send> 0
+pop buf
+fill buf: 0
+full: sum=36805.5, p=70300, sol=4.18839, var=0.000396915
+send> 0
+pop buf
+fill buf: 0
+full: sum=36858.1, p=70400, sol=4.18842, var=0.000374882
+send> 0
+pop buf
+fill buf: 0
+full: sum=36904.5, p=70500, sol=4.18775, var=0.00104357
+send> 0
+pop buf
+fill buf: 0
+full: sum=36955, p=70600, sol=4.18754, var=0.0012507
+send> 0
+pop buf
+fill buf: 0
+full: sum=37007.7, p=70700, sol=4.18758, var=0.00121061
+send> 0
+pop buf
+fill buf: 0
+full: sum=37063.3, p=70800, sol=4.18795, var=0.00084108
+send> 0
+pop buf
+fill buf: 0
+full: sum=37102.7, p=70900, sol=4.18648, var=0.00230641
+send> 0
+pop buf
+fill buf: 0
+full: sum=37158.7, p=71000, sol=4.1869, var=0.00189328
+send> 0
+pop buf
+fill buf: 0
+full: sum=37213, p=71100, sol=4.18711, var=0.00167648
+send> 0
+pop buf
+fill buf: 0
+full: sum=37266.5, p=71200, sol=4.18725, var=0.00154383
+send> 0
+pop buf
+fill buf: 0
+full: sum=37316.8, p=71300, sol=4.18701, var=0.00177561
+send> 0
+pop buf
+fill buf: 0
+full: sum=37369, p=71400, sol=4.187, var=0.00179218
+send> 0
+pop buf
+fill buf: 0
+full: sum=37422.1, p=71500, sol=4.18708, var=0.00170715
+send> 0
+pop buf
+fill buf: 0
+full: sum=37471, p=71600, sol=4.1867, var=0.00208843
+send> 0
+pop buf
+fill buf: 0
+full: sum=37521.9, p=71700, sol=4.18654, var=0.00224926
+send> 0
+pop buf
+fill buf: 0
+full: sum=37569.8, p=71800, sol=4.18605, var=0.00273732
+send> 0
+pop buf
+fill buf: 0
+full: sum=37621, p=71900, sol=4.18593, var=0.00286234
+send> 0
+pop buf
+fill buf: 0
+full: sum=37675.3, p=72000, sol=4.18614, var=0.00264958
+send> 0
+pop buf
+fill buf: 0
+full: sum=37729.2, p=72100, sol=4.18632, var=0.00247382
+send> 0
+pop buf
+fill buf: 0
+full: sum=37786.2, p=72200, sol=4.18684, var=0.00195127
+send> 0
+pop buf
+fill buf: 0
+full: sum=37838.1, p=72300, sol=4.18679, var=0.00200414
+send> 0
+pop buf
+fill buf: 0
+full: sum=37891.3, p=72400, sol=4.18688, var=0.00190863
+send> 0
+pop buf
+fill buf: 0
+full: sum=37938.1, p=72500, sol=4.18628, var=0.00251239
+send> 0
+pop buf
+fill buf: 0
+full: sum=37990.3, p=72600, sol=4.18626, var=0.00252708
+send> 0
+pop buf
+fill buf: 0
+full: sum=38038.7, p=72700, sol=4.18583, var=0.00295978
+send> 0
+pop buf
+fill buf: 0
+full: sum=38091.5, p=72800, sol=4.18588, var=0.00291265
+send> 0
+pop buf
+fill buf: 0
+full: sum=38138.6, p=72900, sol=4.18531, var=0.00348471
+send> 0
+pop buf
+fill buf: 0
+full: sum=38198.2, p=73000, sol=4.18611, var=0.00268161
+send> 0
+pop buf
+fill buf: 0
+full: sum=38245.4, p=73100, sol=4.18555, var=0.00324478
+send> 0
+pop buf
+fill buf: 0
+full: sum=38299.4, p=73200, sol=4.18573, var=0.0030611
+send> 0
+pop buf
+fill buf: 0
+full: sum=38346.3, p=73300, sol=4.18514, var=0.00365206
+send> 0
+pop buf
+fill buf: 0
+full: sum=38407.2, p=73400, sol=4.18607, var=0.00271699
+send> 0
+pop buf
+fill buf: 0
+full: sum=38465.2, p=73500, sol=4.18668, var=0.00210693
+send> 0
+pop buf
+fill buf: 0
+full: sum=38521.1, p=73600, sol=4.18708, var=0.0017132
+send> 0
+pop buf
+fill buf: 0
+full: sum=38572.9, p=73700, sol=4.18702, var=0.00176718
+send> 0
+pop buf
+fill buf: 0
+full: sum=38625.5, p=73800, sol=4.18704, var=0.00174535
+send> 0
+pop buf
+fill buf: 0
+full: sum=38684.3, p=73900, sol=4.18775, var=0.00104439
+send> 0
+pop buf
+fill buf: 0
+full: sum=38736.9, p=74000, sol=4.18777, var=0.00101528
+send> 0
+pop buf
+fill buf: 0
+full: sum=38787.8, p=74100, sol=4.18761, var=0.00117836
+send> 0
+pop buf
+fill buf: 0
+full: sum=38840.5, p=74200, sol=4.18766, var=0.00113354
+send> 0
+pop buf
+fill buf: 0
+full: sum=38897.6, p=74300, sol=4.18816, var=0.000625634
+send> 0
+pop buf
+fill buf: 0
+full: sum=38952.7, p=74400, sol=4.18847, var=0.000323481
+send> 0
+pop buf
+fill buf: 0
+full: sum=39007.9, p=74500, sol=4.18876, var=2.7218e-05
+send> 0
+pop buf
+fill buf: 0
+full: sum=39065, p=74600, sol=4.18928, var=0.00048803
+send> 0
+pop buf
+fill buf: 0
+full: sum=39119.5, p=74700, sol=4.1895, var=0.000714275
+send> 0
+pop buf
+fill buf: 0
+full: sum=39172.9, p=74800, sol=4.18961, var=0.000822775
+send> 0
+pop buf
+fill buf: 0
+full: sum=39225.8, p=74900, sol=4.18967, var=0.000878592
+send> 0
+pop buf
+fill buf: 0
+full: sum=39281.2, p=75000, sol=4.19, var=0.00120836
+send> 0
+pop buf
+fill buf: 0
+full: sum=39339.8, p=75100, sol=4.19065, var=0.00186351
+send> 0
+pop buf
+fill buf: 0
+full: sum=39395.9, p=75200, sol=4.19106, var=0.00226684
+send> 0
+pop buf
+fill buf: 0
+full: sum=39442.2, p=75300, sol=4.19041, var=0.00161734
+send> 0
+pop buf
+fill buf: 0
+full: sum=39485.5, p=75400, sol=4.18945, var=0.000657025
+send> 0
+pop buf
+fill buf: 0
+full: sum=39532.6, p=75500, sol=4.18889, var=9.75843e-05
+send> 0
+pop buf
+fill buf: 0
+full: sum=39584.9, p=75600, sol=4.18888, var=8.61242e-05
+send> 0
+pop buf
+fill buf: 0
+full: sum=39638.7, p=75700, sol=4.18903, var=0.00023614
+send> 0
+pop buf
+fill buf: 0
+full: sum=39699.1, p=75800, sol=4.18988, var=0.00108717
+send> 0
+pop buf
+fill buf: 0
+full: sum=39747.7, p=75900, sol=4.18949, var=0.000695478
+send> 0
+pop buf
+fill buf: 0
+full: sum=39803.9, p=76000, sol=4.18988, var=0.00109367
+send> 0
+pop buf
+fill buf: 0
+full: sum=39853.5, p=76100, sol=4.18959, var=0.000804079
+send> 0
+pop buf
+fill buf: 0
+full: sum=39909.2, p=76200, sol=4.18994, var=0.00114859
+send> 0
+pop buf
+fill buf: 0
+full: sum=39959.4, p=76300, sol=4.18971, var=0.000923499
+send> 0
+pop buf
+fill buf: 0
+full: sum=40009.2, p=76400, sol=4.18944, var=0.000652599
+send> 0
+pop buf
+fill buf: 0
+full: sum=40063.7, p=76500, sol=4.18967, var=0.00087733
+send> 0
+pop buf
+fill buf: 0
+full: sum=40118.4, p=76600, sol=4.18991, var=0.00112398
+send> 0
+pop buf
+fill buf: 0
+full: sum=40169.5, p=76700, sol=4.18978, var=0.000990205
+send> 0
+pop buf
+fill buf: 0
+full: sum=40218.1, p=76800, sol=4.18939, var=0.000597768
+send> 0
+pop buf
+fill buf: 0
+full: sum=40266.1, p=76900, sol=4.18893, var=0.00014444
+send> 0
+pop buf
+fill buf: 0
+full: sum=40317.1, p=77000, sol=4.18879, var=7.33339e-08
+RESULT
+Solution=4.18879, Delta=7.33339e-08, Points=77000
+Time=0.312122

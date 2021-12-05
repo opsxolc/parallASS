@@ -1,0 +1,3595 @@
+full: sum=54.6329, p=100, sol=4.37063, var=0.181839
+send> 0
+gen by myself
+full: sum=102.235, p=200, sol=4.08938, var=0.0994053
+send> 1
+gen by myself
+full: sum=156.058, p=300, sol=4.16154, var=0.0272462
+send> 0
+gen by myself
+full: sum=202.411, p=400, sol=4.04821, var=0.14058
+send> 1
+gen by myself
+full: sum=256.408, p=500, sol=4.10253, var=0.0862605
+send> 0
+gen by myself
+full: sum=312.944, p=600, sol=4.17258, var=0.016206
+send> 1
+gen by myself
+full: sum=365.765, p=700, sol=4.18017, var=0.00862073
+send> 0
+gen by myself
+full: sum=422.09, p=800, sol=4.2209, var=0.0321081
+send> 1
+gen by myself
+full: sum=482.396, p=900, sol=4.28796, var=0.0991723
+send> 0
+gen by myself
+full: sum=536.614, p=1000, sol=4.29291, var=0.104121
+send> 1
+gen by myself
+full: sum=591.881, p=1100, sol=4.30459, var=0.115802
+send> 0
+gen by myself
+full: sum=641.718, p=1200, sol=4.27812, var=0.0893282
+send> 1
+gen by myself
+full: sum=690.438, p=1300, sol=4.24885, var=0.0600571
+send> 0
+gen by myself
+full: sum=740.555, p=1400, sol=4.23174, var=0.0429544
+send> 1
+gen by myself
+full: sum=791.538, p=1500, sol=4.22154, var=0.0327466
+send> 0
+gen by myself
+full: sum=843.482, p=1600, sol=4.21741, var=0.0286193
+send> 1
+gen by myself
+full: sum=894.682, p=1700, sol=4.21027, var=0.02148
+send> 0
+gen by myself
+full: sum=948.463, p=1800, sol=4.21539, var=0.0266004
+send> 1
+gen by myself
+full: sum=999.426, p=1900, sol=4.20811, var=0.0193174
+send> 0
+gen by myself
+full: sum=1053.31, p=2000, sol=4.21323, var=0.0244437
+send> 1
+gen by myself
+full: sum=1102.66, p=2100, sol=4.20061, var=0.0118195
+send> 0
+gen by myself
+full: sum=1151.86, p=2200, sol=4.18859, var=0.000200363
+send> 1
+gen by myself
+full: sum=1205.77, p=2300, sol=4.19398, var=0.00518615
+send> 0
+gen by myself
+full: sum=1257.16, p=2400, sol=4.19052, var=0.00173173
+send> 1
+gen by myself
+full: sum=1308.46, p=2500, sol=4.18707, var=0.00172021
+send> 0
+gen by myself
+full: sum=1366.73, p=2600, sol=4.20531, var=0.016521
+send> 1
+gen by myself
+full: sum=1416.83, p=2700, sol=4.19803, var=0.00923751
+send> 0
+gen by myself
+full: sum=1475.64, p=2800, sol=4.21611, var=0.027317
+send> 1
+gen by myself
+full: sum=1530.72, p=2900, sol=4.22268, var=0.033885
+send> 0
+gen by myself
+full: sum=1577.54, p=3000, sol=4.20678, var=0.0179871
+send> 1
+gen by myself
+full: sum=1633.5, p=3100, sol=4.21548, var=0.0266943
+send> 0
+gen by myself
+full: sum=1684.06, p=3200, sol=4.21014, var=0.0213538
+send> 1
+gen by myself
+full: sum=1736.73, p=3300, sol=4.21026, var=0.0214746
+send> 0
+gen by myself
+full: sum=1787.8, p=3400, sol=4.2066, var=0.0178074
+send> 1
+gen by myself
+full: sum=1838.15, p=3500, sol=4.20148, var=0.0126849
+send> 0
+gen by myself
+full: sum=1892.12, p=3600, sol=4.20471, var=0.0159212
+send> 1
+gen by myself
+full: sum=1947.79, p=3700, sol=4.21143, var=0.0226412
+send> 0
+gen by myself
+full: sum=2006.71, p=3800, sol=4.22465, var=0.0358616
+send> 1
+gen by myself
+full: sum=2057.09, p=3900, sol=4.21967, var=0.0308795
+send> 0
+gen by myself
+full: sum=2105.1, p=4000, sol=4.2102, var=0.0214121
+send> 1
+gen by myself
+full: sum=2160.01, p=4100, sol=4.21465, var=0.0258631
+send> 0
+gen by myself
+full: sum=2208.25, p=4200, sol=4.20619, var=0.0173979
+send> 1
+gen by myself
+full: sum=2263.55, p=4300, sol=4.21126, var=0.0224666
+send> 0
+gen by myself
+full: sum=2320.69, p=4400, sol=4.21943, var=0.0306394
+send> 1
+gen by myself
+full: sum=2378.44, p=4500, sol=4.22834, var=0.0395463
+send> 0
+gen by myself
+full: sum=2424.66, p=4600, sol=4.21679, var=0.0280016
+send> 1
+gen by myself
+full: sum=2477.44, p=4700, sol=4.21692, var=0.0281328
+send> 0
+gen by myself
+full: sum=2530.63, p=4800, sol=4.21771, var=0.0289198
+send> 1
+gen by myself
+full: sum=2573.85, p=4900, sol=4.2022, var=0.0134109
+send> 0
+gen by myself
+full: sum=2626.47, p=5000, sol=4.20236, var=0.0135671
+send> 1
+gen by myself
+full: sum=2675.06, p=5100, sol=4.19617, var=0.00738308
+send> 0
+gen by myself
+full: sum=2730.35, p=5200, sol=4.20053, var=0.0117438
+send> 1
+gen by myself
+full: sum=2775.33, p=5300, sol=4.18918, var=0.000392154
+send> 0
+gen by myself
+full: sum=2823.13, p=5400, sol=4.18241, var=0.00638023
+send> 1
+gen by myself
+full: sum=2877.29, p=5500, sol=4.18515, var=0.00364283
+send> 0
+gen by myself
+full: sum=2927.91, p=5600, sol=4.18273, var=0.00606193
+send> 1
+gen by myself
+full: sum=2982.46, p=5700, sol=4.18591, var=0.00287964
+send> 0
+gen by myself
+full: sum=3034.3, p=5800, sol=4.18524, var=0.00355449
+send> 1
+gen by myself
+full: sum=3092.98, p=5900, sol=4.19387, var=0.00507738
+send> 0
+gen by myself
+full: sum=3143.33, p=6000, sol=4.1911, var=0.0023141
+send> 1
+gen by myself
+full: sum=3191.52, p=6100, sol=4.18559, var=0.00319579
+send> 0
+gen by myself
+full: sum=3244.81, p=6200, sol=4.18686, var=0.00193264
+send> 1
+gen by myself
+full: sum=3293.75, p=6300, sol=4.18254, var=0.00625261
+send> 0
+gen by myself
+full: sum=3343.29, p=6400, sol=4.17911, var=0.00967882
+send> 1
+gen by myself
+full: sum=3393.92, p=6500, sol=4.17714, var=0.0116547
+send> 0
+gen by myself
+full: sum=3439.69, p=6600, sol=4.16932, var=0.0194693
+send> 1
+gen by myself
+full: sum=3491.4, p=6700, sol=4.16884, var=0.0199488
+send> 0
+gen by myself
+full: sum=3539.17, p=6800, sol=4.16373, var=0.0250562
+send> 1
+gen by myself
+full: sum=3584.63, p=6900, sol=4.15609, var=0.0326975
+send> 0
+gen by myself
+full: sum=3636.07, p=7000, sol=4.15551, var=0.0332815
+send> 1
+gen by myself
+full: sum=3690.94, p=7100, sol=4.15881, var=0.0299846
+send> 0
+gen by myself
+full: sum=3739.92, p=7200, sol=4.15546, var=0.0333279
+send> 1
+gen by myself
+full: sum=3789.14, p=7300, sol=4.15248, var=0.0363066
+send> 0
+gen by myself
+full: sum=3841.15, p=7400, sol=4.15259, var=0.0361995
+send> 1
+gen by myself
+full: sum=3889.21, p=7500, sol=4.14849, var=0.0402989
+send> 0
+gen by myself
+full: sum=3942.19, p=7600, sol=4.14968, var=0.0391138
+send> 1
+gen by myself
+full: sum=3997.72, p=7700, sol=4.15347, var=0.0353166
+send> 0
+gen by myself
+full: sum=4043.77, p=7800, sol=4.14745, var=0.0413378
+send> 1
+gen by myself
+full: sum=4093.84, p=7900, sol=4.14566, var=0.0431296
+send> 0
+gen by myself
+full: sum=4144.42, p=8000, sol=4.14442, var=0.0443731
+send> 1
+gen by myself
+full: sum=4196.82, p=8100, sol=4.145, var=0.0437862
+send> 0
+gen by myself
+full: sum=4249.51, p=8200, sol=4.14586, var=0.0429298
+send> 1
+gen by myself
+full: sum=4300.32, p=8300, sol=4.14488, var=0.0439079
+send> 0
+gen by myself
+full: sum=4361.13, p=8400, sol=4.15345, var=0.0353361
+send> 1
+gen by myself
+full: sum=4415.54, p=8500, sol=4.1558, var=0.0329883
+send> 0
+gen by myself
+full: sum=4473.18, p=8600, sol=4.1611, var=0.0276943
+send> 1
+gen by myself
+full: sum=4523.06, p=8700, sol=4.15914, var=0.0296514
+send> 0
+gen by myself
+full: sum=4573.1, p=8800, sol=4.15736, var=0.0314274
+send> 1
+gen by myself
+full: sum=4629.3, p=8900, sol=4.16117, var=0.0276237
+send> 0
+gen by myself
+full: sum=4683.36, p=9000, sol=4.16298, var=0.025807
+send> 1
+gen by myself
+full: sum=4742.6, p=9100, sol=4.16932, var=0.01947
+send> 0
+gen by myself
+full: sum=4792.8, p=9200, sol=4.16765, var=0.0211363
+send> 1
+gen by myself
+full: sum=4849.87, p=9300, sol=4.17194, var=0.0168548
+send> 0
+gen by myself
+full: sum=4902.98, p=9400, sol=4.17275, var=0.0160397
+send> 1
+gen by myself
+full: sum=4952.04, p=9500, sol=4.17014, var=0.0186534
+send> 0
+gen by myself
+full: sum=5006.54, p=9600, sol=4.17211, var=0.0166775
+send> 1
+gen by myself
+full: sum=5051.54, p=9700, sol=4.16622, var=0.0225723
+send> 0
+gen by myself
+full: sum=5103.48, p=9800, sol=4.1661, var=0.0226861
+send> 1
+gen by myself
+full: sum=5153.53, p=9900, sol=4.16447, var=0.0243231
+send> 0
+gen by myself
+full: sum=5198.23, p=10000, sol=4.15858, var=0.0302053
+send> 1
+gen by myself
+full: sum=5248.12, p=10100, sol=4.15693, var=0.0318597
+send> 0
+gen by myself
+full: sum=5298.76, p=10200, sol=4.15589, var=0.0328982
+send> 1
+gen by myself
+full: sum=5346.83, p=10300, sol=4.15288, var=0.0359144
+send> 0
+gen by myself
+full: sum=5405.63, p=10400, sol=4.15818, var=0.030614
+send> 1
+gen by myself
+full: sum=5460.98, p=10500, sol=4.16075, var=0.0280418
+send> 0
+gen by myself
+full: sum=5509.22, p=10600, sol=4.1579, var=0.0308904
+send> 1
+gen by myself
+full: sum=5558.41, p=10700, sol=4.15582, var=0.0329688
+send> 0
+gen by myself
+full: sum=5610.13, p=10800, sol=4.15565, var=0.0331359
+send> 1
+gen by myself
+full: sum=5662.26, p=10900, sol=4.15579, var=0.0330029
+send> 0
+gen by myself
+full: sum=5713.6, p=11000, sol=4.15535, var=0.0334413
+send> 1
+gen by myself
+full: sum=5761.96, p=11100, sol=4.15276, var=0.0360269
+send> 0
+gen by myself
+full: sum=5813.72, p=11200, sol=4.15266, var=0.0361295
+send> 1
+gen by myself
+full: sum=5867.13, p=11300, sol=4.15372, var=0.0350697
+send> 0
+gen by myself
+full: sum=5917.64, p=11400, sol=4.15273, var=0.0360625
+send> 1
+gen by myself
+full: sum=5966.74, p=11500, sol=4.15078, var=0.0380121
+send> 0
+gen by myself
+full: sum=6017.55, p=11600, sol=4.15004, var=0.0387529
+send> 1
+gen by myself
+full: sum=6070.22, p=11700, sol=4.15058, var=0.038211
+send> 0
+gen by myself
+full: sum=6123.3, p=11800, sol=4.15139, var=0.0374036
+send> 1
+gen by myself
+full: sum=6171.88, p=11900, sol=4.14916, var=0.0396257
+send> 0
+gen by myself
+full: sum=6225.17, p=12000, sol=4.15011, var=0.038679
+send> 1
+gen by myself
+full: sum=6278.09, p=12100, sol=4.15081, var=0.0379838
+send> 0
+gen by myself
+full: sum=6332.3, p=12200, sol=4.15233, var=0.0364615
+send> 1
+gen by myself
+full: sum=6390.38, p=12300, sol=4.15634, var=0.0324463
+send> 0
+gen by myself
+full: sum=6442.16, p=12400, sol=4.15623, var=0.0325563
+send> 1
+gen by myself
+full: sum=6497.22, p=12500, sol=4.15822, var=0.0305706
+send> 0
+gen by myself
+full: sum=6546.76, p=12600, sol=4.15668, var=0.0321141
+send> 1
+gen by myself
+full: sum=6595.31, p=12700, sol=4.15453, var=0.0342639
+send> 0
+gen by myself
+full: sum=6647.1, p=12800, sol=4.15444, var=0.0343516
+send> 1
+gen by myself
+full: sum=6700.1, p=12900, sol=4.1551, var=0.0336917
+send> 0
+gen by myself
+full: sum=6759.34, p=13000, sol=4.1596, var=0.0291951
+send> 1
+gen by myself
+full: sum=6812.9, p=13100, sol=4.16055, var=0.0282383
+send> 0
+gen by myself
+full: sum=6861.53, p=13200, sol=4.1585, var=0.0302882
+send> 1
+gen by myself
+full: sum=6913.33, p=13300, sol=4.15839, var=0.0303959
+send> 0
+gen by myself
+full: sum=6966.81, p=13400, sol=4.15929, var=0.0295018
+send> 1
+gen by myself
+full: sum=7017.88, p=13500, sol=4.15874, var=0.0300488
+send> 0
+gen by myself
+full: sum=7076.09, p=13600, sol=4.16241, var=0.0263826
+send> 1
+gen by myself
+full: sum=7130.33, p=13700, sol=4.1637, var=0.025093
+send> 0
+gen by myself
+full: sum=7186.06, p=13800, sol=4.16583, var=0.0229572
+send> 1
+gen by myself
+full: sum=7235.26, p=13900, sol=4.16418, var=0.0246091
+send> 0
+gen by myself
+full: sum=7288.28, p=14000, sol=4.16473, var=0.0240599
+send> 1
+gen by myself
+full: sum=7343.12, p=14100, sol=4.16631, var=0.02248
+send> 0
+gen by myself
+full: sum=7389.51, p=14200, sol=4.16311, var=0.0256839
+send> 1
+gen by myself
+full: sum=7439.45, p=14300, sol=4.16193, var=0.0268581
+send> 0
+gen by myself
+full: sum=7484.79, p=14400, sol=4.15822, var=0.0305729
+send> 1
+gen by myself
+full: sum=7538.05, p=14500, sol=4.15893, var=0.0298648
+send> 0
+gen by myself
+full: sum=7593.17, p=14600, sol=4.16064, var=0.0281517
+send> 1
+gen by myself
+full: sum=7647.97, p=14700, sol=4.16216, var=0.0266275
+send> 0
+gen by myself
+full: sum=7701.76, p=14800, sol=4.16311, var=0.0256791
+send> 1
+gen by myself
+full: sum=7753.85, p=14900, sol=4.16314, var=0.0256494
+send> 0
+gen by myself
+full: sum=7796.75, p=15000, sol=4.15827, var=0.0305222
+send> 1
+gen by myself
+full: sum=7851.25, p=15100, sol=4.1596, var=0.0291866
+send> 0
+gen by myself
+full: sum=7902.6, p=15200, sol=4.15926, var=0.0295257
+send> 1
+gen by myself
+full: sum=7955.6, p=15300, sol=4.15979, var=0.0289973
+send> 0
+gen by myself
+full: sum=8005.03, p=15400, sol=4.15845, var=0.0303352
+send> 1
+gen by myself
+full: sum=8057.89, p=15500, sol=4.15891, var=0.0298797
+send> 0
+gen by myself
+full: sum=8109.99, p=15600, sol=4.15897, var=0.0298186
+send> 1
+gen by myself
+full: sum=8158.4, p=15700, sol=4.15715, var=0.0316424
+send> 0
+gen by myself
+full: sum=8213.55, p=15800, sol=4.15876, var=0.0300312
+send> 1
+gen by myself
+full: sum=8268.22, p=15900, sol=4.16011, var=0.0286774
+send> 0
+gen by myself
+full: sum=8323.18, p=16000, sol=4.16159, var=0.0272003
+send> 1
+gen by myself
+full: sum=8382.16, p=16100, sol=4.16505, var=0.0237437
+send> 0
+gen by myself
+full: sum=8434.4, p=16200, sol=4.16513, var=0.0236553
+send> 1
+gen by myself
+full: sum=8487.23, p=16300, sol=4.16551, var=0.023278
+send> 0
+gen by myself
+full: sum=8539.15, p=16400, sol=4.16544, var=0.0233517
+send> 1
+gen by myself
+full: sum=8592.88, p=16500, sol=4.16625, var=0.0225441
+send> 0
+gen by myself
+full: sum=8644.67, p=16600, sol=4.16611, var=0.0226818
+send> 1
+gen by myself
+full: sum=8699.98, p=16700, sol=4.16766, var=0.0211329
+send> 0
+gen by myself
+full: sum=8754.81, p=16800, sol=4.16896, var=0.0198332
+send> 1
+gen by myself
+full: sum=8807.15, p=16900, sol=4.16906, var=0.0197255
+send> 0
+gen by myself
+full: sum=8863.1, p=17000, sol=4.17087, var=0.0179176
+send> 1
+gen by myself
+full: sum=8924.95, p=17100, sol=4.17542, var=0.0133727
+send> 0
+gen by myself
+full: sum=8978.37, p=17200, sol=4.17599, var=0.0128032
+send> 1
+gen by myself
+full: sum=9028.23, p=17300, sol=4.1749, var=0.0138857
+send> 0
+gen by myself
+full: sum=9082.39, p=17400, sol=4.17581, var=0.0129777
+send> 1
+gen by myself
+full: sum=9131.57, p=17500, sol=4.17443, var=0.0143571
+send> 0
+gen by myself
+full: sum=9186.66, p=17600, sol=4.17575, var=0.0130366
+send> 1
+gen by myself
+full: sum=9237.23, p=17700, sol=4.17502, var=0.0137716
+send> 0
+gen by myself
+full: sum=9291.61, p=17800, sol=4.176, var=0.0127853
+send> 1
+gen by myself
+full: sum=9340.2, p=17900, sol=4.17439, var=0.014398
+send> 0
+gen by myself
+full: sum=9391.12, p=18000, sol=4.17383, var=0.0149588
+send> 1
+gen by myself
+full: sum=9445.52, p=18100, sol=4.17481, var=0.0139756
+send> 0
+gen by myself
+full: sum=9496.23, p=18200, sol=4.17417, var=0.0146243
+send> 1
+gen by myself
+full: sum=9545.08, p=18300, sol=4.17271, var=0.0160789
+send> 0
+gen by myself
+full: sum=9596.65, p=18400, sol=4.17246, var=0.0163351
+send> 1
+gen by myself
+full: sum=9644.34, p=18500, sol=4.17053, var=0.0182652
+send> 0
+gen by myself
+full: sum=9692.57, p=18600, sol=4.16885, var=0.019942
+send> 1
+gen by myself
+full: sum=9749.54, p=18700, sol=4.17093, var=0.017862
+send> 0
+gen by myself
+full: sum=9802.66, p=18800, sol=4.17135, var=0.0174447
+send> 1
+gen by myself
+full: sum=9856.63, p=18900, sol=4.17212, var=0.0166727
+send> 0
+gen by myself
+full: sum=9905.83, p=19000, sol=4.17087, var=0.0179161
+send> 1
+gen by myself
+full: sum=9956.38, p=19100, sol=4.17021, var=0.0185807
+send> 0
+gen by myself
+full: sum=10009.3, p=19200, sol=4.17054, var=0.0182543
+send> 1
+gen by myself
+full: sum=10061.8, p=19300, sol=4.1707, var=0.0180915
+send> 0
+gen by myself
+full: sum=10114.2, p=19400, sol=4.17079, var=0.0179956
+send> 1
+gen by myself
+full: sum=10162.5, p=19500, sol=4.16923, var=0.0195641
+send> 0
+gen by myself
+full: sum=10212.9, p=19600, sol=4.16853, var=0.0202583
+send> 1
+gen by myself
+full: sum=10263.1, p=19700, sol=4.16776, var=0.0210347
+send> 0
+gen by myself
+full: sum=10311.6, p=19800, sol=4.16631, var=0.0224775
+send> 1
+gen by myself
+full: sum=10365.2, p=19900, sol=4.16691, var=0.0218815
+send> 0
+gen by myself
+full: sum=10420.1, p=20000, sol=4.16805, var=0.0207448
+send> 1
+gen by myself
+full: sum=10476.7, p=20100, sol=4.16982, var=0.0189666
+send> 0
+gen by myself
+full: sum=10531.7, p=20200, sol=4.17096, var=0.0178301
+send> 1
+gen by myself
+full: sum=10583.6, p=20300, sol=4.17087, var=0.0179165
+send> 0
+gen by myself
+full: sum=10633.8, p=20400, sol=4.17012, var=0.0186736
+send> 1
+gen by myself
+full: sum=10685.8, p=20500, sol=4.17008, var=0.0187139
+send> 0
+gen by myself
+full: sum=10739, p=20600, sol=4.17049, var=0.018303
+send> 1
+gen by myself
+full: sum=10792.4, p=20700, sol=4.17096, var=0.0178253
+send> 0
+gen by myself
+full: sum=10845.4, p=20800, sol=4.1713, var=0.0174902
+send> 1
+gen by myself
+full: sum=10897.2, p=20900, sol=4.17116, var=0.0176309
+send> 0
+gen by myself
+full: sum=10949, p=21000, sol=4.17105, var=0.0177391
+send> 1
+gen by myself
+full: sum=10997.9, p=21100, sol=4.16982, var=0.0189658
+send> 0
+gen by myself
+full: sum=11048.2, p=21200, sol=4.16915, var=0.0196451
+send> 1
+gen by myself
+full: sum=11103.4, p=21300, sol=4.17028, var=0.0185143
+send> 0
+gen by myself
+full: sum=11159.5, p=21400, sol=4.17177, var=0.0170236
+send> 1
+gen by myself
+full: sum=11212.4, p=21500, sol=4.17205, var=0.0167355
+send> 0
+gen by myself
+full: sum=11265.3, p=21600, sol=4.17232, var=0.0164718
+send> 1
+gen by myself
+full: sum=11310.7, p=21700, sol=4.16983, var=0.0189646
+send> 0
+gen by myself
+full: sum=11362.6, p=21800, sol=4.16976, var=0.0190336
+send> 1
+gen by myself
+full: sum=11418.7, p=21900, sol=4.17122, var=0.0175685
+send> 0
+gen by myself
+full: sum=11472.5, p=22000, sol=4.17182, var=0.0169745
+send> 1
+gen by myself
+full: sum=11518, p=22100, sol=4.1694, var=0.0193889
+send> 0
+gen by myself
+full: sum=11569.2, p=22200, sol=4.16907, var=0.0197229
+send> 1
+gen by myself
+full: sum=11620.5, p=22300, sol=4.16881, var=0.0199833
+send> 0
+gen by myself
+full: sum=11671.9, p=22400, sol=4.16855, var=0.0202414
+send> 1
+gen by myself
+full: sum=11725, p=22500, sol=4.16889, var=0.0198962
+send> 0
+gen by myself
+full: sum=11782.2, p=22600, sol=4.17068, var=0.0181141
+send> 1
+gen by myself
+full: sum=11834.7, p=22700, sol=4.17081, var=0.0179785
+send> 0
+gen by myself
+full: sum=11893.7, p=22800, sol=4.17322, var=0.0155662
+send> 1
+gen by myself
+full: sum=11949.1, p=22900, sol=4.17437, var=0.0144206
+send> 0
+gen by myself
+full: sum=12004, p=23000, sol=4.17532, var=0.0134722
+send> 1
+gen by myself
+full: sum=12060.4, p=23100, sol=4.17676, var=0.0120297
+send> 0
+gen by myself
+full: sum=12109.6, p=23200, sol=4.17572, var=0.0130656
+send> 1
+gen by myself
+full: sum=12166.6, p=23300, sol=4.17736, var=0.0114265
+send> 0
+gen by myself
+full: sum=12216.4, p=23400, sol=4.17656, var=0.0122328
+send> 1
+gen by myself
+full: sum=12271.4, p=23500, sol=4.17748, var=0.0113067
+send> 0
+gen by myself
+full: sum=12320.9, p=23600, sol=4.17659, var=0.0121986
+send> 1
+gen by myself
+full: sum=12372.6, p=23700, sol=4.17639, var=0.0123984
+send> 0
+gen by myself
+full: sum=12425, p=23800, sol=4.17646, var=0.0123309
+send> 1
+gen by myself
+full: sum=12480.2, p=23900, sol=4.17746, var=0.0113338
+send> 0
+gen by myself
+full: sum=12532.4, p=24000, sol=4.17747, var=0.0113238
+send> 1
+gen by myself
+full: sum=12585, p=24100, sol=4.17759, var=0.0112024
+send> 0
+gen by myself
+full: sum=12632.8, p=24200, sol=4.17613, var=0.0126615
+send> 1
+gen by myself
+full: sum=12680.2, p=24300, sol=4.17454, var=0.0142525
+send> 0
+gen by myself
+full: sum=12730.8, p=24400, sol=4.17404, var=0.0147481
+send> 1
+gen by myself
+full: sum=12787.1, p=24500, sol=4.17537, var=0.0134203
+send> 0
+gen by myself
+full: sum=12840.9, p=24600, sol=4.1759, var=0.0128884
+send> 1
+gen by myself
+full: sum=12887.5, p=24700, sol=4.17408, var=0.014714
+send> 0
+gen by myself
+full: sum=12938.9, p=24800, sol=4.17385, var=0.0149373
+send> 1
+gen by myself
+full: sum=12995.6, p=24900, sol=4.17529, var=0.0135045
+send> 0
+gen by myself
+full: sum=13054.8, p=25000, sol=4.17753, var=0.0112568
+send> 1
+gen by myself
+full: sum=13112.1, p=25100, sol=4.17915, var=0.00963807
+send> 0
+gen by myself
+full: sum=13162.1, p=25200, sol=4.17844, var=0.0103548
+send> 1
+gen by myself
+full: sum=13205.6, p=25300, sol=4.1757, var=0.0130929
+send> 0
+gen by myself
+full: sum=13254, p=25400, sol=4.1745, var=0.0142879
+send> 1
+gen by myself
+full: sum=13303.8, p=25500, sol=4.17374, var=0.0150526
+send> 0
+gen by myself
+full: sum=13361.3, p=25600, sol=4.1754, var=0.0133865
+send> 1
+gen by myself
+full: sum=13416.6, p=25700, sol=4.17638, var=0.0124061
+send> 0
+gen by myself
+full: sum=13476.2, p=25800, sol=4.17867, var=0.0101175
+send> 1
+gen by myself
+full: sum=13533.8, p=25900, sol=4.18032, var=0.00847127
+send> 0
+gen by myself
+full: sum=13586.4, p=26000, sol=4.18044, var=0.008353
+send> 1
+gen by myself
+full: sum=13644.1, p=26100, sol=4.18209, var=0.00670452
+send> 0
+gen by myself
+full: sum=13693.5, p=26200, sol=4.18123, var=0.00755941
+send> 1
+gen by myself
+full: sum=13746, p=26300, sol=4.1813, var=0.00749099
+send> 0
+gen by myself
+full: sum=13802, p=26400, sol=4.18241, var=0.0063793
+send> 1
+gen by myself
+full: sum=13855.8, p=26500, sol=4.18288, var=0.00591515
+send> 0
+gen by myself
+full: sum=13906.5, p=26600, sol=4.18242, var=0.00637419
+send> 1
+gen by myself
+full: sum=13959.9, p=26700, sol=4.18273, var=0.00605591
+send> 0
+gen by myself
+full: sum=14011.7, p=26800, sol=4.18259, var=0.00619742
+send> 1
+gen by myself
+full: sum=14060, p=26900, sol=4.18142, var=0.007373
+send> 0
+gen by myself
+full: sum=14113.1, p=27000, sol=4.18167, var=0.00711932
+send> 1
+gen by myself
+full: sum=14166.6, p=27100, sol=4.18201, var=0.00677867
+send> 0
+gen by myself
+full: sum=14213.5, p=27200, sol=4.18044, var=0.00834862
+send> 1
+gen by myself
+full: sum=14268, p=27300, sol=4.18111, var=0.00767866
+send> 0
+gen by myself
+full: sum=14322, p=27400, sol=4.18159, var=0.00719617
+send> 1
+gen by myself
+full: sum=14369, p=27500, sol=4.18007, var=0.00871536
+send> 0
+gen by myself
+full: sum=14417.4, p=27600, sol=4.17895, var=0.00983976
+send> 1
+gen by myself
+full: sum=14472.9, p=27700, sol=4.17991, var=0.00888443
+send> 0
+gen by myself
+full: sum=14525.8, p=27800, sol=4.1801, var=0.0086921
+send> 1
+gen by myself
+full: sum=14577.4, p=27900, sol=4.1799, var=0.0088945
+send> 0
+gen by myself
+full: sum=14634.7, p=28000, sol=4.18135, var=0.00744174
+send> 1
+gen by myself
+full: sum=14683.8, p=28100, sol=4.18044, var=0.00834738
+send> 0
+gen by myself
+full: sum=14731.8, p=28200, sol=4.17922, var=0.00956734
+send> 1
+gen by myself
+full: sum=14782.5, p=28300, sol=4.17881, var=0.00998281
+send> 0
+gen by myself
+full: sum=14836.6, p=28400, sol=4.17931, var=0.0094775
+send> 1
+gen by myself
+full: sum=14888.1, p=28500, sol=4.1791, var=0.0096871
+send> 0
+gen by myself
+full: sum=14944.2, p=28600, sol=4.18018, var=0.00860578
+send> 1
+gen by myself
+full: sum=14996, p=28700, sol=4.18006, var=0.00873298
+send> 0
+gen by myself
+full: sum=15046.4, p=28800, sol=4.17956, var=0.00923314
+send> 1
+gen by myself
+full: sum=15091.4, p=28900, sol=4.17755, var=0.0112422
+send> 0
+gen by myself
+full: sum=15142.8, p=29000, sol=4.17731, var=0.0114767
+send> 1
+gen by myself
+full: sum=15194.2, p=29100, sol=4.1771, var=0.011686
+send> 0
+gen by myself
+full: sum=15249, p=29200, sol=4.17781, var=0.0109802
+send> 1
+gen by myself
+full: sum=15308.5, p=29300, sol=4.17979, var=0.00899648
+send> 0
+gen by myself
+full: sum=15366.3, p=29400, sol=4.1813, var=0.00749183
+send> 1
+gen by myself
+full: sum=15423.3, p=29500, sol=4.1826, var=0.00619035
+send> 0
+gen by myself
+full: sum=15474.9, p=29600, sol=4.18241, var=0.00638291
+send> 1
+gen by myself
+full: sum=15531.8, p=29700, sol=4.18366, var=0.00513496
+send> 0
+gen by myself
+full: sum=15585.5, p=29800, sol=4.18404, var=0.00475385
+send> 1
+gen by myself
+full: sum=15642.7, p=29900, sol=4.18533, var=0.00346335
+send> 0
+gen by myself
+full: sum=15686.8, p=30000, sol=4.18315, var=0.00563896
+send> 1
+gen by myself
+full: sum=15741.4, p=30100, sol=4.18376, var=0.00502523
+send> 0
+gen by myself
+full: sum=15795.1, p=30200, sol=4.18414, var=0.00465219
+send> 1
+gen by myself
+full: sum=15848.2, p=30300, sol=4.18433, var=0.0044583
+send> 0
+gen by myself
+full: sum=15901.2, p=30400, sol=4.18453, var=0.00425682
+send> 1
+gen by myself
+full: sum=15956.8, p=30500, sol=4.18538, var=0.00340757
+send> 0
+gen by myself
+full: sum=16005.8, p=30600, sol=4.18452, var=0.00427033
+send> 1
+gen by myself
+full: sum=16062.7, p=30700, sol=4.18572, var=0.00306826
+send> 0
+gen by myself
+full: sum=16115.7, p=30800, sol=4.1859, var=0.00289458
+send> 1
+gen by myself
+full: sum=16166.4, p=30900, sol=4.18549, var=0.00330461
+send> 0
+gen by myself
+full: sum=16219.3, p=31000, sol=4.18563, var=0.00315929
+send> 1
+gen by myself
+full: sum=16265.2, p=31100, sol=4.18396, var=0.0048276
+send> 0
+gen by myself
+full: sum=16315.7, p=31200, sol=4.18351, var=0.00528191
+send> 1
+gen by myself
+full: sum=16369.9, p=31300, sol=4.18401, var=0.00478265
+send> 0
+gen by myself
+full: sum=16425.4, p=31400, sol=4.18483, var=0.00396397
+send> 1
+gen by myself
+full: sum=16480.1, p=31500, sol=4.18542, var=0.00336809
+send> 0
+gen by myself
+full: sum=16537.5, p=31600, sol=4.18671, var=0.00207525
+send> 1
+gen by myself
+full: sum=16587.1, p=31700, sol=4.18602, var=0.00277215
+send> 0
+gen by myself
+full: sum=16639.9, p=31800, sol=4.18614, var=0.00265429
+send> 1
+gen by myself
+full: sum=16694.9, p=31900, sol=4.18682, var=0.00197465
+send> 0
+gen by myself
+full: sum=16751.7, p=32000, sol=4.18791, var=0.000875604
+send> 1
+gen by myself
+full: sum=16808.3, p=32100, sol=4.18898, var=0.000188184
+send> 0
+gen by myself
+full: sum=16861.8, p=32200, sol=4.18928, var=0.000488212
+send> 1
+gen by myself
+full: sum=16913.7, p=32300, sol=4.18914, var=0.000350296
+send> 0
+gen by myself
+full: sum=16967.9, p=32400, sol=4.18962, var=0.000825455
+send> 1
+gen by myself
+full: sum=17021.7, p=32500, sol=4.18996, var=0.00117313
+send> 0
+gen by myself
+full: sum=17074.4, p=32600, sol=4.19003, var=0.00124435
+send> 1
+gen by myself
+full: sum=17122.4, p=32700, sol=4.18895, var=0.000164018
+send> 0
+gen by myself
+full: sum=17174.7, p=32800, sol=4.18896, var=0.000171512
+send> 1
+gen by myself
+full: sum=17225.9, p=32900, sol=4.18867, var=0.000121021
+send> 0
+gen by myself
+full: sum=17284.7, p=33000, sol=4.19022, var=0.00142821
+send> 1
+gen by myself
+full: sum=17339.1, p=33100, sol=4.19072, var=0.00192955
+send> 0
+gen by myself
+full: sum=17390.1, p=33200, sol=4.19039, var=0.00160282
+send> 1
+gen by myself
+full: sum=17441.7, p=33300, sol=4.19019, var=0.00139654
+send> 0
+gen by myself
+full: sum=17496, p=33400, sol=4.19066, var=0.00186791
+send> 1
+gen by myself
+full: sum=17552, p=33500, sol=4.19152, var=0.00272569
+send> 0
+gen by myself
+full: sum=17606.2, p=33600, sol=4.19195, var=0.00316078
+send> 1
+gen by myself
+full: sum=17665.7, p=33700, sol=4.19364, var=0.00485422
+send> 0
+gen by myself
+full: sum=17726.2, p=33800, sol=4.19555, var=0.00675651
+send> 1
+gen by myself
+full: sum=17781, p=33900, sol=4.19611, var=0.00732437
+send> 0
+gen by myself
+full: sum=17835.9, p=34000, sol=4.19667, var=0.00788474
+send> 1
+gen by myself
+full: sum=17888.9, p=34100, sol=4.19681, var=0.00801778
+send> 0
+gen by myself
+full: sum=17936.6, p=34200, sol=4.1957, var=0.00690935
+send> 1
+gen by myself
+full: sum=17987.1, p=34300, sol=4.19524, var=0.00644732
+send> 0
+gen by myself
+full: sum=18044.1, p=34400, sol=4.19629, var=0.00750385
+send> 1
+gen by myself
+full: sum=18103.1, p=34500, sol=4.19782, var=0.00902983
+send> 0
+gen by myself
+full: sum=18160.5, p=34600, sol=4.19897, var=0.010178
+send> 1
+gen by myself
+full: sum=18203.9, p=34700, sol=4.19687, var=0.0080801
+send> 0
+gen by myself
+full: sum=18261.9, p=34800, sol=4.19813, var=0.00934131
+send> 1
+gen by myself
+full: sum=18312.9, p=34900, sol=4.19781, var=0.00901784
+send> 0
+gen by myself
+full: sum=18368.8, p=35000, sol=4.19858, var=0.00979108
+send> 1
+gen by myself
+full: sum=18420.4, p=35100, sol=4.19837, var=0.00958081
+send> 0
+gen by myself
+full: sum=18471.1, p=35200, sol=4.19797, var=0.00917599
+send> 1
+gen by myself
+full: sum=18520.1, p=35300, sol=4.19719, var=0.00839933
+send> 0
+gen by myself
+full: sum=18572.9, p=35400, sol=4.19726, var=0.00847039
+send> 1
+gen by myself
+full: sum=18631.7, p=35500, sol=4.19869, var=0.00990141
+send> 0
+gen by myself
+full: sum=18687.4, p=35600, sol=4.1994, var=0.0106145
+send> 1
+gen by myself
+full: sum=18733.8, p=35700, sol=4.19805, var=0.00925484
+send> 0
+gen by myself
+full: sum=18788.1, p=35800, sol=4.19847, var=0.00967873
+send> 1
+gen by myself
+full: sum=18838.9, p=35900, sol=4.19809, var=0.00929717
+send> 0
+gen by myself
+full: sum=18887.6, p=36000, sol=4.19724, var=0.00845436
+send> 1
+gen by myself
+full: sum=18932.4, p=36100, sol=4.19555, var=0.00676342
+send> 0
+gen by myself
+full: sum=18984.9, p=36200, sol=4.19557, var=0.00677789
+send> 1
+gen by myself
+full: sum=19041.3, p=36300, sol=4.19643, var=0.00763644
+send> 0
+gen by myself
+full: sum=19088.7, p=36400, sol=4.19531, var=0.00651887
+send> 1
+gen by myself
+full: sum=19140.2, p=36500, sol=4.19511, var=0.00632343
+send> 0
+gen by myself
+full: sum=19191.7, p=36600, sol=4.19492, var=0.00612782
+send> 1
+gen by myself
+full: sum=19248, p=36700, sol=4.19576, var=0.00696934
+send> 0
+gen by myself
+full: sum=19299.1, p=36800, sol=4.19546, var=0.00667185
+send> 1
+gen by myself
+full: sum=19347.4, p=36900, sol=4.19455, var=0.00576354
+send> 0
+gen by myself
+full: sum=19401.6, p=37000, sol=4.19493, var=0.00614167
+send> 1
+gen by myself
+full: sum=19457.4, p=37100, sol=4.19567, var=0.00688347
+send> 0
+gen by myself
+full: sum=19505.8, p=37200, sol=4.1948, var=0.00600494
+send> 1
+gen by myself
+full: sum=19557.9, p=37300, sol=4.19472, var=0.00593301
+send> 0
+gen by myself
+full: sum=19607.1, p=37400, sol=4.19403, var=0.00523814
+send> 1
+gen by myself
+full: sum=19668.7, p=37500, sol=4.19599, var=0.0071984
+send> 0
+gen by myself
+full: sum=19722.5, p=37600, sol=4.19627, var=0.00748479
+send> 1
+gen by myself
+full: sum=19770.7, p=37700, sol=4.19538, var=0.00658608
+send> 0
+gen by myself
+full: sum=19823.6, p=37800, sol=4.19547, var=0.0066825
+send> 1
+gen by myself
+full: sum=19874, p=37900, sol=4.19503, var=0.00624301
+send> 0
+gen by myself
+full: sum=19928.1, p=38000, sol=4.19539, var=0.00659555
+send> 1
+gen by myself
+full: sum=19979.7, p=38100, sol=4.19522, var=0.00642665
+send> 0
+gen by myself
+full: sum=20029, p=38200, sol=4.19456, var=0.00576876
+send> 1
+gen by myself
+full: sum=20077.4, p=38300, sol=4.19371, var=0.00491751
+send> 0
+gen by myself
+full: sum=20126.8, p=38400, sol=4.19308, var=0.00429133
+send> 1
+gen by myself
+full: sum=20182.2, p=38500, sol=4.1937, var=0.00491083
+send> 0
+gen by myself
+full: sum=20235.1, p=38600, sol=4.19381, var=0.00502203
+send> 1
+gen by myself
+full: sum=20284.3, p=38700, sol=4.19313, var=0.00434034
+send> 0
+gen by myself
+full: sum=20341.5, p=38800, sol=4.19412, var=0.00533249
+send> 1
+gen by myself
+full: sum=20393.8, p=38900, sol=4.19409, var=0.00530419
+send> 0
+gen by myself
+full: sum=20445.2, p=39000, sol=4.19388, var=0.00509158
+send> 1
+gen by myself
+full: sum=20495.1, p=39100, sol=4.19337, var=0.0045798
+send> 0
+gen by myself
+full: sum=20545.3, p=39200, sol=4.19292, var=0.00412611
+send> 1
+gen by myself
+full: sum=20596.4, p=39300, sol=4.19266, var=0.00386675
+send> 0
+gen by myself
+full: sum=20648.1, p=39400, sol=4.19251, var=0.00371561
+send> 1
+gen by myself
+full: sum=20698.7, p=39500, sol=4.19214, var=0.00335328
+send> 0
+gen by myself
+full: sum=20752.4, p=39600, sol=4.1924, var=0.00361072
+send> 1
+gen by myself
+full: sum=20804.9, p=39700, sol=4.19242, var=0.00363065
+send> 0
+gen by myself
+full: sum=20858.1, p=39800, sol=4.19259, var=0.00379633
+send> 1
+gen by myself
+full: sum=20907.2, p=39900, sol=4.19192, var=0.00312848
+send> 0
+gen by myself
+full: sum=20959.3, p=40000, sol=4.19186, var=0.00306898
+send> 1
+gen by myself
+full: sum=21011.6, p=40100, sol=4.19185, var=0.00305862
+send> 0
+gen by myself
+full: sum=21061.1, p=40200, sol=4.19127, var=0.00247611
+send> 1
+gen by myself
+full: sum=21108.2, p=40300, sol=4.19021, var=0.00141803
+send> 0
+gen by myself
+full: sum=21156.2, p=40400, sol=4.18935, var=0.000555517
+send> 1
+gen by myself
+full: sum=21207.5, p=40500, sol=4.18914, var=0.000351864
+send> 0
+gen by myself
+full: sum=21256.3, p=40600, sol=4.18843, var=0.000357216
+send> 1
+gen by myself
+full: sum=21312.9, p=40700, sol=4.18927, var=0.000479175
+send> 0
+gen by myself
+full: sum=21367.4, p=40800, sol=4.18969, var=0.00089754
+send> 1
+gen by myself
+full: sum=21421.5, p=40900, sol=4.19003, var=0.00124103
+send> 0
+gen by myself
+full: sum=21474.2, p=41000, sol=4.19009, var=0.00130424
+send> 1
+gen by myself
+full: sum=21529.9, p=41100, sol=4.19073, var=0.00194373
+send> 0
+gen by myself
+full: sum=21580.1, p=41200, sol=4.19032, var=0.00152481
+send> 1
+gen by myself
+full: sum=21640, p=41300, sol=4.19176, var=0.00297447
+send> 0
+gen by myself
+full: sum=21687.6, p=41400, sol=4.19084, var=0.00204521
+send> 1
+gen by myself
+full: sum=21741.7, p=41500, sol=4.19117, var=0.00238186
+send> 0
+gen by myself
+full: sum=21800.3, p=41600, sol=4.19237, var=0.00357535
+send> 1
+gen by myself
+full: sum=21853.4, p=41700, sol=4.19249, var=0.00370037
+send> 0
+gen by myself
+full: sum=21899.2, p=41800, sol=4.19123, var=0.00244373
+send> 1
+gen by myself
+full: sum=21955, p=41900, sol=4.19188, var=0.00309294
+send> 0
+gen by myself
+full: sum=22007.9, p=42000, sol=4.19198, var=0.00319077
+send> 1
+gen by myself
+full: sum=22058.8, p=42100, sol=4.1917, var=0.00291328
+send> 0
+gen by myself
+full: sum=22105.9, p=42200, sol=4.19069, var=0.00189764
+send> 1
+gen by myself
+full: sum=22162.9, p=42300, sol=4.19157, var=0.00277871
+send> 0
+gen by myself
+full: sum=22215.9, p=42400, sol=4.19168, var=0.00289186
+send> 1
+gen by myself
+full: sum=22267.8, p=42500, sol=4.19159, var=0.002801
+send> 0
+gen by myself
+full: sum=22316.1, p=42600, sol=4.19082, var=0.0020263
+send> 1
+gen by myself
+full: sum=22370, p=42700, sol=4.19111, var=0.00231583
+send> 0
+gen by myself
+full: sum=22415.6, p=42800, sol=4.18984, var=0.0010488
+send> 1
+gen by myself
+full: sum=22467.9, p=42900, sol=4.18981, var=0.00102092
+send> 0
+gen by myself
+full: sum=22521.9, p=43000, sol=4.19011, var=0.00132334
+send> 1
+gen by myself
+full: sum=22572.9, p=43100, sol=4.18987, var=0.00108192
+send> 0
+gen by myself
+full: sum=22629.7, p=43200, sol=4.19068, var=0.00189042
+send> 1
+gen by myself
+full: sum=22679.7, p=43300, sol=4.19024, var=0.00145121
+send> 0
+gen by myself
+full: sum=22728.9, p=43400, sol=4.18965, var=0.000863421
+send> 1
+gen by myself
+full: sum=22782.7, p=43500, sol=4.18993, var=0.00113843
+send> 0
+gen by myself
+full: sum=22835, p=43600, sol=4.1899, var=0.00111098
+send> 1
+gen by myself
+full: sum=22886, p=43700, sol=4.18965, var=0.000864598
+send> 0
+gen by myself
+full: sum=22938.5, p=43800, sol=4.18968, var=0.000891514
+send> 1
+gen by myself
+full: sum=22990.3, p=43900, sol=4.18957, var=0.000778089
+send> 0
+gen by myself
+full: sum=23038.5, p=44000, sol=4.18882, var=3.33688e-05
+send> 1
+gen by myself
+full: sum=23085.6, p=44100, sol=4.18786, var=0.000927599
+send> 0
+gen by myself
+full: sum=23140.9, p=44200, sol=4.18839, var=0.000398182
+send> 1
+gen by myself
+full: sum=23194.7, p=44300, sol=4.18865, var=0.000139611
+send> 0
+gen by myself
+full: sum=23249, p=44400, sol=4.18902, var=0.000226395
+send> 1
+gen by myself
+full: sum=23300.5, p=44500, sol=4.18885, var=5.86289e-05
+send> 0
+gen by myself
+full: sum=23357.1, p=44600, sol=4.18962, var=0.000825091
+send> 1
+gen by myself
+full: sum=23406.4, p=44700, sol=4.18906, var=0.00027232
+send> 0
+gen by myself
+full: sum=23454.9, p=44800, sol=4.18837, var=0.000418916
+send> 1
+gen by myself
+full: sum=23510, p=44900, sol=4.18887, var=7.61263e-05
+send> 0
+gen by myself
+full: sum=23563.5, p=45000, sol=4.18907, var=0.000280828
+send> 1
+gen by myself
+full: sum=23616.7, p=45100, sol=4.18922, var=0.000425142
+send> 0
+gen by myself
+full: sum=23670.8, p=45200, sol=4.18952, var=0.000728303
+send> 1
+gen by myself
+full: sum=23724.6, p=45300, sol=4.18978, var=0.000989988
+send> 0
+gen by myself
+full: sum=23780.9, p=45400, sol=4.19046, var=0.00166951
+send> 1
+gen by myself
+full: sum=23835.3, p=45500, sol=4.19082, var=0.0020253
+send> 0
+gen by myself
+full: sum=23889.3, p=45600, sol=4.19111, var=0.0023213
+send> 1
+gen by myself
+full: sum=23945.3, p=45700, sol=4.19173, var=0.00294134
+send> 0
+gen by myself
+full: sum=24001.5, p=45800, sol=4.1924, var=0.00360528
+send> 1
+gen by myself
+full: sum=24058.8, p=45900, sol=4.19325, var=0.00446164
+send> 0
+gen by myself
+full: sum=24105.3, p=46000, sol=4.19223, var=0.00343745
+send> 1
+gen by myself
+full: sum=24160.2, p=46100, sol=4.19266, var=0.00387059
+send> 0
+gen by myself
+full: sum=24212.9, p=46200, sol=4.1927, var=0.00391464
+send> 1
+gen by myself
+full: sum=24265.9, p=46300, sol=4.19281, var=0.00402095
+send> 0
+gen by myself
+full: sum=24321.5, p=46400, sol=4.19337, var=0.00457695
+send> 1
+gen by myself
+full: sum=24377.5, p=46500, sol=4.19397, var=0.00518049
+send> 0
+gen by myself
+full: sum=24429.5, p=46600, sol=4.1939, var=0.00511146
+send> 1
+gen by myself
+full: sum=24482.6, p=46700, sol=4.19402, var=0.00522544
+send> 0
+gen by myself
+full: sum=24535.4, p=46800, sol=4.19408, var=0.00529395
+send> 1
+gen by myself
+full: sum=24584, p=46900, sol=4.19343, var=0.00464386
+send> 0
+gen by myself
+full: sum=24636.2, p=47000, sol=4.1934, var=0.00460538
+send> 1
+gen by myself
+full: sum=24684.8, p=47100, sol=4.19275, var=0.0039635
+send> 0
+gen by myself
+full: sum=24734.6, p=47200, sol=4.1923, var=0.00350974
+send> 1
+gen by myself
+full: sum=24789.7, p=47300, sol=4.19277, var=0.00397867
+send> 0
+gen by myself
+full: sum=24841.6, p=47400, sol=4.19267, var=0.00388274
+send> 1
+gen by myself
+full: sum=24888.2, p=47500, sol=4.19169, var=0.00290384
+send> 0
+gen by myself
+full: sum=24942.4, p=47600, sol=4.192, var=0.00321252
+send> 1
+gen by myself
+full: sum=24994.4, p=47700, sol=4.19194, var=0.00314702
+send> 0
+gen by myself
+full: sum=25047.5, p=47800, sol=4.19205, var=0.00325682
+send> 1
+gen by myself
+full: sum=25096.8, p=47900, sol=4.19153, var=0.00273759
+send> 0
+gen by myself
+full: sum=25149.2, p=48000, sol=4.19154, var=0.00274572
+send> 1
+gen by myself
+full: sum=25203.9, p=48100, sol=4.19191, var=0.00312017
+send> 0
+gen by myself
+full: sum=25253, p=48200, sol=4.19137, var=0.00258315
+send> 1
+gen by myself
+full: sum=25308, p=48300, sol=4.19181, var=0.00301665
+send> 0
+gen by myself
+full: sum=25361.2, p=48400, sol=4.19194, var=0.00315004
+send> 1
+gen by myself
+full: sum=25412.1, p=48500, sol=4.19169, var=0.00290426
+send> 0
+gen by myself
+full: sum=25456.8, p=48600, sol=4.19042, var=0.00163043
+send> 1
+gen by myself
+full: sum=25511, p=48700, sol=4.19072, var=0.00192922
+send> 0
+gen by myself
+full: sum=25564.2, p=48800, sol=4.19085, var=0.00206061
+send> 1
+gen by myself
+full: sum=25617.9, p=48900, sol=4.19107, var=0.0022798
+send> 0
+gen by myself
+full: sum=25670.2, p=49000, sol=4.19105, var=0.00226272
+send> 1
+gen by myself
+full: sum=25722.2, p=49100, sol=4.19099, var=0.00219621
+send> 0
+gen by myself
+full: sum=25773.1, p=49200, sol=4.19075, var=0.00196222
+send> 1
+gen by myself
+full: sum=25826.4, p=49300, sol=4.1909, var=0.00210876
+send> 0
+gen by myself
+full: sum=25876.4, p=49400, sol=4.1905, var=0.00171396
+send> 1
+gen by myself
+full: sum=25926.9, p=49500, sol=4.19021, var=0.00142128
+send> 0
+gen by myself
+full: sum=25975.3, p=49600, sol=4.18956, var=0.000768659
+send> 1
+gen by myself
+full: sum=26025.5, p=49700, sol=4.18922, var=0.000427396
+send> 0
+gen by myself
+full: sum=26078.1, p=49800, sol=4.18925, var=0.00046438
+send> 1
+gen by myself
+full: sum=26134.1, p=49900, sol=4.18984, var=0.00104836
+send> 0
+gen by myself
+full: sum=26189.5, p=50000, sol=4.19032, var=0.00153336
+send> 1
+gen by myself
+full: sum=26241.1, p=50100, sol=4.1902, var=0.00141241
+send> 0
+gen by myself
+full: sum=26297.4, p=50200, sol=4.19083, var=0.00203608
+send> 1
+gen by myself
+full: sum=26348, p=50300, sol=4.19054, var=0.00174815
+send> 0
+gen by myself
+full: sum=26399, p=50400, sol=4.19032, var=0.00152591
+send> 1
+gen by myself
+full: sum=26451.8, p=50500, sol=4.19038, var=0.00158612
+send> 0
+gen by myself
+full: sum=26503.6, p=50600, sol=4.19029, var=0.00150214
+send> 1
+gen by myself
+full: sum=26555.5, p=50700, sol=4.19022, var=0.00142498
+send> 0
+gen by myself
+full: sum=26603.8, p=50800, sol=4.18958, var=0.000791043
+send> 1
+gen by myself
+full: sum=26658.8, p=50900, sol=4.18999, var=0.00120057
+send> 0
+gen by myself
+full: sum=26701.9, p=51000, sol=4.18853, var=0.000259383
+send> 1
+gen by myself
+full: sum=26758, p=51100, sol=4.18912, var=0.000325945
+send> 0
+gen by myself
+full: sum=26812.5, p=51200, sol=4.18945, var=0.000663618
+send> 1
+gen by myself
+full: sum=26866.3, p=51300, sol=4.18968, var=0.000885405
+send> 0
+gen by myself
+full: sum=26922.8, p=51400, sol=4.19033, var=0.00153573
+send> 1
+gen by myself
+full: sum=26966.2, p=51500, sol=4.18893, var=0.000141258
+send> 0
+gen by myself
+full: sum=27025, p=51600, sol=4.18992, var=0.00112755
+send> 1
+gen by myself
+full: sum=27076, p=51700, sol=4.18971, var=0.000915343
+send> 0
+gen by myself
+full: sum=27128.7, p=51800, sol=4.18975, var=0.000964495
+send> 1
+gen by myself
+full: sum=27186.8, p=51900, sol=4.19064, var=0.00185068
+send> 0
+gen by myself
+full: sum=27237.4, p=52000, sol=4.19037, var=0.00158383
+send> 1
+gen by myself
+full: sum=27285.8, p=52100, sol=4.18976, var=0.000964842
+send> 0
+gen by myself
+full: sum=27334.5, p=52200, sol=4.18919, var=0.000398054
+send> 1
+gen by myself
+full: sum=27385.7, p=52300, sol=4.18902, var=0.000229838
+send> 0
+gen by myself
+full: sum=27441.3, p=52400, sol=4.18951, var=0.000721593
+send> 1
+gen by myself
+full: sum=27489.6, p=52500, sol=4.18889, var=9.52572e-05
+send> 0
+gen by myself
+full: sum=27536.8, p=52600, sol=4.18811, var=0.000679619
+send> 1
+gen by myself
+full: sum=27585.3, p=52700, sol=4.18751, var=0.00127579
+send> 0
+gen by myself
+full: sum=27637.7, p=52800, sol=4.18753, var=0.001265
+send> 1
+gen by myself
+full: sum=27693.5, p=52900, sol=4.18805, var=0.000738614
+send> 0
+gen by myself
+full: sum=27740.2, p=53000, sol=4.1872, var=0.00159214
+send> 1
+gen by myself
+full: sum=27788.1, p=53100, sol=4.18653, var=0.00225884
+send> 0
+gen by myself
+full: sum=27838.3, p=53200, sol=4.1862, var=0.00258648
+send> 1
+gen by myself
+full: sum=27888.9, p=53300, sol=4.18596, var=0.00283332
+send> 0
+gen by myself
+full: sum=27944.7, p=53400, sol=4.18647, var=0.00232189
+send> 1
+gen by myself
+full: sum=27989.4, p=53500, sol=4.18533, var=0.00346516
+send> 0
+gen by myself
+full: sum=28038, p=53600, sol=4.18477, var=0.00401858
+send> 1
+gen by myself
+full: sum=28092.7, p=53700, sol=4.18514, var=0.00365496
+send> 0
+gen by myself
+full: sum=28146.9, p=53800, sol=4.18541, var=0.00338306
+send> 1
+gen by myself
+full: sum=28196.6, p=53900, sol=4.18503, var=0.00376007
+send> 0
+gen by myself
+full: sum=28251.5, p=54000, sol=4.1854, var=0.00338525
+send> 1
+gen by myself
+full: sum=28306.6, p=54100, sol=4.18583, var=0.00296406
+send> 0
+gen by myself
+full: sum=28359.5, p=54200, sol=4.18591, var=0.00287895
+send> 1
+gen by myself
+full: sum=28411.6, p=54300, sol=4.18588, var=0.00291209
+send> 0
+gen by myself
+full: sum=28463.6, p=54400, sol=4.18582, var=0.00296802
+send> 1
+gen by myself
+full: sum=28507, p=54500, sol=4.18451, var=0.00427864
+send> 0
+gen by myself
+full: sum=28559.9, p=54600, sol=4.18459, var=0.00419659
+send> 1
+gen by myself
+full: sum=28611.3, p=54700, sol=4.18446, var=0.00432547
+send> 0
+gen by myself
+full: sum=28659.9, p=54800, sol=4.18393, var=0.00486502
+send> 1
+gen by myself
+full: sum=28710.4, p=54900, sol=4.18366, var=0.00513251
+send> 0
+gen by myself
+full: sum=28766.9, p=55000, sol=4.18428, var=0.00450836
+send> 1
+gen by myself
+full: sum=28820, p=55100, sol=4.18439, var=0.00440097
+send> 0
+gen by myself
+full: sum=28869.4, p=55200, sol=4.18397, var=0.00482008
+send> 1
+gen by myself
+full: sum=28917, p=55300, sol=4.1833, var=0.00549239
+send> 0
+gen by myself
+full: sum=28967.8, p=55400, sol=4.18308, var=0.00571454
+send> 1
+gen by myself
+full: sum=29022, p=55500, sol=4.18336, var=0.00543467
+send> 0
+gen by myself
+full: sum=29073.5, p=55600, sol=4.18323, var=0.00555659
+send> 1
+gen by myself
+full: sum=29127.1, p=55700, sol=4.18342, var=0.0053687
+send> 0
+gen by myself
+full: sum=29186.7, p=55800, sol=4.18447, var=0.00431853
+send> 1
+gen by myself
+full: sum=29239, p=55900, sol=4.18447, var=0.00432398
+send> 0
+gen by myself
+full: sum=29284.5, p=56000, sol=4.18351, var=0.00528451
+send> 1
+gen by myself
+full: sum=29336.5, p=56100, sol=4.18345, var=0.00533839
+send> 0
+gen by myself
+full: sum=29392.4, p=56200, sol=4.18397, var=0.00482271
+send> 1
+gen by myself
+full: sum=29439.9, p=56300, sol=4.18329, var=0.00550007
+send> 0
+gen by myself
+full: sum=29486.4, p=56400, sol=4.18247, var=0.00632064
+send> 1
+gen by myself
+full: sum=29536.5, p=56500, sol=4.18215, var=0.00663546
+send> 0
+gen by myself
+full: sum=29587.3, p=56600, sol=4.18195, var=0.00684181
+send> 1
+gen by myself
+full: sum=29642.5, p=56700, sol=4.18236, var=0.00642926
+send> 0
+gen by myself
+full: sum=29700.4, p=56800, sol=4.18315, var=0.00563605
+send> 1
+gen by myself
+full: sum=29753.5, p=56900, sol=4.18327, var=0.00552007
+send> 0
+gen by myself
+full: sum=29803.9, p=57000, sol=4.18301, var=0.00578472
+send> 1
+gen by myself
+full: sum=29860.9, p=57100, sol=4.18367, var=0.00512394
+send> 0
+gen by myself
+full: sum=29917.4, p=57200, sol=4.18426, var=0.00453265
+send> 1
+gen by myself
+full: sum=29969.4, p=57300, sol=4.1842, var=0.00458531
+send> 0
+gen by myself
+full: sum=30027.2, p=57400, sol=4.18497, var=0.00381635
+send> 1
+gen by myself
+full: sum=30080.4, p=57500, sol=4.18511, var=0.00368423
+send> 0
+gen by myself
+full: sum=30130.6, p=57600, sol=4.18481, var=0.00398241
+send> 1
+gen by myself
+full: sum=30184.9, p=57700, sol=4.18509, var=0.00370315
+send> 0
+gen by myself
+full: sum=30237.4, p=57800, sol=4.18511, var=0.00368222
+send> 1
+gen by myself
+full: sum=30291, p=57900, sol=4.18528, var=0.00351083
+send> 0
+gen by myself
+full: sum=30343.6, p=58000, sol=4.18533, var=0.00346495
+send> 1
+gen by myself
+full: sum=30397.6, p=58100, sol=4.18556, var=0.00323289
+send> 0
+gen by myself
+full: sum=30452.1, p=58200, sol=4.18585, var=0.00293534
+send> 1
+gen by myself
+full: sum=30504.3, p=58300, sol=4.18584, var=0.00295048
+send> 0
+gen by myself
+full: sum=30557.3, p=58400, sol=4.18593, var=0.0028598
+send> 1
+gen by myself
+full: sum=30611.6, p=58500, sol=4.18621, var=0.00258477
+send> 0
+gen by myself
+full: sum=30662.5, p=58600, sol=4.186, var=0.00278797
+send> 1
+gen by myself
+full: sum=30710.2, p=58700, sol=4.18538, var=0.00341057
+send> 0
+gen by myself
+full: sum=30763.9, p=58800, sol=4.18556, var=0.00322833
+send> 1
+gen by myself
+full: sum=30819.3, p=58900, sol=4.18599, var=0.00280184
+send> 0
+gen by myself
+full: sum=30873.2, p=59000, sol=4.18619, var=0.00259786
+send> 1
+gen by myself
+full: sum=30925.9, p=59100, sol=4.18625, var=0.00253991
+send> 0
+gen by myself
+full: sum=30976.6, p=59200, sol=4.18603, var=0.00276326
+send> 1
+gen by myself
+full: sum=31027.6, p=59300, sol=4.18585, var=0.00294312
+send> 0
+gen by myself
+full: sum=31078.8, p=59400, sol=4.1857, var=0.0030887
+send> 1
+gen by myself
+full: sum=31134.4, p=59500, sol=4.18614, var=0.00265161
+send> 0
+gen by myself
+full: sum=31184.3, p=59600, sol=4.18581, var=0.00297773
+send> 1
+gen by myself
+full: sum=31239.7, p=59700, sol=4.18622, var=0.00256564
+send> 0
+gen by myself
+full: sum=31290.8, p=59800, sol=4.18606, var=0.00273219
+send> 1
+gen by myself
+full: sum=31343.1, p=59900, sol=4.18606, var=0.00272863
+send> 0
+gen by myself
+full: sum=31395.7, p=60000, sol=4.1861, var=0.00269403
+send> 1
+gen by myself
+full: sum=31449.2, p=60100, sol=4.18625, var=0.00253829
+send> 0
+gen by myself
+full: sum=31495.9, p=60200, sol=4.18551, var=0.00328394
+send> 1
+gen by myself
+full: sum=31548.7, p=60300, sol=4.18556, var=0.0032255
+send> 0
+gen by myself
+full: sum=31592.5, p=60400, sol=4.18444, var=0.00435382
+send> 1
+gen by myself
+full: sum=31643.4, p=60500, sol=4.18425, var=0.0045378
+send> 0
+gen by myself
+full: sum=31698.3, p=60600, sol=4.1846, var=0.00419347
+send> 1
+gen by myself
+full: sum=31753.6, p=60700, sol=4.185, var=0.00379518
+send> 0
+gen by myself
+full: sum=31806.8, p=60800, sol=4.18511, var=0.00368059
+send> 1
+gen by myself
+full: sum=31858.5, p=60900, sol=4.18502, var=0.00376731
+send> 0
+gen by myself
+full: sum=31910, p=61000, sol=4.18492, var=0.00386816
+send> 1
+gen by myself
+full: sum=31960.5, p=61100, sol=4.18468, var=0.0041104
+send> 0
+gen by myself
+full: sum=32013.6, p=61200, sol=4.18478, var=0.00400999
+send> 1
+gen by myself
+full: sum=32063.8, p=61300, sol=4.18451, var=0.00427716
+send> 0
+gen by myself
+full: sum=32120.2, p=61400, sol=4.18504, var=0.00374591
+send> 1
+gen by myself
+full: sum=32170.4, p=61500, sol=4.18477, var=0.00401672
+send> 0
+gen by myself
+full: sum=32224.3, p=61600, sol=4.18497, var=0.00382211
+send> 1
+gen by myself
+full: sum=32279.7, p=61700, sol=4.18538, var=0.00341204
+send> 0
+gen by myself
+full: sum=32330.1, p=61800, sol=4.18513, var=0.0036586
+send> 1
+gen by myself
+full: sum=32381.1, p=61900, sol=4.18496, var=0.00383213
+send> 0
+gen by myself
+full: sum=32428.7, p=62000, sol=4.18435, var=0.00443549
+send> 1
+gen by myself
+full: sum=32484.4, p=62100, sol=4.18479, var=0.00400032
+send> 0
+gen by myself
+full: sum=32541.9, p=62200, sol=4.18545, var=0.00333697
+send> 1
+gen by myself
+full: sum=32595.4, p=62300, sol=4.1856, var=0.00318984
+send> 0
+gen by myself
+full: sum=32646.2, p=62400, sol=4.18541, var=0.00338461
+send> 1
+gen by myself
+full: sum=32695.3, p=62500, sol=4.185, var=0.00379097
+send> 0
+gen by myself
+full: sum=32744.8, p=62600, sol=4.18464, var=0.00414616
+send> 1
+gen by myself
+full: sum=32798.2, p=62700, sol=4.18478, var=0.00400805
+send> 0
+gen by myself
+full: sum=32855.2, p=62800, sol=4.18538, var=0.00341227
+send> 1
+gen by myself
+full: sum=32909.4, p=62900, sol=4.18562, var=0.00317386
+send> 0
+gen by myself
+full: sum=32961.8, p=63000, sol=4.18563, var=0.00316024
+send> 1
+gen by myself
+full: sum=33011.2, p=63100, sol=4.18526, var=0.00353271
+send> 0
+gen by myself
+full: sum=33067, p=63200, sol=4.18569, var=0.00309895
+send> 1
+gen by myself
+full: sum=33115.7, p=63300, sol=4.18524, var=0.00354926
+send> 0
+gen by myself
+full: sum=33169.5, p=63400, sol=4.18543, var=0.00336394
+send> 1
+gen by myself
+full: sum=33221.8, p=63500, sol=4.18542, var=0.00337008
+send> 0
+gen by myself
+full: sum=33270.5, p=63600, sol=4.18497, var=0.00382453
+send> 1
+gen by myself
+full: sum=33324.6, p=63700, sol=4.18519, var=0.00360095
+send> 0
+gen by myself
+full: sum=33373.6, p=63800, sol=4.18478, var=0.00401315
+send> 1
+gen by myself
+full: sum=33433.5, p=63900, sol=4.18573, var=0.0030607
+send> 0
+gen by myself
+full: sum=33479.8, p=64000, sol=4.18498, var=0.00380946
+send> 1
+gen by myself
+full: sum=33529, p=64100, sol=4.18459, var=0.00420114
+send> 0
+gen by myself
+full: sum=33577.2, p=64200, sol=4.18408, var=0.00471458
+send> 1
+gen by myself
+full: sum=33630, p=64300, sol=4.18414, var=0.00464857
+send> 0
+gen by myself
+full: sum=33689.9, p=64400, sol=4.18509, var=0.00370356
+send> 1
+gen by myself
+full: sum=33742.1, p=64500, sol=4.18506, var=0.00372727
+send> 0
+gen by myself
+full: sum=33798.5, p=64600, sol=4.18558, var=0.00321389
+send> 1
+gen by myself
+full: sum=33855, p=64700, sol=4.18609, var=0.00270438
+send> 0
+gen by myself
+full: sum=33903.3, p=64800, sol=4.1856, var=0.00319405
+send> 1
+gen by myself
+full: sum=33955.7, p=64900, sol=4.18561, var=0.00318255
+send> 0
+gen by myself
+full: sum=34014.5, p=65000, sol=4.1864, var=0.00238555
+send> 1
+gen by myself
+full: sum=34057.8, p=65100, sol=4.18529, var=0.00349984
+send> 0
+gen by myself
+full: sum=34109.6, p=65200, sol=4.18523, var=0.00356091
+send> 1
+gen by myself
+full: sum=34161.6, p=65300, sol=4.18519, var=0.00360468
+send> 0
+gen by myself
+full: sum=34211.2, p=65400, sol=4.18486, var=0.00393111
+send> 1
+gen by myself
+full: sum=34265.5, p=65500, sol=4.1851, var=0.00369094
+send> 0
+gen by myself
+full: sum=34320.2, p=65600, sol=4.18539, var=0.0033969
+send> 1
+gen by myself
+full: sum=34372.4, p=65700, sol=4.18537, var=0.00341577
+send> 0
+gen by myself
+full: sum=34427.6, p=65800, sol=4.18573, var=0.00306262
+send> 1
+gen by myself
+full: sum=34482.6, p=65900, sol=4.18605, var=0.0027446
+send> 0
+gen by myself
+full: sum=34533.4, p=66000, sol=4.18587, var=0.00292282
+send> 1
+gen by myself
+full: sum=34582.5, p=66100, sol=4.18548, var=0.00331047
+send> 0
+gen by myself
+full: sum=34631.1, p=66200, sol=4.18503, var=0.00375736
+send> 1
+gen by myself
+full: sum=34681, p=66300, sol=4.18473, var=0.0040592
+send> 0
+gen by myself
+full: sum=34736.2, p=66400, sol=4.18508, var=0.0037066
+send> 1
+gen by myself
+full: sum=34790.1, p=66500, sol=4.18527, var=0.00351694
+send> 0
+gen by myself
+full: sum=34843.8, p=66600, sol=4.18544, var=0.00334609
+send> 1
+gen by myself
+full: sum=34895.4, p=66700, sol=4.18536, var=0.00342896
+send> 0
+gen by myself
+full: sum=34950.3, p=66800, sol=4.18567, var=0.00312497
+send> 1
+gen by myself
+full: sum=35002.9, p=66900, sol=4.1857, var=0.00309256
+send> 0
+gen by myself
+full: sum=35048.8, p=67000, sol=4.18493, var=0.00385803
+send> 1
+gen by myself
+full: sum=35102.2, p=67100, sol=4.18506, var=0.00373287
+send> 0
+gen by myself
+full: sum=35155.4, p=67200, sol=4.18517, var=0.0036211
+send> 1
+gen by myself
+full: sum=35204.4, p=67300, sol=4.18478, var=0.00401367
+send> 0
+gen by myself
+full: sum=35255, p=67400, sol=4.18457, var=0.00422167
+send> 1
+gen by myself
+full: sum=35304.5, p=67500, sol=4.18423, var=0.00455838
+send> 0
+gen by myself
+full: sum=35357.9, p=67600, sol=4.18437, var=0.00442256
+send> 1
+gen by myself
+full: sum=35408.5, p=67700, sol=4.18416, var=0.00462915
+send> 0
+gen by myself
+full: sum=35466.8, p=67800, sol=4.18488, var=0.00391477
+send> 1
+gen by myself
+full: sum=35518.3, p=67900, sol=4.18478, var=0.00400838
+send> 0
+gen by myself
+full: sum=35571.9, p=68000, sol=4.18493, var=0.00385531
+send> 1
+gen by myself
+full: sum=35627.4, p=68100, sol=4.1853, var=0.00349199
+send> 0
+gen by myself
+full: sum=35675.3, p=68200, sol=4.18479, var=0.00399943
+send> 1
+gen by myself
+full: sum=35731.7, p=68300, sol=4.18526, var=0.00352697
+send> 0
+gen by myself
+full: sum=35782.8, p=68400, sol=4.18512, var=0.00367255
+send> 1
+gen by myself
+full: sum=35839.1, p=68500, sol=4.18558, var=0.00320739
+send> 0
+gen by myself
+full: sum=35891.1, p=68600, sol=4.18556, var=0.00323491
+send> 1
+gen by myself
+full: sum=35939.9, p=68700, sol=4.18514, var=0.00364683
+send> 0
+gen by myself
+full: sum=35985.8, p=68800, sol=4.1844, var=0.00439167
+send> 1
+gen by myself
+full: sum=36044.3, p=68900, sol=4.18511, var=0.00367948
+send> 0
+gen by myself
+full: sum=36104, p=69000, sol=4.18597, var=0.00281865
+send> 1
+gen by myself
+full: sum=36153.4, p=69100, sol=4.18563, var=0.003159
+send> 0
+gen by myself
+full: sum=36203.8, p=69200, sol=4.18541, var=0.00338418
+send> 1
+gen by myself
+full: sum=36256.5, p=69300, sol=4.18546, var=0.00333021
+send> 0
+gen by myself
+full: sum=36310.8, p=69400, sol=4.18568, var=0.00310774
+send> 1
+gen by myself
+full: sum=36369.2, p=69500, sol=4.18638, var=0.00241217
+send> 0
+gen by myself
+full: sum=36419.8, p=69600, sol=4.18618, var=0.00261027
+send> 1
+gen by myself
+full: sum=36477.1, p=69700, sol=4.18675, var=0.00203903
+send> 0
+gen by myself
+full: sum=36532.1, p=69800, sol=4.18706, var=0.0017279
+send> 1
+gen by myself
+full: sum=36584.7, p=69900, sol=4.18709, var=0.0017038
+send> 0
+gen by myself
+full: sum=36631.1, p=70000, sol=4.18641, var=0.00237537
+send> 1
+gen by myself
+full: sum=36681.6, p=70100, sol=4.18621, var=0.00258208
+send> 0
+gen by myself
+full: sum=36734.3, p=70200, sol=4.18625, var=0.0025398
+send> 1
+gen by myself
+full: sum=36790, p=70300, sol=4.18662, var=0.00216575
+send> 0
+gen by myself
+full: sum=36829.3, p=70400, sol=4.18515, var=0.00363961
+send> 1
+gen by myself
+full: sum=36885.3, p=70500, sol=4.18557, var=0.00322166
+send> 0
+gen by myself
+full: sum=36939.6, p=70600, sol=4.18579, var=0.00300144
+send> 1
+gen by myself
+full: sum=36993.1, p=70700, sol=4.18592, var=0.00286598
+send> 0
+gen by myself
+full: sum=37043.4, p=70800, sol=4.18569, var=0.00309753
+send> 1
+gen by myself
+full: sum=37095.6, p=70900, sol=4.18568, var=0.00311235
+send> 0
+gen by myself
+full: sum=37148.7, p=71000, sol=4.18577, var=0.00302487
+send> 1
+gen by myself
+full: sum=37197.6, p=71100, sol=4.18538, var=0.00340697
+send> 0
+gen by myself
+full: sum=37248.5, p=71200, sol=4.18522, var=0.00356708
+send> 1
+gen by myself
+full: sum=37296.4, p=71300, sol=4.18473, var=0.00405671
+send> 0
+gen by myself
+full: sum=37347.6, p=71400, sol=4.18461, var=0.00418076
+send> 1
+gen by myself
+full: sum=37401.9, p=71500, sol=4.18483, var=0.00396466
+send> 0
+gen by myself
+full: sum=37455.8, p=71600, sol=4.185, var=0.00378585
+send> 1
+gen by myself
+full: sum=37512.8, p=71700, sol=4.18553, var=0.00325782
+send> 0
+gen by myself
+full: sum=37564.7, p=71800, sol=4.18548, var=0.00330924
+send> 1
+gen by myself
+full: sum=37617.9, p=71900, sol=4.18558, var=0.00321125
+send> 0
+gen by myself
+full: sum=37664.8, p=72000, sol=4.18497, var=0.0038174
+send> 1
+gen by myself
+full: sum=37717, p=72100, sol=4.18496, var=0.00383037
+send> 0
+gen by myself
+full: sum=37765.3, p=72200, sol=4.18453, var=0.00426427
+send> 1
+gen by myself
+full: sum=37818.1, p=72300, sol=4.18458, var=0.00421501
+send> 0
+gen by myself
+full: sum=37865.2, p=72400, sol=4.184, var=0.00478922
+send> 1
+gen by myself
+full: sum=37924.9, p=72500, sol=4.18481, var=0.00397878
+send> 0
+gen by myself
+full: sum=37972, p=72600, sol=4.18425, var=0.00454404
+send> 1
+gen by myself
+full: sum=38026, p=72700, sol=4.18443, var=0.00435731
+send> 0
+gen by myself
+full: sum=38072.9, p=72800, sol=4.18384, var=0.00495055
+send> 1
+gen by myself
+full: sum=38133.8, p=72900, sol=4.18478, var=0.00400729
+send> 0
+gen by myself
+full: sum=38191.8, p=73000, sol=4.1854, var=0.00339128
+send> 1
+gen by myself
+full: sum=38247.7, p=73100, sol=4.1858, var=0.0029931
+send> 0
+gen by myself
+full: sum=38299.6, p=73200, sol=4.18574, var=0.0030457
+send> 1
+gen by myself
+full: sum=38352.1, p=73300, sol=4.18577, var=0.00302198
+send> 0
+gen by myself
+full: sum=38410.9, p=73400, sol=4.18648, var=0.0023145
+send> 1
+gen by myself
+full: sum=38463.5, p=73500, sol=4.18651, var=0.00228347
+send> 0
+gen by myself
+full: sum=38514.4, p=73600, sol=4.18634, var=0.00244593
+send> 1
+gen by myself
+full: sum=38567.1, p=73700, sol=4.18639, var=0.00239909
+send> 0
+gen by myself
+full: sum=38624.2, p=73800, sol=4.1869, var=0.00188603
+send> 1
+gen by myself
+full: sum=38679.4, p=73900, sol=4.18721, var=0.00158012
+send> 0
+gen by myself
+full: sum=38734.5, p=74000, sol=4.18751, var=0.00128016
+send> 1
+gen by myself
+full: sum=38791.6, p=74100, sol=4.18803, var=0.000759744
+send> 0
+gen by myself
+full: sum=38846.1, p=74200, sol=4.18826, var=0.000530293
+send> 1
+gen by myself
+full: sum=38899.5, p=74300, sol=4.18837, var=0.000419388
+send> 0
+gen by myself
+full: sum=38952.4, p=74400, sol=4.18843, var=0.000361526
+send> 1
+gen by myself
+full: sum=39007.8, p=74500, sol=4.18876, var=2.78792e-05
+send> 0
+gen by myself
+full: sum=39066.4, p=74600, sol=4.18942, var=0.000633322
+send> 1
+gen by myself
+full: sum=39122.5, p=74700, sol=4.18983, var=0.00104099
+send> 0
+gen by myself
+full: sum=39168.8, p=74800, sol=4.18918, var=0.000388786
+send> 1
+gen by myself
+full: sum=39212.2, p=74900, sol=4.18821, var=0.000576294
+send> 0
+gen by myself
+full: sum=39259.2, p=75000, sol=4.18765, var=0.00113782
+send> 1
+gen by myself
+full: sum=39311.5, p=75100, sol=4.18764, var=0.00114771
+send> 0
+gen by myself
+full: sum=39365.3, p=75200, sol=4.1878, var=0.000995058
+send> 1
+gen by myself
+full: sum=39425.7, p=75300, sol=4.18865, var=0.000136741
+send> 0
+gen by myself
+full: sum=39474.4, p=75400, sol=4.18826, var=0.000529407
+send> 1
+gen by myself
+full: sum=39530.5, p=75500, sol=4.18866, var=0.000126959
+send> 0
+gen by myself
+full: sum=39580.1, p=75600, sol=4.18837, var=0.000416848
+send> 1
+gen by myself
+full: sum=39635.8, p=75700, sol=4.18872, var=6.84443e-05
+send> 0
+gen by myself
+full: sum=39686, p=75800, sol=4.1885, var=0.000293419
+send> 1
+gen by myself
+full: sum=39735.8, p=75900, sol=4.18823, var=0.0005645
+send> 0
+gen by myself
+full: sum=39790.3, p=76000, sol=4.18845, var=0.000336689
+send> 1
+gen by myself
+full: sum=39845, p=76100, sol=4.1887, var=8.68229e-05
+send> 0
+gen by myself
+full: sum=39896.1, p=76200, sol=4.18857, var=0.000219887
+send> 1
+gen by myself
+full: sum=39944.7, p=76300, sol=4.18818, var=0.00061331
+send> 0
+gen by myself
+full: sum=39992.7, p=76400, sol=4.18772, var=0.00106802
+send> 1
+gen by myself
+full: sum=40043.7, p=76500, sol=4.18758, var=0.00121189
+send> 0
+gen by myself
+full: sum=40090.8, p=76600, sol=4.18703, var=0.00175929
+send> 1
+gen by myself
+full: sum=40143.1, p=76700, sol=4.18703, var=0.00176302
+send> 0
+gen by myself
+full: sum=40195, p=76800, sol=4.18698, var=0.00180762
+send> 1
+gen by myself
+full: sum=40248.8, p=76900, sol=4.18713, var=0.00166168
+send> 0
+gen by myself
+full: sum=40296.3, p=77000, sol=4.18663, var=0.00216259
+send> 1
+gen by myself
+full: sum=40353.5, p=77100, sol=4.18714, var=0.00165351
+send> 0
+gen by myself
+full: sum=40400.3, p=77200, sol=4.18656, var=0.00222969
+send> 1
+gen by myself
+full: sum=40453.7, p=77300, sol=4.18668, var=0.00211502
+send> 0
+gen by myself
+full: sum=40511.3, p=77400, sol=4.18721, var=0.00157661
+send> 1
+gen by myself
+full: sum=40560.2, p=77500, sol=4.18686, var=0.00193234
+send> 0
+gen by myself
+full: sum=40610.6, p=77600, sol=4.18666, var=0.00213087
+send> 1
+gen by myself
+full: sum=40663.7, p=77700, sol=4.18674, var=0.00204884
+send> 0
+gen by myself
+full: sum=40718.4, p=77800, sol=4.18698, var=0.00180892
+send> 1
+gen by myself
+full: sum=40766, p=77900, sol=4.18649, var=0.00229747
+send> 0
+gen by myself
+full: sum=40816, p=78000, sol=4.18625, var=0.0025389
+send> 1
+gen by myself
+full: sum=40870.6, p=78100, sol=4.18649, var=0.00230043
+send> 0
+gen by myself
+full: sum=40926.5, p=78200, sol=4.18685, var=0.00193976
+send> 1
+gen by myself
+full: sum=40980.2, p=78300, sol=4.18699, var=0.00179733
+send> 0
+gen by myself
+full: sum=41033.9, p=78400, sol=4.18714, var=0.00165483
+send> 1
+gen by myself
+full: sum=41084.2, p=78500, sol=4.18693, var=0.00186372
+send> 0
+gen by myself
+full: sum=41133.7, p=78600, sol=4.18664, var=0.00215286
+send> 1
+gen by myself
+full: sum=41192, p=78700, sol=4.18724, var=0.00154707
+send> 0
+gen by myself
+full: sum=41240.6, p=78800, sol=4.18686, var=0.00193111
+send> 1
+gen by myself
+full: sum=41292.6, p=78900, sol=4.18682, var=0.00196534
+send> 0
+gen by myself
+full: sum=41343.7, p=79000, sol=4.18671, var=0.00208208
+send> 1
+gen by myself
+full: sum=41397.6, p=79100, sol=4.18687, var=0.00192303
+send> 0
+gen by myself
+full: sum=41453.3, p=79200, sol=4.1872, var=0.00159226
+send> 1
+gen by myself
+full: sum=41508.6, p=79300, sol=4.1875, var=0.00129425
+send> 0
+gen by myself
+full: sum=41562, p=79400, sol=4.18761, var=0.00117965
+send> 1
+gen by myself
+full: sum=41613.2, p=79500, sol=4.18749, var=0.00129779
+send> 0
+gen by myself
+full: sum=41668, p=79600, sol=4.18774, var=0.00104709
+send> 1
+gen by myself
+full: sum=41716.6, p=79700, sol=4.18737, var=0.00142393
+send> 0
+gen by myself
+full: sum=41765.6, p=79800, sol=4.18703, var=0.00176241
+send> 1
+gen by myself
+full: sum=41815.9, p=79900, sol=4.18682, var=0.00197003
+send> 0
+gen by myself
+full: sum=41867.2, p=80000, sol=4.18672, var=0.0020715
+send> 1
+gen by myself
+full: sum=41920.4, p=80100, sol=4.1868, var=0.00198646
+send> 0
+gen by myself
+full: sum=41971.5, p=80200, sol=4.18668, var=0.00211051
+send> 1
+gen by myself
+full: sum=42026.6, p=80300, sol=4.18696, var=0.00183271
+send> 0
+gen by myself
+full: sum=42076, p=80400, sol=4.18667, var=0.00212502
+send> 1
+gen by myself
+full: sum=42133.9, p=80500, sol=4.18722, var=0.00157167
+send> 0
+gen by myself
+full: sum=42189.8, p=80600, sol=4.18758, var=0.00121455
+send> 1
+gen by myself
+full: sum=42240.5, p=80700, sol=4.18741, var=0.00138047
+send> 0
+gen by myself
+full: sum=42296.6, p=80800, sol=4.18778, var=0.00100584
+send> 1
+gen by myself
+full: sum=42353.5, p=80900, sol=4.18823, var=0.000562412
+send> 0
+gen by myself
+full: sum=42403.2, p=81000, sol=4.18797, var=0.000820841
+send> 1
+gen by myself
+full: sum=42452.6, p=81100, sol=4.18768, var=0.00111464
+send> 0
+gen by myself
+full: sum=42503.6, p=81200, sol=4.18754, var=0.00124749
+send> 1
+gen by myself
+full: sum=42561, p=81300, sol=4.18805, var=0.000741622
+send> 0
+gen by myself
+full: sum=42609.4, p=81400, sol=4.18765, var=0.00113614
+send> 1
+gen by myself
+full: sum=42662.1, p=81500, sol=4.18769, var=0.0011019
+send> 0
+gen by myself
+full: sum=42709.5, p=81600, sol=4.1872, var=0.00158683
+send> 1
+gen by myself
+full: sum=42757.9, p=81700, sol=4.18682, var=0.00197322
+send> 0
+gen by myself
+full: sum=42810, p=81800, sol=4.1868, var=0.00199331
+send> 1
+gen by myself
+full: sum=42860.5, p=81900, sol=4.18661, var=0.00217525
+send> 0
+gen by myself
+full: sum=42918.1, p=82000, sol=4.18713, var=0.00165795
+send> 1
+gen by myself
+full: sum=42971.8, p=82100, sol=4.18726, var=0.00152685
+send> 0
+gen by myself
+full: sum=43027, p=82200, sol=4.18754, var=0.00124959
+send> 1
+gen by myself
+full: sum=43081.1, p=82300, sol=4.18772, var=0.00107336
+send> 0
+gen by myself
+full: sum=43134, p=82400, sol=4.18777, var=0.00102437
+send> 1
+gen by myself
+full: sum=43189.1, p=82500, sol=4.18804, var=0.000754127
+send> 0
+gen by myself
+full: sum=43239.9, p=82600, sol=4.18788, var=0.000909428
+send> 1
+gen by myself
+full: sum=43295.4, p=82700, sol=4.18819, var=0.000598692
+send> 0
+gen by myself
+full: sum=43352.9, p=82800, sol=4.18869, var=0.000100226
+send> 1
+gen by myself
+full: sum=43405.5, p=82900, sol=4.18871, var=8.34373e-05
+send> 0
+gen by myself
+full: sum=43457.7, p=83000, sol=4.18869, var=9.75418e-05
+send> 1
+gen by myself
+full: sum=43513.3, p=83100, sol=4.189, var=0.000214768
+send> 0
+gen by myself
+full: sum=43562.5, p=83200, sol=4.1887, var=9.11863e-05
+send> 1
+gen by myself
+full: sum=43617.5, p=83300, sol=4.18895, var=0.00016302
+send> 0
+gen by myself
+full: sum=43663.5, p=83400, sol=4.18835, var=0.000443239
+send> 1
+gen by myself
+full: sum=43712.4, p=83500, sol=4.18802, var=0.000774189
+send> 0
+gen by myself
+full: sum=43758, p=83600, sol=4.18737, var=0.00142315
+send> 1
+gen by myself
+full: sum=43807, p=83700, sol=4.18705, var=0.00173832
+send> 0
+gen by myself
+full: sum=43859.4, p=83800, sol=4.18705, var=0.00173846
+send> 1
+gen by myself
+full: sum=43914.9, p=83900, sol=4.18736, var=0.00143226
+send> 0
+gen by myself
+full: sum=43969.2, p=84000, sol=4.18754, var=0.00124681
+send> 1
+gen by myself
+full: sum=44017, p=84100, sol=4.18711, var=0.0016762
+send> 0
+gen by myself
+full: sum=44073.4, p=84200, sol=4.18749, var=0.00129724
+send> 1
+gen by myself
+full: sum=44129.4, p=84300, sol=4.18785, var=0.000944556
+send> 0
+gen by myself
+full: sum=44180.3, p=84400, sol=4.18771, var=0.00107965
+send> 1
+gen by myself
+full: sum=44232.2, p=84500, sol=4.18767, var=0.00112177
+send> 0
+gen by myself
+full: sum=44282.8, p=84600, sol=4.1875, var=0.00129149
+send> 1
+gen by myself
+full: sum=44337.5, p=84700, sol=4.18772, var=0.00107208
+send> 0
+gen by myself
+full: sum=44392.6, p=84800, sol=4.18798, var=0.000811053
+send> 1
+gen by myself
+full: sum=44448.7, p=84900, sol=4.18833, var=0.00045557
+send> 0
+gen by myself
+full: sum=44498.7, p=85000, sol=4.18811, var=0.000677978
+send> 1
+gen by myself
+full: sum=44546.5, p=85100, sol=4.18768, var=0.00110944
+send> 0
+gen by myself
+full: sum=44596.6, p=85200, sol=4.18748, var=0.00131235
+send> 1
+gen by myself
+full: sum=44652.9, p=85300, sol=4.18785, var=0.000943388
+send> 0
+gen by myself
+full: sum=44708.4, p=85400, sol=4.18814, var=0.000649946
+send> 1
+gen by myself
+full: sum=44755.4, p=85500, sol=4.18764, var=0.00114871
+send> 0
+gen by myself
+full: sum=44802.8, p=85600, sol=4.18718, var=0.0016137
+send> 1
+gen by myself
+full: sum=44858.5, p=85700, sol=4.18749, var=0.00129624
+send> 0
+gen by myself
+full: sum=44910.6, p=85800, sol=4.18747, var=0.00132155
+send> 1
+gen by myself
+full: sum=44964.5, p=85900, sol=4.18762, var=0.00117342
+send> 0
+gen by myself
+full: sum=45018.2, p=86000, sol=4.18774, var=0.00104743
+send> 1
+gen by myself
+full: sum=45071.1, p=86100, sol=4.18779, var=0.000999691
+send> 0
+gen by myself
+full: sum=45122.8, p=86200, sol=4.18773, var=0.00106294
+send> 1
+gen by myself
+full: sum=45172.3, p=86300, sol=4.18746, var=0.00132784
+send> 0
+gen by myself
+full: sum=45230.9, p=86400, sol=4.18804, var=0.000745666
+send> 1
+gen by myself
+full: sum=45282.9, p=86500, sol=4.18801, var=0.00077588
+send> 0
+gen by myself
+full: sum=45335.1, p=86600, sol=4.188, var=0.000788362
+send> 1
+gen by myself
+full: sum=45388, p=86700, sol=4.18805, var=0.000743119
+send> 0
+gen by myself
+full: sum=45441.2, p=86800, sol=4.18813, var=0.000664195
+send> 1
+gen by myself
+full: sum=45492.7, p=86900, sol=4.18805, var=0.000742425
+send> 0
+gen by myself
+full: sum=45545.6, p=87000, sol=4.1881, var=0.000689042
+send> 1
+gen by myself
+full: sum=45598.2, p=87100, sol=4.18813, var=0.000662395
+send> 0
+gen by myself
+full: sum=45652.8, p=87200, sol=4.18833, var=0.000460572
+send> 1
+gen by myself
+full: sum=45707.1, p=87300, sol=4.1885, var=0.000285812
+send> 0
+gen by myself
+full: sum=45752.7, p=87400, sol=4.18789, var=0.00089875
+send> 1
+gen by myself
+full: sum=45803.3, p=87500, sol=4.18773, var=0.00106388
+send> 0
+gen by myself
+full: sum=45855.1, p=87600, sol=4.18768, var=0.00110734
+send> 1
+gen by myself
+full: sum=45906.3, p=87700, sol=4.18758, var=0.00121048
+send> 0
+gen by myself
+full: sum=45955.1, p=87800, sol=4.18725, var=0.00154008
+send> 1
+gen by myself
+full: sum=46002.3, p=87900, sol=4.18679, var=0.00200359
+send> 0
+gen by myself
+full: sum=46054.5, p=88000, sol=4.18677, var=0.00201753
+send> 1
+gen by myself
+full: sum=46112.4, p=88100, sol=4.18728, var=0.00151042
+send> 0
+gen by myself
+full: sum=46169.5, p=88200, sol=4.18771, var=0.00108237
+send> 1
+gen by myself
+full: sum=46225.3, p=88300, sol=4.18802, var=0.000770651
+send> 0
+gen by myself
+full: sum=46275.6, p=88400, sol=4.18784, var=0.000953617
+send> 1
+gen by myself
+full: sum=46328.4, p=88500, sol=4.18788, var=0.000910003
+send> 0
+gen by myself
+full: sum=46381.6, p=88600, sol=4.18795, var=0.000839707
+send> 1
+gen by myself
+full: sum=46430.1, p=88700, sol=4.18761, var=0.00118256
+send> 0
+gen by myself
+full: sum=46481.4, p=88800, sol=4.18751, var=0.00127567
+send> 1
+gen by myself
+full: sum=46531.9, p=88900, sol=4.18735, var=0.00143938
+send> 0
+gen by myself
+full: sum=46584.8, p=89000, sol=4.1874, var=0.00139169
+send> 1
+gen by myself
+full: sum=46636.8, p=89100, sol=4.18737, var=0.00142387
+send> 0
+gen by myself
+full: sum=46694.1, p=89200, sol=4.18781, var=0.000977654
+send> 1
+gen by myself
+full: sum=46741.1, p=89300, sol=4.18734, var=0.00145481
+send> 0
+gen by myself
+full: sum=46793.2, p=89400, sol=4.18731, var=0.00148307
+send> 1
+gen by myself
+full: sum=46845.4, p=89500, sol=4.1873, var=0.00149107
+send> 0
+gen by myself
+full: sum=46905.5, p=89600, sol=4.18799, var=0.000795824
+send> 1
+gen by myself
+full: sum=46951.9, p=89700, sol=4.18746, var=0.001331
+send> 0
+gen by myself
+full: sum=47001.6, p=89800, sol=4.18723, var=0.00156365
+send> 1
+gen by myself
+full: sum=47054.3, p=89900, sol=4.18725, var=0.00153722
+send> 0
+gen by myself
+full: sum=47101.4, p=90000, sol=4.18679, var=0.00199573
+send> 1
+gen by myself
+full: sum=47154.1, p=90100, sol=4.18682, var=0.00197015
+send> 0
+gen by myself
+full: sum=47202.1, p=90200, sol=4.18644, var=0.00234953
+send> 1
+gen by myself
+full: sum=47257.8, p=90300, sol=4.18674, var=0.00204984
+send> 0
+gen by myself
+full: sum=47310.5, p=90400, sol=4.18677, var=0.00202369
+send> 1
+gen by myself
+full: sum=47365, p=90500, sol=4.18696, var=0.00182861
+send> 0
+gen by myself
+full: sum=47412.9, p=90600, sol=4.18657, var=0.00221687
+send> 1
+gen by myself
+full: sum=47460.8, p=90700, sol=4.18618, var=0.00261179
+send> 0
+gen by myself
+full: sum=47513.7, p=90800, sol=4.18623, var=0.00255918
+send> 1
+gen by myself
+full: sum=47563.5, p=90900, sol=4.18601, var=0.00278271
+send> 0
+gen by myself
+full: sum=47613.8, p=91000, sol=4.18583, var=0.00295877
+send> 1
+gen by myself
+full: sum=47665.9, p=91100, sol=4.18581, var=0.00298386
+send> 0
+gen by myself
+full: sum=47718, p=91200, sol=4.18579, var=0.00299688
+send> 1
+gen by myself
+full: sum=47767.4, p=91300, sol=4.18553, var=0.00325862
+send> 0
+gen by myself
+full: sum=47816.4, p=91400, sol=4.18525, var=0.0035438
+send> 1
+gen by myself
+full: sum=47866.8, p=91500, sol=4.18507, var=0.00371868
+send> 0
+gen by myself
+full: sum=47916.6, p=91600, sol=4.18486, var=0.00393395
+send> 1
+gen by myself
+full: sum=47965.5, p=91700, sol=4.18456, var=0.00422782
+send> 0
+gen by myself
+full: sum=48013.4, p=91800, sol=4.18417, var=0.00461727
+send> 1
+gen by myself
+full: sum=48068.5, p=91900, sol=4.18442, var=0.00436976
+send> 0
+gen by myself
+full: sum=48113.5, p=92000, sol=4.18378, var=0.00500979
+send> 1
+gen by myself
+full: sum=48166.7, p=92100, sol=4.18386, var=0.00492536
+send> 0
+gen by myself
+full: sum=48220.9, p=92200, sol=4.18403, var=0.00476016
+send> 1
+gen by myself
+full: sum=48275.6, p=92300, sol=4.18423, var=0.0045587
+send> 0
+gen by myself
+full: sum=48334.8, p=92400, sol=4.18483, var=0.00395947
+send> 1
+gen by myself
+full: sum=48389.3, p=92500, sol=4.18502, var=0.00376633
+send> 0
+gen by myself
+full: sum=48442.1, p=92600, sol=4.18506, var=0.00373019
+send> 1
+gen by myself
+full: sum=48493.7, p=92700, sol=4.185, var=0.00379293
+send> 0
+gen by myself
+full: sum=48538.9, p=92800, sol=4.18439, var=0.00440478
+send> 1
+gen by myself
+full: sum=48586, p=92900, sol=4.18394, var=0.0048514
+send> 0
+gen by myself
+full: sum=48639.5, p=93000, sol=4.18404, var=0.00474812
+send> 1
+gen by myself
+full: sum=48694.3, p=93100, sol=4.18426, var=0.00452834
+send> 0
+gen by myself
+full: sum=48746.1, p=93200, sol=4.18422, var=0.00457157
+send> 1
+gen by myself
+full: sum=48795.9, p=93300, sol=4.184, var=0.00479204
+send> 0
+gen by myself
+full: sum=48847.5, p=93400, sol=4.18394, var=0.00485041
+send> 1
+gen by myself
+full: sum=48899.1, p=93500, sol=4.18388, var=0.00490756
+send> 0
+gen by myself
+full: sum=48948.4, p=93600, sol=4.18362, var=0.00516796
+send> 1
+gen by myself
+full: sum=49001.6, p=93700, sol=4.1837, var=0.00508694
+send> 0
+gen by myself
+full: sum=49051.9, p=93800, sol=4.18353, var=0.00526012
+send> 1
+gen by myself
+full: sum=49112.7, p=93900, sol=4.18426, var=0.00453252
+send> 0
+gen by myself
+full: sum=49165.2, p=94000, sol=4.18427, var=0.00452096
+send> 1
+gen by myself
+full: sum=49222.2, p=94100, sol=4.18467, var=0.00411635
+send> 0
+gen by myself
+full: sum=49276.1, p=94200, sol=4.1848, var=0.00398663
+send> 1
+gen by myself
+full: sum=49324.6, p=94300, sol=4.18448, var=0.00430776
+send> 0
+gen by myself
+full: sum=49371, p=94400, sol=4.18399, var=0.00480372
+send> 1
+gen by myself
+full: sum=49424.8, p=94500, sol=4.18411, var=0.00468051
+send> 0
+gen by myself
+full: sum=49478.4, p=94600, sol=4.18422, var=0.00457125
+send> 1
+gen by myself
+full: sum=49530, p=94700, sol=4.18416, var=0.00462784
+send> 0
+gen by myself
+full: sum=49582.4, p=94800, sol=4.18417, var=0.00462191
+send> 1
+gen by myself
+full: sum=49632.4, p=94900, sol=4.18397, var=0.00481785
+send> 0
+gen by myself
+full: sum=49683.1, p=95000, sol=4.18384, var=0.00494666
+send> 1
+gen by myself
+full: sum=49732.1, p=95100, sol=4.18356, var=0.00523171
+send> 0
+gen by myself
+full: sum=49781.8, p=95200, sol=4.18334, var=0.00544549
+send> 1
+gen by myself
+full: sum=49831.4, p=95300, sol=4.18312, var=0.0056688
+send> 0
+gen by myself
+full: sum=49886.1, p=95400, sol=4.18332, var=0.00546986
+send> 1
+gen by myself
+full: sum=49940.9, p=95500, sol=4.18353, var=0.00526146
+send> 0
+gen by myself
+full: sum=49985.5, p=95600, sol=4.18289, var=0.00590499
+send> 1
+gen by myself
+full: sum=50039.1, p=95700, sol=4.18299, var=0.00579605
+send> 0
+gen by myself
+full: sum=50092, p=95800, sol=4.18305, var=0.00574129
+send> 1
+gen by myself
+full: sum=50147.5, p=95900, sol=4.18331, var=0.00547682
+send> 0
+gen by myself
+full: sum=50197.6, p=96000, sol=4.18313, var=0.00565757
+send> 1
+gen by myself
+full: sum=50250.7, p=96100, sol=4.1832, var=0.00559113
+send> 0
+gen by myself
+full: sum=50299.8, p=96200, sol=4.18294, var=0.00585094
+send> 1
+gen by myself
+full: sum=50353.6, p=96300, sol=4.18306, var=0.00573051
+send> 0
+gen by myself
+full: sum=50408.7, p=96400, sol=4.1833, var=0.0054941
+send> 1
+gen by myself
+full: sum=50459.4, p=96500, sol=4.18316, var=0.00563138
+send> 0
+gen by myself
+full: sum=50508.5, p=96600, sol=4.1829, var=0.00588852
+send> 1
+gen by myself
+full: sum=50560.8, p=96700, sol=4.1829, var=0.00589336
+send> 0
+gen by myself
+full: sum=50615.6, p=96800, sol=4.1831, var=0.0056866
+send> 1
+gen by myself
+full: sum=50668.5, p=96900, sol=4.18316, var=0.00563206
+send> 0
+gen by myself
+full: sum=50722.8, p=97000, sol=4.18333, var=0.00546261
+send> 1
+gen by myself
+full: sum=50779.3, p=97100, sol=4.18367, var=0.005119
+send> 0
+gen by myself
+full: sum=50830.7, p=97200, sol=4.1836, var=0.00519076
+send> 1
+gen by myself
+full: sum=50886.5, p=97300, sol=4.18388, var=0.00490686
+send> 0
+gen by myself
+full: sum=50938.5, p=97400, sol=4.18386, var=0.0049334
+send> 1
+gen by myself
+full: sum=50992.6, p=97500, sol=4.18401, var=0.00478247
+send> 0
+gen by myself
+full: sum=51042.5, p=97600, sol=4.18381, var=0.00497666
+send> 1
+gen by myself
+full: sum=51095.7, p=97700, sol=4.18389, var=0.00490286
+send> 0
+gen by myself
+full: sum=51145.1, p=97800, sol=4.18365, var=0.00514052
+send> 1
+gen by myself
+full: sum=51194.4, p=97900, sol=4.1834, var=0.00539031
+send> 0
+gen by myself
+full: sum=51245.8, p=98000, sol=4.18333, var=0.00546251
+send> 1
+gen by myself
+full: sum=51299.1, p=98100, sol=4.18341, var=0.00538129
+send> 0
+gen by myself
+full: sum=51349.9, p=98200, sol=4.18329, var=0.00550159
+send> 1
+gen by myself
+full: sum=51407.2, p=98300, sol=4.1837, var=0.00509329
+send> 0
+gen by myself
+full: sum=51459.9, p=98400, sol=4.18374, var=0.00505517
+send> 1
+gen by myself
+full: sum=51514.8, p=98500, sol=4.18394, var=0.0048474
+send> 0
+gen by myself
+full: sum=51564.5, p=98600, sol=4.18373, var=0.00506008
+send> 1
+gen by myself
+full: sum=51617.2, p=98700, sol=4.18377, var=0.00502147
+send> 0
+gen by myself
+full: sum=51666.9, p=98800, sol=4.18355, var=0.00523726
+send> 1
+gen by myself
+full: sum=51717.1, p=98900, sol=4.18338, var=0.00540763
+send> 0
+gen by myself
+full: sum=51764.8, p=99000, sol=4.18301, var=0.00577829
+send> 1
+gen by myself
+full: sum=51815, p=99100, sol=4.18284, var=0.00594782
+send> 0
+gen by myself
+full: sum=51864.6, p=99200, sol=4.18263, var=0.0061615
+send> 1
+gen by myself
+full: sum=51911.9, p=99300, sol=4.18222, var=0.00656596
+send> 0
+gen by myself
+full: sum=51967.8, p=99400, sol=4.18252, var=0.00627208
+send> 1
+gen by myself
+full: sum=52022, p=99500, sol=4.18268, var=0.00611357
+send> 0
+gen by myself
+full: sum=52073.3, p=99600, sol=4.18259, var=0.00619802
+send> 1
+gen by myself
+full: sum=52127.4, p=99700, sol=4.18274, var=0.00604755
+send> 0
+gen by myself
+full: sum=52177.4, p=99800, sol=4.18256, var=0.00623153
+send> 1
+gen by myself
+full: sum=52229.1, p=99900, sol=4.18251, var=0.00628246
+send> 0
+gen by myself
+full: sum=52281.4, p=100000, sol=4.18251, var=0.00627545
+send> 1
+gen by myself
+full: sum=52338.6, p=100100, sol=4.1829, var=0.00588768
+send> 0
+gen by myself
+full: sum=52393.7, p=100200, sol=4.18313, var=0.00565875
+send> 1
+gen by myself
+full: sum=52449.9, p=100300, sol=4.18344, var=0.00535036
+send> 0
+gen by myself
+full: sum=52500.4, p=100400, sol=4.1833, var=0.00549328
+send> 1
+gen by myself
+full: sum=52552.7, p=100500, sol=4.1833, var=0.00548702
+send> 0
+gen by myself
+full: sum=52607.3, p=100600, sol=4.18348, var=0.00530863
+send> 1
+gen by myself
+full: sum=52659.7, p=100700, sol=4.18349, var=0.00529819
+send> 0
+gen by myself
+full: sum=52711.4, p=100800, sol=4.18344, var=0.00534568
+send> 1
+gen by myself
+full: sum=52758.7, p=100900, sol=4.18305, var=0.0057428
+send> 0
+gen by myself
+full: sum=52814.2, p=101000, sol=4.1833, var=0.00548957
+send> 1
+gen by myself
+full: sum=52866.3, p=101100, sol=4.18329, var=0.00550045
+send> 0
+gen by myself
+full: sum=52919.3, p=101200, sol=4.18335, var=0.00544404
+send> 1
+gen by myself
+full: sum=52976.6, p=101300, sol=4.18374, var=0.00504866
+send> 0
+gen by myself
+full: sum=53030.4, p=101400, sol=4.18386, var=0.00493186
+send> 1
+gen by myself
+full: sum=53079.3, p=101500, sol=4.18359, var=0.00520261
+send> 0
+gen by myself
+full: sum=53133.1, p=101600, sol=4.18371, var=0.00508344
+send> 1
+gen by myself
+full: sum=53182.8, p=101700, sol=4.1835, var=0.00528818
+send> 0
+gen by myself
+full: sum=53239.4, p=101800, sol=4.18384, var=0.00494618
+send> 1
+gen by myself
+full: sum=53289.5, p=101900, sol=4.18367, var=0.00511901
+send> 0
+gen by myself
+full: sum=53341.2, p=102000, sol=4.18362, var=0.00516939
+send> 1
+gen by myself
+full: sum=53384.5, p=102100, sol=4.18292, var=0.00587101
+send> 0
+gen by myself
+full: sum=53443.8, p=102200, sol=4.18347, var=0.00532375
+send> 1
+gen by myself
+full: sum=53497.8, p=102300, sol=4.1836, var=0.00518539
+send> 0
+gen by myself
+full: sum=53548.3, p=102400, sol=4.18346, var=0.00532735
+send> 1
+gen by myself
+full: sum=53599, p=102500, sol=4.18334, var=0.00545239
+send> 0
+gen by myself
+full: sum=53650.9, p=102600, sol=4.1833, var=0.00548658
+send> 1
+gen by myself
+full: sum=53701.7, p=102700, sol=4.18319, var=0.00560215
+send> 0
+gen by myself
+full: sum=53752.6, p=102800, sol=4.18308, var=0.00570625
+send> 1
+gen by myself
+full: sum=53805.7, p=102900, sol=4.18314, var=0.00564789
+send> 0
+gen by myself
+full: sum=53858.3, p=103000, sol=4.18317, var=0.00561972
+send> 1
+gen by myself
+full: sum=53912.3, p=103100, sol=4.1833, var=0.00549143
+send> 0
+gen by myself
+full: sum=53963, p=103200, sol=4.18318, var=0.00561083
+send> 1
+gen by myself
+full: sum=54017.6, p=103300, sol=4.18336, var=0.00543317
+send> 0
+gen by myself
+full: sum=54068.3, p=103400, sol=4.18324, var=0.0055541
+send> 1
+gen by myself
+full: sum=54122.8, p=103500, sol=4.1834, var=0.00538835
+send> 0
+gen by myself
+full: sum=54176.2, p=103600, sol=4.18349, var=0.00530321
+send> 1
+gen by myself
+full: sum=54226.2, p=103700, sol=4.18331, var=0.00548039
+send> 0
+gen by myself
+full: sum=54281.1, p=103800, sol=4.18351, var=0.00527569
+send> 1
+gen by myself
+full: sum=54334.3, p=103900, sol=4.18359, var=0.00520249
+send> 0
+gen by myself
+full: sum=54391.4, p=104000, sol=4.18395, var=0.00483923
+send> 1
+gen by myself
+full: sum=54446, p=104100, sol=4.18413, var=0.00466134
+send> 0
+gen by myself
+full: sum=54500.9, p=104200, sol=4.18433, var=0.00446007
+send> 1
+gen by myself
+full: sum=54554.6, p=104300, sol=4.18444, var=0.00435415
+send> 0
+gen by myself
+full: sum=54606.2, p=104400, sol=4.18438, var=0.00440976
+send> 1
+gen by myself
+full: sum=54658.8, p=104500, sol=4.18441, var=0.00438417
+send> 0
+gen by myself
+full: sum=54715.5, p=104600, sol=4.18474, var=0.00404997
+send> 1
+gen by myself
+full: sum=54770.8, p=104700, sol=4.18497, var=0.00381873
+send> 0
+gen by myself
+full: sum=54815.2, p=104800, sol=4.18436, var=0.0044267
+send> 1
+gen by myself
+full: sum=54870.4, p=104900, sol=4.18459, var=0.00420291
+send> 0
+gen by myself
+full: sum=54923.4, p=105000, sol=4.18464, var=0.00415089
+send> 1
+gen by myself
+full: sum=54981.6, p=105100, sol=4.18509, var=0.00370444
+send> 0
+gen by myself
+full: sum=55035, p=105200, sol=4.18517, var=0.00361944
+send> 1
+gen by myself
+full: sum=55091.4, p=105300, sol=4.18548, var=0.0033059
+send> 0
+gen by myself
+full: sum=55141.6, p=105400, sol=4.18532, var=0.00346771
+send> 1
+gen by myself
+full: sum=55195.2, p=105500, sol=4.18542, var=0.00337158
+send> 0
+gen by myself
+full: sum=55248.4, p=105600, sol=4.18549, var=0.00330491
+send> 1
+gen by myself
+full: sum=55299, p=105700, sol=4.18535, var=0.00343913
+send> 0
+gen by myself
+full: sum=55349.9, p=105800, sol=4.18525, var=0.00354454
+send> 1
+gen by myself
+full: sum=55401.1, p=105900, sol=4.18517, var=0.00362366
+send> 0
+gen by myself
+full: sum=55453.4, p=106000, sol=4.18516, var=0.0036308
+send> 1
+gen by myself
+full: sum=55507.5, p=106100, sol=4.1853, var=0.00349113
+send> 0
+gen by myself
+full: sum=55554.2, p=106200, sol=4.18487, var=0.00391569
+send> 1
+gen by myself
+full: sum=55607.3, p=106300, sol=4.18493, var=0.00385774
+send> 0
+gen by myself
+full: sum=55657.8, p=106400, sol=4.1848, var=0.00399443
+send> 1
+gen by myself
+full: sum=55709.6, p=106500, sol=4.18476, var=0.00402832
+send> 0
+gen by myself
+full: sum=55762, p=106600, sol=4.18477, var=0.00402233
+send> 1
+gen by myself
+full: sum=55819, p=106700, sol=4.18511, var=0.00367531
+send> 0
+gen by myself
+full: sum=55870, p=106800, sol=4.18502, var=0.00376868
+send> 1
+gen by myself
+full: sum=55922.8, p=106900, sol=4.18505, var=0.0037376
+send> 0
+gen by myself
+full: sum=55977, p=107000, sol=4.1852, var=0.00359059
+send> 1
+gen by myself
+full: sum=56030.2, p=107100, sol=4.18526, var=0.00352608
+send> 0
+gen by myself
+full: sum=56088.3, p=107200, sol=4.18569, var=0.00309571
+send> 1
+gen by myself
+full: sum=56143.1, p=107300, sol=4.18588, var=0.0029112
+send> 0
+gen by myself
+full: sum=56191.2, p=107400, sol=4.18556, var=0.0032282
+send> 1
+gen by myself
+full: sum=56245.4, p=107500, sol=4.1857, var=0.0030881
+send> 0
+gen by myself
+full: sum=56296.1, p=107600, sol=4.18559, var=0.00320411
+send> 1
+gen by myself
+full: sum=56352.6, p=107700, sol=4.1859, var=0.0028933
+send> 0
+gen by myself
+full: sum=56404.6, p=107800, sol=4.18587, var=0.00291908
+send> 1
+gen by myself
+full: sum=56456.8, p=107900, sol=4.18586, var=0.0029319
+send> 0
+gen by myself
+full: sum=56508.6, p=108000, sol=4.18582, var=0.00296867
+send> 1
+gen by myself
+full: sum=56561.1, p=108100, sol=4.18583, var=0.00295711
+send> 0
+gen by myself
+full: sum=56614.6, p=108200, sol=4.18592, var=0.0028711
+send> 1
+gen by myself
+full: sum=56660.1, p=108300, sol=4.18542, var=0.00337088
+send> 0
+gen by myself
+full: sum=56709.1, p=108400, sol=4.18517, var=0.0036193
+send> 1
+gen by myself
+full: sum=56758.9, p=108500, sol=4.18499, var=0.00380411
+send> 0
+gen by myself
+full: sum=56813.9, p=108600, sol=4.18518, var=0.00360788
+send> 1
+gen by myself
+full: sum=56869.4, p=108700, sol=4.18542, var=0.0033674
+send> 0
+gen by myself
+full: sum=56915.3, p=108800, sol=4.18495, var=0.00384492
+send> 1
+gen by myself
+full: sum=56967.1, p=108900, sol=4.18491, var=0.00388108
+send> 0
+gen by myself
+full: sum=57016.2, p=109000, sol=4.18467, var=0.00411842
+send> 1
+gen by myself
+full: sum=57066.8, p=109100, sol=4.18455, var=0.00424306
+send> 0
+gen by myself
+full: sum=57126.4, p=109200, sol=4.18508, var=0.00370807
+send> 1
+gen by myself
+full: sum=57179.2, p=109300, sol=4.18512, var=0.00366841
+send> 0
+gen by myself
+full: sum=57227.6, p=109400, sol=4.18483, var=0.00395841
+send> 1
+gen by myself
+full: sum=57284.4, p=109500, sol=4.18516, var=0.00362795
+send> 0
+gen by myself
+full: sum=57341.8, p=109600, sol=4.18553, var=0.00325775
+send> 1
+gen by myself
+full: sum=57396.5, p=109700, sol=4.18571, var=0.00308203
+send> 0
+gen by myself
+full: sum=57446.4, p=109800, sol=4.18553, var=0.00325734
+send> 1
+gen by myself
+full: sum=57497.1, p=109900, sol=4.18542, var=0.00337474
+send> 0
+gen by myself
+full: sum=57551.2, p=110000, sol=4.18554, var=0.00324769
+send> 1
+gen by myself
+full: sum=57604.5, p=110100, sol=4.18561, var=0.00317814
+send> 0
+gen by myself
+full: sum=57656, p=110200, sol=4.18555, var=0.00323725
+send> 1
+gen by myself
+full: sum=57711.6, p=110300, sol=4.18579, var=0.00299887
+send> 0
+gen by myself
+full: sum=57757.1, p=110400, sol=4.1853, var=0.0034944
+send> 1
+gen by myself
+full: sum=57803.8, p=110500, sol=4.18489, var=0.00389942
+send> 0
+gen by myself
+full: sum=57852.4, p=110600, sol=4.18462, var=0.00417107
+send> 1
+gen by myself
+full: sum=57904.8, p=110700, sol=4.18463, var=0.00416496
+send> 0
+gen by myself
+full: sum=57958.3, p=110800, sol=4.18471, var=0.00407523
+send> 1
+gen by myself
+full: sum=58008.4, p=110900, sol=4.18456, var=0.0042317
+send> 0
+gen by myself
+full: sum=58058.1, p=111000, sol=4.18437, var=0.00442454
+send> 1
+gen by myself
+full: sum=58113.4, p=111100, sol=4.18458, var=0.00420584
+send> 0
+gen by myself
+full: sum=58169.6, p=111200, sol=4.18487, var=0.0039233
+send> 1
+gen by myself
+full: sum=58221.9, p=111300, sol=4.18486, var=0.00392844
+send> 0
+gen by myself
+full: sum=58279, p=111400, sol=4.1852, var=0.00358597
+send> 1
+gen by myself
+full: sum=58332.7, p=111500, sol=4.1853, var=0.00348719
+send> 0
+gen by myself
+full: sum=58380, p=111600, sol=4.18495, var=0.00384231
+send> 1
+gen by myself
+full: sum=58429.3, p=111700, sol=4.18473, var=0.00405755
+send> 0
+gen by myself
+full: sum=58477.6, p=111800, sol=4.18445, var=0.00434442
+send> 1
+gen by myself
+full: sum=58529.1, p=111900, sol=4.18439, var=0.0044019
+send> 0
+gen by myself
+full: sum=58579.8, p=112000, sol=4.18427, var=0.00452005
+send> 1
+gen by myself
+full: sum=58633.1, p=112100, sol=4.18435, var=0.00444515
+send> 0
+gen by myself
+full: sum=58689, p=112200, sol=4.1846, var=0.00418801
+send> 1
+gen by myself
+full: sum=58739.8, p=112300, sol=4.18449, var=0.00430179
+send> 0
+gen by myself
+full: sum=58792.5, p=112400, sol=4.18452, var=0.00426873
+send> 1
+gen by myself
+full: sum=58842.5, p=112500, sol=4.18436, var=0.00443342
+send> 0
+gen by myself
+full: sum=58893, p=112600, sol=4.18423, var=0.00456033
+send> 1
+gen by myself
+full: sum=58942.3, p=112700, sol=4.18401, var=0.00477922
+send> 0
+gen by myself
+full: sum=58997, p=112800, sol=4.18419, var=0.00460286
+send> 1
+gen by myself
+full: sum=59050.8, p=112900, sol=4.18429, var=0.00449946
+send> 0
+gen by myself
+full: sum=59106.6, p=113000, sol=4.18454, var=0.00425368
+send> 1
+gen by myself
+full: sum=59164.4, p=113100, sol=4.18492, var=0.00386613
+send> 0
+gen by myself
+full: sum=59214.1, p=113200, sol=4.18474, var=0.00404846
+send> 1
+gen by myself
+full: sum=59262.9, p=113300, sol=4.1845, var=0.00429247
+send> 0
+gen by myself
+full: sum=59316.6, p=113400, sol=4.18459, var=0.00419808
+send> 1
+gen by myself
+full: sum=59371.2, p=113500, sol=4.18475, var=0.00403532
+send> 0
+gen by myself
+full: sum=59428.2, p=113600, sol=4.18509, var=0.00370508
+send> 1
+gen by myself
+full: sum=59480.3, p=113700, sol=4.18507, var=0.00371958
+send> 0
+gen by myself
+full: sum=59534.9, p=113800, sol=4.18523, var=0.00356079
+send> 1
+gen by myself
+full: sum=59588.2, p=113900, sol=4.1853, var=0.00349203
+send> 0
+gen by myself
+full: sum=59637.3, p=114000, sol=4.18507, var=0.00371748
+send> 1
+gen by myself
+full: sum=59690.2, p=114100, sol=4.18511, var=0.00367696
+send> 0
+gen by myself
+full: sum=59745.7, p=114200, sol=4.18534, var=0.00345172
+send> 1
+gen by myself
+full: sum=59796.3, p=114300, sol=4.18522, var=0.00357303
+send> 0
+gen by myself
+full: sum=59854.9, p=114400, sol=4.18565, var=0.00313633
+send> 1
+gen by myself
+full: sum=59910.3, p=114500, sol=4.18587, var=0.00292097
+send> 0
+gen by myself
+full: sum=59968.6, p=114600, sol=4.18629, var=0.00250095
+send> 1
+gen by myself
+full: sum=60017.7, p=114700, sol=4.18606, var=0.00272874
+send> 0
+gen by myself
+full: sum=60070.8, p=114800, sol=4.18612, var=0.0026706
+send> 1
+gen by myself
+full: sum=60126.6, p=114900, sol=4.18636, var=0.00242917
+send> 0
+gen by myself
+full: sum=60182.5, p=115000, sol=4.18661, var=0.00217948
+send> 1
+gen by myself
+full: sum=60235.8, p=115100, sol=4.18668, var=0.00211406
+send> 0
+gen by myself
+full: sum=60289.5, p=115200, sol=4.18677, var=0.00201959
+send> 1
+gen by myself
+full: sum=60340.8, p=115300, sol=4.1867, var=0.0020912
+send> 0
+gen by myself
+full: sum=60392.4, p=115400, sol=4.18665, var=0.00213955
+send> 1
+gen by myself
+full: sum=60445, p=115500, sol=4.18667, var=0.00212165
+send> 0
+gen by myself
+full: sum=60492.3, p=115600, sol=4.18632, var=0.00247405
+send> 1
+gen by myself
+full: sum=60540.6, p=115700, sol=4.18604, var=0.00274985
+send> 0
+gen by myself
+full: sum=60589.8, p=115800, sol=4.18582, var=0.00296849
+send> 1
+gen by myself
+full: sum=60646, p=115900, sol=4.18609, var=0.00269858
+send> 0
+gen by myself
+full: sum=60697.9, p=116000, sol=4.18606, var=0.00273155
+send> 1
+gen by myself
+full: sum=60755.3, p=116100, sol=4.18641, var=0.00237973
+send> 0
+gen by myself
+full: sum=60811.7, p=116200, sol=4.18669, var=0.00209715
+send> 1
+gen by myself
+full: sum=60863.7, p=116300, sol=4.18667, var=0.00212335
+send> 0
+gen by myself
+full: sum=60913.7, p=116400, sol=4.18651, var=0.00228163
+send> 1
+gen by myself
+full: sum=60970.5, p=116500, sol=4.18682, var=0.00197456
+send> 0
+gen by myself
+full: sum=61021.2, p=116600, sol=4.1867, var=0.00208644
+send> 1
+gen by myself
+full: sum=61080.5, p=116700, sol=4.18718, var=0.00160676
+send> 0
+gen by myself
+full: sum=61136.8, p=116800, sol=4.18745, var=0.00133866
+send> 1
+gen by myself
+full: sum=61190.8, p=116900, sol=4.18757, var=0.00122434
+send> 0
+gen by myself
+full: sum=61242.2, p=117000, sol=4.1875, var=0.00128804
+send> 1
+gen by myself
+full: sum=61291, p=117100, sol=4.18726, var=0.00153455
+send> 0
+gen by myself
+full: sum=61346.8, p=117200, sol=4.18749, var=0.00129601
+send> 1
+gen by myself
+full: sum=61401.5, p=117300, sol=4.18766, var=0.00113264
+send> 0
+gen by myself
+full: sum=61453.1, p=117400, sol=4.18761, var=0.00118258
+send> 1
+gen by myself
+full: sum=61506, p=117500, sol=4.18764, var=0.00114904
+send> 0
+gen by myself
+full: sum=61559.9, p=117600, sol=4.18775, var=0.00103901
+send> 1
+gen by myself
+full: sum=61615.8, p=117700, sol=4.18799, var=0.000802474
+send> 0
+gen by myself
+full: sum=61665, p=117800, sol=4.18777, var=0.0010166
+send> 1
+gen by myself
+full: sum=61712.7, p=117900, sol=4.18746, var=0.00133282
+send> 0
+gen by myself
+full: sum=61770.5, p=118000, sol=4.18783, var=0.0009623
+send> 1
+gen by myself
+full: sum=61823.6, p=118100, sol=4.18788, var=0.000905555
+send> 0
+gen by myself
+full: sum=61874.6, p=118200, sol=4.18779, var=0.000996798
+send> 1
+gen by myself
+full: sum=61930.9, p=118300, sol=4.18806, var=0.000733487
+send> 0
+gen by myself
+full: sum=61986, p=118400, sol=4.18825, var=0.000544877
+send> 1
+gen by myself
+full: sum=62043, p=118500, sol=4.18856, var=0.000233273
+send> 0
+gen by myself
+full: sum=62089.1, p=118600, sol=4.18813, var=0.000657399
+send> 1
+gen by myself
+full: sum=62140.3, p=118700, sol=4.18806, var=0.000731678
+send> 0
+gen by myself
+full: sum=62188.7, p=118800, sol=4.18779, var=0.00100088
+send> 1
+gen by myself
+full: sum=62237.8, p=118900, sol=4.18757, var=0.00121769
+send> 0
+gen by myself
+full: sum=62291.6, p=119000, sol=4.18767, var=0.00111694
+send> 1
+gen by myself
+full: sum=62345, p=119100, sol=4.18774, var=0.00104581
+send> 0
+gen by myself
+full: sum=62396.8, p=119200, sol=4.1877, var=0.00108778
+send> 1
+gen by myself
+full: sum=62451.5, p=119300, sol=4.18786, var=0.000926447
+send> 0
+gen by myself
+full: sum=62504.6, p=119400, sol=4.18791, var=0.000876287
+send> 1
+gen by myself
+full: sum=62554.7, p=119500, sol=4.18776, var=0.00102726
+send> 0
+gen by myself
+full: sum=62613.3, p=119600, sol=4.18818, var=0.000606644
+send> 1
+gen by myself
+full: sum=62670.6, p=119700, sol=4.18851, var=0.000279429
+send> 0
+gen by myself
+full: sum=62727.2, p=119800, sol=4.1888, var=4.93006e-06
+RESULT
+Solution=4.1888, Delta=4.93006e-06, Points=119800
+Time=0.425025
